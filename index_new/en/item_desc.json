@@ -1,0 +1,746 @@
+{
+    "Conqueror's Will": {
+        "desc": "Condensed anti-matter. Advanced material used for enhancement.",
+        "lore": "Highly condensed anti-matter within the body of the Voidranger: Trampler. The moment of obliteration is the trumpet call for civilizations' destruction.<br /><br />\"They are all looking forward to the moment of obliteration, when they will be reforged and fused with the entire world.\""
+    },
+    "Relic Coffret: Pan-Galactic Commercial Enterprise": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Pan-Galactic Commercial Enterprise set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Endotherm Chitin": {
+        "desc": "Hot, translucent substance almost like fire in the solid state. Can be used for the Ascension of Fire characters.",
+        "lore": "Strange chitin peeled off from an interdimensional creature. Although not piping hot anymore, it still radiates warmth.<br /><br />\"It's too cold outside. But with this gemstone on you, you'll be able to travel far and wide, even to search for cities with humans left...\""
+    },
+    "Recipe: Enhancement Paste: Lightning": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Star Rail Special Pass": {
+        "desc": "",
+        "lore": "Direct ticket for the Astral Express with coordinates of specific worlds, suitable for passengers who just want to go from point A to point B.<br /><br />\"Need to catch up with an old friend? Hop on and see the universe with him/her/it/them!\""
+    },
+    "Gaseous liquid": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "Is it fog, rain, or wind?<br />You can't tell if it's still in the container without lifting the lid.<br /><br />\"The answer my friend, is blowing in the gaseous liquid...\"<br />\"The answer is blowing in the gaseous liquid.\""
+    },
+    "Ancient Spindle": {
+        "desc": "Mechanical spindle left behind from the Old World. Normal material used for enhancement.",
+        "lore": "Once taken apart, the precision components can never be put back together. Even the maintenance veterans in Belobog's Technology Division would think twice before touching it.<br /><br />\"You idiot, the Bluecoats will only give you a few canned goods for this. Take it to Boss Svarog and you won't need to worry about food and clothing for a while.\""
+    },
+    "Key of Inspiration": {
+        "desc": "A mythical key that appears in the hands of the Meditative Scholars. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Erudition</span> characters.",
+        "lore": "It can unlock inspirations hidden deep within the conscience.<br />To take hold of the key is to grasp at the darting embers of thought that lead to the forward path.<br /><br />\"Eureka!\""
+    },
+    "Recipe: Vomit Inducing Agent": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Eye of Lightning": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "An electric ball made from captured lightning.<br />If its balance is tipped by a conductor, it emits a lightning ball.<br /><br />\"A genius in the past wanted to use Eye of Lightning to search for aliens. For this, Nous cast their gaze upon her. Not sure which is the bigger win: found aliens for real or got noticed by Nous?\""
+    },
+    "Enigmatic Ectostella": {
+        "desc": "A fathomless crystal. Ascension material for the Trailblazer.",
+        "lore": "Severed from the highest of beings, this crystal reflects ever-changing mirages. The Past and future intertwine on each of its countless facets, attempting to swallow up all observers.<br /><br />\"Civilization is but a thin sheet of ice on top of the deep dark ocean of chaos.\""
+    },
+    "Recipe: Longevity Pill of Cruelty": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Silvermane Badge": {
+        "desc": "Pin badge worn by soldiers of the Silvermane Guards. Crude material used for enhancement.",
+        "lore": "It is full of scratches from the erosion of wind and snow.<br /><br />\"In ancient times, there was only one way Silvermane Guards could retire: death.\""
+    },
+    "Worldbreaker Blade": {
+        "desc": "Broken weapon left behind by members of the Antimatter Legion. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Destruction</span> characters.",
+        "lore": "This weapon represents its owner's rank and accomplishments in the name of Destruction.<br />The owner of this weapon makes their appearance at the end of a war to fan the embers to consume the world. Regardless of the glories of the past or the blessing of its deities, this planet is destined to return to the ashes it came from, and to wither away in the depths of the starry sky.<br /><br />The bearer of this brand is tasked with purifying the world."
+    },
+    "Obsidian of Desolation": {
+        "desc": "A chunk of dark matter captured from the void. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Nihility</span> characters.",
+        "lore": "No reflections can be seen on the surface of the black prism. Not only does it suck in all the light, it seems to also absorb the wielder's emotions, leaving only a faint feeling of emptiness.<br /><br />\"...\""
+    },
+    "First Voyage's Blessing": {
+        "desc": "Use to gain <nobr>60</nobr> Trailblaze Power and a 1:1 replica.",
+        "lore": "A blessing offered to those starting their journey.<br /><br />May you embrace the skies and give the greetings of your first voyage to the endless starry seas.<br />May you cross the snowstorm and ignite an eternal flame at the end of the frigid winter.<br />The footsteps you leave behind will one day become a road upon which stars would shine."
+    },
+    "Artifex's Module": {
+        "desc": "Components used in Xianzhou's ingenium creations. Crude material used for enhancement.",
+        "lore": "The foundation of Xianzhou's ingenium technology. The smallest constituent of all machine parts. Breaking it apart would be akin to destroying the cellular structure of a living being.<br /><br />\"The Intelligentsia Guild put up a bounty of two million credits for technical plans that can flawlessly disassemble Xianzhou mechanical puppets.\"<br />\"If you know Screwllum, then these two millions are basically yours to take...\""
+    },
+    "Harmonic Tune": {
+        "desc": "A compact music box made by an unknown person. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Harmony</span> characters.",
+        "lore": "It plays a relaxing and joyful tune.<br />Even through the simplistic tune, anyone with the slightest understanding of music can tell the mastery of the composer of the piece.<br /><br />\"Grab the hands of your Family and let us dance!\""
+    },
+    "Relic Coffret: Knight of Purity Palace": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Knight of Purity Palace set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Mythus Knots": {
+        "desc": "Tier 4 Synthesis Material",
+        "lore": "To make the divine revelations of the Mythus even more mysterious, the History Fictionologists whipped up something known as Mythus Knots that contain a blend of rumors, secrets, legends, and myths. Historians would then blend such misinformation into what was supposed to be certain and rigid historical facts, with the aim to bring about a future of uncertainty for the universe. According to the History Fictionologists, the course of history is limited by the \"narrative drive\" in the minds of its observers. If something can be done to mix myths into facts, the universe will be covered in the \"mist of uncertainty,\" allowing it to escape the calamity that is doomed to happen.<br /><br />\"Scammers try to predict the future themselves, but prophets resort to higher powers.\""
+    },
+    "Relic Coffret: Belobog of the Architects": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Belobog of the Architects set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Interdimensional Leaf": {
+        "desc": "Tier 4 Synthesis Material",
+        "lore": "The gravity of the planet Arivanta is not fixed. Rather, it changes all the time according to a Bode plot due to the influence of Arivanta's three moons. Ordinary life forms cannot survive such volatility, so the planet developed its unique eco-system, in which the herbal plant Interdimensional Tree is the most famous.<br />For plants in a world where gravity is constantly subject to change, their leaves often have a hard time landing on the planet's ancient and solid ground. It is for this reason that the Interdimensional Trees tend to shake off their leaves rather late in the year. To help their leaves land, these trees, in the course of evolution, gave their leaves the ability to conduct fast short-distance warp-jumps towards the ground at frequencies that cannot be observed by naked eyes. Even so, not every leaf gets to land on the ground. Those lucky enough to make it watch others rise into the sky and burn as they are devoured by the atmosphere.<br /><br />\"Wow.\""
+    },
+    "Immersifier": {
+        "desc": "This item can be exchanged for <nobr>40</nobr> Trailblaze Power, and is used to exchange for Immersion Rewards in the Simulated Universe",
+        "lore": "This digitized Trailblaze Power can only be used in the Simulated Universe.<br /><br />\"Explore, understand, establish, and connect — that is what it means to trailblaze. Akivili may have fallen, but their legacy continues!\""
+    },
+    "Shattered Blade": {
+        "desc": "Weapon fragments left behind by members of the Antimatter Legion. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Destruction</span> characters.",
+        "lore": "This brand represents their rank and accomplishments in the name of Destruction.<br />The master of this weapon rides on a scarlet horse to ignite cities, to take peace from humankind, and to bring down nations akin to anthills.<br /><br />\"The bearer of this brand is tasked with driving peace out of nations.\""
+    },
+    "Superimposer (Custom-made)": {
+        "desc": "A special gadget made by Herta. It can Superimpose special Light Cones obtained from the Simulated Universe.",
+        "lore": "A special gadget made by Herta. Its principles are not stated.<br /><br />\"Be grateful, Trailblazer. I've prepared everything for you.\""
+    },
+    "Hard Chip of Nihility": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "A chip made of iron that seems to possess the power of the Nihility.<br />It may have been a coin that people use to buy things.<br />But apparently, as the engravings on it fade away, its value went with them.<br /><br />\"I don't know what I'm writing between these quotation marks. What's the point of this item description? My life is meaningless, so is this piece of flavor text.\""
+    },
+    "Void Cast Iron": {
+        "desc": "Horseshoe of a Voidranger: Trampler. Can be used for the Ascension of Quantum characters.",
+        "lore": "Rare horseshoe obtained when a Trampler of the Antimatter Legion is defeated. When no one is observing, it pops in and out of existence.<br /><br />\"The name of the experiment? It's just called \"Horseshoe of the Trampler\"... \""
+    },
+    "Recipe: Enhancement Paste: Physical": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Fuel": {
+        "desc": "Item used to replenish Trailblaze Power. Provides <nobr>60</nobr> Trailblaze Power.",
+        "lore": "Fuel canisters filled up with the dreams and courage of the Nameless.<br /><br />\"Idealism? I prefer to call it the observer effect and human self-actualization.\""
+    },
+    "Ancient Engine": {
+        "desc": "Mechanical engine left behind from the Old World. Advanced material used for enhancement.",
+        "lore": "It uses Geomarrow as the energy source. When powered, it spews wandering auroras, not sparkles.<br /><br />\"Only the Technology Division directly under the Supreme Guardian has access to information regarding the Old World. I lost my privileges after I was fired.\""
+    },
+    "Recipe: Enhancement Paste: Fire": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Strange Matter of Destruction": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "Strange matter that seems to possess the power of destruction.<br />Resembling fire but not quite, it is neither cold nor hot and will damage anything that comes into contact with it for over <nobr>12</nobr> seconds.<br />Could be the Antimatter Legion's version of trash.<br /><br />\"Creatures that received blessing from Nanook all have twisted appearances.\""
+    },
+    "Relic Coffret: Eagle of Twilight Line": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Eagle of Twilight Line set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Relic Coffret: Wastelander of Banditry Desert": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Wastelander of Banditry Desert set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: Energy Drink (sugar-free)": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "The Adventurous Moles: Hidden Treasure": {
+        "desc": "The on-sale collectors' edition containing the entirety of The Adventurous Moles: Hidden Treasure.",
+        "lore": "A children's adventure book very popular in Belobog."
+    },
+    "Tree Bark of Erudition": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "Dried tree bark that seems to possess the power of the Erudition.<br />Its creases tell the story of the years passed and the wisdom of nature.<br />It says a lot more when beaten into pulp used for papermaking.<br /><br />\"The wisdom of mankind is contained in this one word.\""
+    },
+    "Refined Aether": {
+        "desc": "Enhancement material for Light Cones, provides <nobr>6000</nobr> Light Cone EXP.",
+        "lore": "A canister of aether that has been extracted and distilled using special procedures.<br /><br />\"The Garden looks forward to recreating a past glory, but it is a 'past glory' selected by them. Do you understand?\""
+    },
+    "Traveler's Guide": {
+        "desc": "Experience material for characters. Provides <nobr>20,000</nobr> Character EXP.",
+        "lore": "Required reading for world exploration. Press the \"Read\" button to tune in to an attractive voice in a language you understand, telling you about the legendary encounters of renowned adventurers across different worlds as well as the precious wisdom and knowledge that they have gathered.<br /><br />\"All-new series of the Traveler's Guide, The Chef's Manual to Galactic Cuisine, is now available for purchase.\"<br />\"For submissions, please connect to synesthesia beacon ERD<nobr>-23</nobr>θ to contact an Intelligentsia Guild representative. Method of payment can be arranged to your convenience.\""
+    },
+    "Recipe: Antimatter Field Generator": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Energy Drink": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Camo Paint": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Metal": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "A substance abundant in planets' crust and the ocean.<br />Very useful, very handy.<br /><br />\"I've been to a planet where the locals consume metals to get superpowers. Please don't do that at home, as most metals are not digestible by humans.\""
+    },
+    "Relic Coffret: Firesmith of Lava-Forging": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Firesmith of Lava-Forging set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Relic Coffret: Sprightly Vonwacq": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Sprightly Vonwacq set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Quantum Ripples": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Ripples in the Sea of Quanta.<br />Although called \"ripples,\" they are in fact the most basic form of energy fluctuation.<br /><br />\"Time, there's so much time.\"<br />\"All the time there is.\""
+    },
+    "Undying Embers": {
+        "desc": "",
+        "lore": "Cold ashes of a shooting star fell from the sky.<br /><br />\"At least they were once hot and bright.\""
+    },
+    "Lightning Crown of the Past Shadow": {
+        "desc": "Headwear of the Guardian Shadows. Can be used for the Ascension of Lightning characters.",
+        "lore": "Accessory left behind by the shadow of a past Guardian, telling tales of the city of Everwinter.<br /><br />\"Svetlana the Harsh — her wrath as terrifying as thunder and her retribution as swift as lightning.\""
+    },
+    "Storm Eye": {
+        "desc": "Arrows belonged to a Stormbringer. Can be used for the Ascension of Wind characters.",
+        "lore": "Used to belong to a certain Fragmentum monster modeled after a certain kind of Voidrangers. An arrowhead can be barely seen buried in the center of the vortex.<br /><br />\"Those who perish in the Fragmentum shall rise again where they met their demise.\""
+    },
+    "Self-Modeling Resin": {
+        "desc": "Rare material used to custom-make Relics. It can model itself according to expectations.",
+        "lore": "This unknown resin is as smooth to the touch as finely-grained dust. It seems to be from the Fragmentum, and has been shaped into the form of a wish by an invisible hand.<br /><br />\"Based on the Guild's research, the Self-Modeling Resin may be the basis of the Fragmentum's capacity to replicate entities...\""
+    },
+    "Ability Point": {
+        "desc": "Indescribable materials used to unlock abilities in the Simulated Universe.",
+        "lore": "A number you can accumulate or spend to strengthen Support systems in the Simulated Universe.<br /><br />\"It even took Screwllum two system hours to develop an anti-cheat module.\""
+    },
+    "Immortal Aeroblossom": {
+        "desc": "New flowers blooming out of an ancient divine construct. Normal material used for enhancement.",
+        "lore": "The source of the Xianzhou long-life species' \"Endless Lifespan.\" The remnants of the Aeon of Abundance's influence. After endless trials, the fleet seeking the medicine of immortality was able to behold the visage of the celestial being. The divine one cast down its blessings in material form, and the Ambrosial Arbor sprouted its leaves.<br /><br />\"New buds descend into the moon, divine flowers bloom by the clouds. In the blink of a blossom's life, old wood returns to youthful grove.\""
+    },
+    "Herta Contract: Trailblaze Aid": {
+        "desc": "A mutual aid contract between Herta and the Express. She will help the Express whenever she can, in exchange for treasures found during the Trailblaze.",
+        "lore": ""
+    },
+    "Credit": {
+        "desc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.",
+        "lore": "\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\""
+    },
+    "Arrow of the Starchaser": {
+        "desc": "A shard of the Sky-Shattering Lux Arrow shot by the Reignbow Arbiter. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Hunt</span> characters.",
+        "lore": "The remains of a divine construct that ordinary humans can rarely behold. What kind of force can shatter stars that are light-years away? Humanity can only imagine the power of the Lux Arrow from the ashes it left behind.<br />Only the Furnace Master, chief of the Xianzhou artisans, has the rights to reforge the shards for those who are worthy.<br /><br />\"The death of a star shall shine bright for ages to come.\""
+    },
+    "Oneiric Shard": {
+        "desc": "",
+        "lore": "Lights flicking in a sea of stars, stirring the dream of a Leviathan. The past turns into candles that light the darkness ahead."
+    },
+    "Recipe: Punitive Food": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Sprout of Life": {
+        "desc": "A young sprout emerging from the Seed of Abundance. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Abundance</span> characters.",
+        "lore": "Radiating warmth, life and growth flourish around the place where it sinks its roots. Barren wastelands turn into luscious grass fields, withered plants rejuvenate and blossom, and springs burst through the ground to moisten the land.<br />As you get closer to it, your muscles and bones twitch and propagate with an unbearable itch.<br /><br />\"Life is unfailing where the soul abounds.\""
+    },
+    "Gelid Chitin": {
+        "desc": "Frosty chitin emitting a cold humming. Can be used for the Ascension of Ice characters.",
+        "lore": "Strange chitin peeled off from an interdimensional creature. Although not freezing cold anymore, it remains trebling, absorbing heat from its surroundings.<br /><br />\"How has no one thought of selling it to worlds where they don't have air conditioners? It works like an air conditioner and sounds as loud as one, too.\""
+    },
+    "Relic Coffret: Passerby of Wandering Cloud": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Passerby of Wandering Cloud set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Honor Badge (Unopened)": {
+        "desc": "An unopened treasure. Use it to upgrade the Nameless Glory to the Nameless Medal.",
+        "lore": ""
+    },
+    "Trailblaze EXP": {
+        "desc": "A measure of your Trailblaze Progress. Accumulate Trailblaze EXP to increase Trailblaze Level.",
+        "lore": "\"I came, I saw, I trailblazed.\""
+    },
+    "Relic Coffret: Space Sealing Station": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Space Sealing Station set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: Trick Snack": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Rice Plant Panicle": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Relic Coffret: Band of Sizzling Thunder": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Band of Sizzling Thunder set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Star of Honor": {
+        "desc": "Virtual goods from Cosmic Warfare. Collect enough of them to receive rewards.",
+        "lore": ""
+    },
+    "Recipe: Healing Spray": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Preservation Construction Material": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "Construction materials that seem to possess the power of the Preservation.<br />When mixed with water it forms a paste, when exposed to air it turns rock-hard.<br />Please do not use together with Solid Water.<br /><br />\"I regret to say that Intelligentsia Guild's research on the material used to build the Subspace Crystalline Barrier by Amber Lord still needs time to reveal its nature.\"<br />\"I'm sure it's not cement — am I right, Taravan?\""
+    },
+    "Relic Coffret: Thief of Shooting Meteor": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Thief of Shooting Meteor set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: Enhancement Paste: Quantum": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Comfort Food": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Guardian's Lament": {
+        "desc": "Advanced level-up material for Traces.",
+        "lore": "Together with this visor, the twisted wish of a Guardian also lies broken.<br />She had wanted to find a way out for her people to escape the Everwinter, but ended up becoming a puppet of a consciousness beyond her.<br /><br />\"Supreme Guardian, the title passed down to generations of Belobog's rulers, the one who looked after all the people — It never occurred to anyone that the Guardians themselves also long for care and protection.\""
+    },
+    "Extinguished Core": {
+        "desc": "The heart of a monster wandering the Fragmentum. Crude material used for enhancement.",
+        "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />A heavy blow has caused this heart to stop beating and lose its luster.<br /><br />\"Preliminary tests indicate it's some kind of hybrid: one half is primordial, and the other half is something very similar to Stellarons.\" — Department of Biology, Sarah Castro"
+    },
+    "Glimmering Core": {
+        "desc": "The heart of a monster wandering the Fragmentum. Normal material used for enhancement.",
+        "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />The heart is glimmering and the veins on it indicate it's still alive.<br /><br />\"What kind of monster is this? Did you see it... Its face! It has the face of our previous leader!\""
+    },
+    "Stone of The Hunt": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "Small stone with the power of The Hunt.<br />As if guided by someone's will, it moves by itself towards a certain direction.<br />Sounds like what a magnet would do? I assure you it is not.<br /><br />\"The destination lies where my arrow is heading.\""
+    },
+    "Relic Coffret: Celestial Differentiator": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Celestial Differentiator set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: High-Tech Protective Gear": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Topological Acceleration Band": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Enhancement Paste: Wind": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Strale": {
+        "desc": "The internal currency of the Xianzhou Alliance with strales as its basic monetary unit. Can be used to purchase goods in Special Stores.",
+        "lore": "The Xianzhou strales has long been digitized before Xianzhou's interactions with the IPC ever happened. However, there are some collectors who still kept the Celest-Gold coins minted when the Alliance first came into existence. Shaped like the tip of an arrow or a narrow leaf, it seems to allude to the past and future of that civilization."
+    },
+    "Sparse Aether": {
+        "desc": "Enhancement material for Light Cones, provides <nobr>500</nobr> Light Cone EXP.",
+        "lore": "An imaginary substance that shouldn't exist in reality. The basic material to create Light Cones.<br />The images contained in the Light Cones become clearer when infused with this substance.<br /><br />\"I see, so this is the supposed 'Sentiention' of the Garden of Recollection. No wonder the Memokeepers can set off on galactic voyages with memories.\""
+    },
+    "Endurance of Bronze": {
+        "desc": "A crude but durable ancient hand-held bronze shield. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Preservation</span> characters.",
+        "lore": "Ancient legends entail a war where humans exhausted all primitive methods, following the gods into battle against overwhelmingly powerful beasts.<br />This shield is a witness to that war.<br /><br />\"There's no choice but to stop it, even if the efforts are futile.\""
+    },
+    "Recipe: Bottled Soda": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Diet Fried Rice": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Relic Coffret: Talia — Kingdom of Banditry": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Talia — Kingdom of Banditry set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Relic Coffret: Hunter of Glacial Forest": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Hunter of Glacial Forest set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Phase Flame": {
+        "desc": "Tier 4 Synthesis Material",
+        "lore": "Sserkal, #29 of the Genius Society, only lived <nobr>29</nobr> days by human measures of time. Despite that, she put her short life as a spider to good use, inventing new technologies that would have taken the spider-kind thousands of years to develop. Of all her inventions, the most famous must be the technique known as Phase Change.<br />What people don't know is that this technique was first applied to experiments with ions. She successfully created Phase Flame, which almost immediately changed to another phase. By the time the Flame returned to the Sserkal Phase, our genius had already passed away. She tried to harness the Flame but had too little time to do so. Thus, the Phase Flame continued to change between phases across different worlds, leaving behind the seeds of flame.<br /><br />\"Sserkal's life was remarkable. She was smart, kindhearted, and above all, humble. She remained curious and inquisitive, asking her final question in the club on the last day of her life, the answer to which has not been found to this day.\""
+    },
+    "Artifex's Gyreheart": {
+        "desc": "Components used in Xianzhou's ingenium creations. Advanced material used for enhancement.",
+        "lore": "The core of Xianzhou's ingenium technology. The armillary sphere roils and vibrates like the essence of a heart, making the machine think like a living being.<br /><br />\"Do not be startled. Taking away its heart would make him... her?... No, make it lose its sentience and return to its mechanical sources.\""
+    },
+    "Destroyer's Final Road": {
+        "desc": "Advanced level-up material for Traces.",
+        "lore": "The Leviathan's heart has stopped beating, but its mind lives on despite being trapped in a case. As long as the lid is closed, its mind is simultaneously both alive and dead, driving the engine of destruction.<br /><br />\"Doomsday Beast, a blight made in the Warforge using what's left of a Leviathan and the weeping bones of thousands of the dead. It longs for the destruction of the universe and itself.\""
+    },
+    "Condensed Aether": {
+        "desc": "Enhancement material for Light Cones, provides <nobr>2000</nobr> Light Cone EXP.",
+        "lore": "A can of Aether refined through special techniques.<br /><br />\"Handle with care, do not drop or place pressure upon it. If damages and leaks occur, please refer to chapter II of the Leak Disaster Response Manual for emergency response.\""
+    },
+    "Protein Rice": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Nature's gift to human society, friend of mankind, savior of lives.<br />Smooth as egg white and full of protein.<br /><br />\"Every grain costs sweat and blood.\""
+    },
+    "Shield": {
+        "desc": "The official currency circulating in Belobog. Can be used to purchase goods in Special Stores.",
+        "lore": "After a long era of blockades, the Overworld and Underworld denizens of Belobog have developed vastly different standards for currency.<br />The current exchange rate of shield to credits is now 1:<nobr>50</nobr>... Speaking of, why are credits still an official currency of Belobog? It seems people have already forgotten the answer to this question."
+    },
+    "Herta Contract: Fuel Refill": {
+        "desc": "A mutual aid contract between Herta and the Express. She will help the Express whenever she can, in exchange for treasures found during the Trailblaze.",
+        "lore": ""
+    },
+    "Nameless Medal (Unopened)": {
+        "desc": "An unopened treasure. Use to gain the effect equivalent to purchasing Nameless Medal once.",
+        "lore": ""
+    },
+    "Horn of Snow": {
+        "desc": "Broken horn of a Frigid Prowler. Can be used for the Ascension of Ice characters.",
+        "lore": "The Silvermane Guards would host contests where the winner must take a body part from a monster and bring it back within a set time limit. This cold broken horn must have been a trophy of one such contest.<br /><br />\"Sir Bova, this is no moose horn and is certainly not fit for decoration above the Geomarrow furnace.\""
+    },
+    "Trailblaze Timer": {
+        "desc": "Permanently increase max Technique Points by 1.",
+        "lore": "The Relic of a Nameless. An item that might have been a pocket watch or a compass.<br />It is said that the first part to break was the chain. It suddenly snapped during a warp jump, the links scattering everywhere.<br />Then, it was the back. Hit by a lead bullet, it was on the verge of falling apart.<br />Lastly, it was the markings on the face. They were gradually worn flat over the long years, becoming no longer visible.<br />It broke countless times and underwent endless repairs. Its former shape was no longer discernible, and only the stilled sharp hands were pointing ever forward.<br /><br />Take it, Legwork. It's yours now... Then, continue onward..."
+    },
+    "The Nameless EXP": {
+        "desc": "Used to increase Nameless Honor levels.",
+        "lore": "Accept the gifts of those who came before and begin your own trailblazing expedition.<br /><br />\"Experience often comes at a cost, but that is why they are irreplaceable.\""
+    },
+    "Travel Encounters": {
+        "desc": "Experience material for characters. Provides <nobr>1000</nobr> Character EXP.",
+        "lore": "A travel diary with messy handwriting and random content. It's not of much use to you.<br /><br />\"Dan Heng, hurry up and finish reading it so you can throw it away.\""
+    },
+    "Arrow of the Beast Hunter": {
+        "desc": "An arrowhead forged with Frost Steel by the craftsmen of Xianzhou. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Hunt</span> characters.",
+        "lore": "A gift that parents give to their children who've successfully hunted their first prey at their coming of age ceremony. It is a blessing that their life would be as successful and true as an arrow heading towards its mark.<br /><br />\"May the arrow on your waist and the sword in your sheath stay true and always find its target.\""
+    },
+    "Recipe: Inferior Protective Gear": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Lost Essence": {
+        "desc": "Enhancement material for Relics. Provides <nobr>2000</nobr> Relic EXP.",
+        "lore": ""
+    },
+    "Star Rail Pass": {
+        "desc": "",
+        "lore": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br /><br />\"Map worlds, meet people, make memories.\""
+    },
+    "Relic Coffret: Champion of Streetwise Boxing": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Champion of Streetwise Boxing set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: Tasty Field Nutrient Bar": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Arrow of the Demon Slayer": {
+        "desc": "An arrowhead forged with Stellaris Essence by the craftsmen of Xianzhou. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Hunt</span> characters.",
+        "lore": "An arrow narrower than a finger's width. It can be loaded into an electromagnetic crossbow or a thermal seeking bow as ammunition. Its power is enough to penetrate the tough shells of abominations with just one strike.<br /><br />\"The celestial banished arrives from afar, great distances journeyed 'twixt oceans of stars. Like rain falls a cloudburst of arrows below, in a helmet reflected the bright lunar glow.\""
+    },
+    "Nameless Glory (Unopened)": {
+        "desc": "An unopened treasure. Use to gain the effect equivalent to purchasing Nameless Glory once.",
+        "lore": ""
+    },
+    "Virtual Particle": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Tiny particles commonly found in the universe but cannot be observed in theory.<br />Scientists are good at transforming theories into reality.<br /><br />\"I've got a virtual particle and an anti virtual particle here. How do we turn them into a real particle and a real antiparticle? Now, look closely...\""
+    },
+    "Tracks of Destiny": {
+        "desc": "Advanced level-up material for Traces.",
+        "lore": "Your victory is secured by countless failures, and the small steps you have taken led you to the turning point of fate."
+    },
+    "Herta Bond": {
+        "desc": "A reward from the Simulated Universe. Can be used to buy items from Herta's Store.",
+        "lore": ""
+    },
+    "Key of Wisdom": {
+        "desc": "A mythical key that appears in the hands of the greatest prodigies of the galaxy. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Erudition</span> characters.",
+        "lore": "This is the proof of invitation to the halls of the Nous Temple.<br />Finding the door of which this key opens is a far more arduous task than obtaining the key itself. Those who pass through the doors will immediately realize the impossibility of returning to this side.<br /><br />\"The Erudition does not have answers to the universe, but it will teach you how to ask the right questions.\""
+    },
+    "Squirming Core": {
+        "desc": "The heart of a monster wandering the Fragmentum. Advanced material used for enhancement.",
+        "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />The heart is pulsating slowly, with a residual force powerful enough to cause a new calamity. It's best to destroy it to prevent further troubles.<br /><br />\"It's like a cancer...\""
+    },
+    "Recipe: Enhancement Paste: Imaginary": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Relic Coffret: Inert Salsotto": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Inert Salsotto set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Shape Shifter's Lightning Staff": {
+        "desc": "A wooden staff with a pointed tip. It belonged to a shape shifter from the Disciples of Sanctus Medicus. Can be used for the Ascension of Lightning characters.",
+        "lore": "According to ancient Xianzhou records, those who have ascended can summon lightning and command the wind. The Disciples of Sanctus Medicus claimed to have inherited the way of the gods. By demonstrating godly power, the disciples gathered large numbers of worshipers in secret. Branches of lightning coil around this wooden staff — could it be that the disciples were indeed no mere mortals?<br /><br />\"The mortal body is but an illusion. Truth is only revealed to those who choose to ascend.\""
+    },
+    "Ancestral Hymn": {
+        "desc": "A music box made by an unknown person. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Harmony</span> characters.",
+        "lore": "It plays a hymn sung by a small band.<br />It is impossible to find out to whom the lyric of the hymn sends its praise.<br /><br />\"Penury, trial of the Great One! Wealth, grace of the Great One!\""
+    },
+    "Treasure of the Starry Seas": {
+        "desc": "A treasure left by the Nameless. Select one Light Cone of your choice.",
+        "lore": "Treasure hidden amongst the starry seas by the bygone Nameless. These items encourage future explorers to step onward bravely and ceaselessly."
+    },
+    "Lifeless Blade": {
+        "desc": "Weapon remnants left behind by members of the Antimatter Legion. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Destruction</span> characters.",
+        "lore": "This brand represents their rank and accomplishments in the name of Destruction.<br />The master of this weapon carries a strong hatred for all sentient beings. They relish in the lament of intelligent beings as sweet melodies and topple civilizations with millennia of history in the blink of an eye.<br /><br />\"The bearer of this brand is tasked with stopping breath among the living.\""
+    },
+    "Slime of Harmony": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "A torus that seems to possess the power of the Harmony.<br />It only has one surface. No matter where you depart, you're destined to not reach your destination.<br />A tiny complaint would be that it is a bit sticky, as if it does not want to let you go.<br /><br />\"All are connected and the wind of blessing breathes across the lands!\""
+    },
+    "Meteoric Alloy": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Resilient meteoric ironsand.<br />Its tenacity is far superior to solid boulders.<br /><br />\"Let's grab as much as we can. Qlipoth will need them.\"<br />\"I have no idea whether the Aeon need them or not. All I know is that the IPC will pay big bucks for them.\""
+    },
+    "Recipe: Disposable Shield": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Golden Crown of the Past Shadow": {
+        "desc": "Headwear of the Decaying Shadow. Can be used for the Ascension of Imaginary characters.",
+        "lore": "Accessory left behind by the shadow of a past Guardian, telling tales of the city of Everwinter.<br /><br />\"Alina the Loving — her kindness as lofty as the sky and her compassion as brilliant as gold.\""
+    },
+    "Seed": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "Reproductive unit unique to plants.<br />Most of them symbolize life, some of them taste pretty good.<br /><br />\"Sow in the spring, harvest in the Autumn.\""
+    },
+    "Achievement Points": {
+        "desc": "Every step of your journey leads to something bigger.",
+        "lore": "\"The definition of success is broader than conquering a formidable foe or touching the stars. Success is every time you achieve something you've never done before.\""
+    },
+    "Phlogiston": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "Particles that form the flame.<br />Genius Society #2 Harald Punch proved its existence, but #3 Nyul Iman disproved it.<br />#7 Bohdan overthrew Iman's conclusion and proved it again before getting killed by #4 Polka Kakamond days after announcing Phlogiston's existence.<br /><br />\"Does it exist or not? We're not interested, frankly speaking.\""
+    },
+    "Pixel Warhead": {
+        "desc": "Necessary item for Encirclement. Consumes 1 each use and will regenerate over time.",
+        "lore": ""
+    },
+    "Stellar Jade": {
+        "desc": "",
+        "lore": "A fleeting gleam arrowing across the night sky. Catch it before it's gone. Maybe it can be used to barter?<br /><br />\"Some say that the lights are wishes of sentient beings. While insignificant and elusive, they did light up the pocket of sky around them, right?\""
+    },
+    "Recipe: Ruby Potion": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Simple Protective Gear": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Enhancement Paste: Ice": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Relic Remains": {
+        "desc": "Material salvaged from Relics.",
+        "lore": "Broken parts of a relic that is one step away from decomposing into the Lightdust floating in the Fragmentum.<br /><br />\"Don't take them for mere scraps. I can restore them to their original state.\""
+    },
+    "Lost Lightdust": {
+        "desc": "Enhancement material for Relics. Provides <nobr>100</nobr> Relic EXP.",
+        "lore": "Lightdust permeated the Fragmentum, carrying what seems to indicate the existence of another civilization.<br /><br />\"Theosophy holds that the database used to store information of the material world is called the Akasha Records. I don't necessarily support this, but... these dust indeed store information from the past. They are like... seeds? When you water them, they can yield bountiful fruit.\""
+    },
+    "Silvermane Insignia": {
+        "desc": "Military rank insignia worn by captains of the Silvermane Guard. Normal material used for enhancement.",
+        "lore": "Maybe it's a proof of heroics that you can brag about to your family. Maybe it's a lucky charm that protects you from a bullet.<br /><br />\"Times have changed.\""
+    },
+    "Feather of Flame": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Warm dark feather with a weak ember at its tip.<br />Sparks trail the feather as it's waved around.<br /><br />\"The legend of the Phoenix spreads far throughout the entire universe...\""
+    },
+    "Thief's Instinct": {
+        "desc": "A small amount of anti-matter. Crude material used for enhancement.",
+        "lore": "A small amount of anti-matter that emanates out of the Voidranger: Reaver like the materialization of its destructive instinct.<br /><br />\"They are all looking forward to the moment of obliteration, when they will be reforged and fused with the entire world.\""
+    },
+    "Immortal Scionette": {
+        "desc": "New and young shoot budding from an ancient divine construct. Crude material used for enhancement.",
+        "lore": "The source of the Xianzhou long-life species' \"Endless Lifespan.\" The remnants of the Aeon of Abundance's influence. Countless years ago, a sovereign's hubris for immortality caused the Xianzhou fleet to sail into the sea of outer space to seek divine recipes.<br /><br />\"We desire to live for endless ages and maintain the empire for all eternity. Unfortunately, human lives have limits and human capacity has its ends. Thus, we send nine Navium Astriger to sail beyond the sky, seeking divine recipes for immortality.\""
+    },
+    "Gift of the Pathstriders": {
+        "desc": "Gifts between Pathstriders. Select one material of your choice.",
+        "lore": "Your companions would eventually reach their own ends. Hopefully, this gift can accompany you on an even longer journey."
+    },
+    "Cosmic Fragment": {
+        "desc": "A unique currency obtained through exploring Simulated Universe. Will be cleared after Simulated Universe is restarted.",
+        "lore": "File fragments generated when the Simulated Universe is running. When they pile up, the performance of Simulated Universe will be significantly affected.<br /><br />\"Sort them regularly. In return, the admin can perhaps change your stats every now and then.\""
+    },
+    "EXP": {
+        "desc": "The depths of memory, proof of growth.",
+        "lore": "\"I am not Fuli... I only believe in myself, for the path of immortality never ends.\""
+    },
+    "Basic Ingredients": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "Ingredients that keep you fed but taste less than ideal.<br />Not particularly good, but keep you fed.<br /><br />\"Can I eat it? Is it good? What do I eat it with?\""
+    },
+    "Relic Coffret: Genius of Brilliant Stars": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Genius of Brilliant Stars set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Hertareum": {
+        "desc": "The cryptocurrency circulating internally in the Herta Space Station. Can be used to purchase goods in Special Stores.",
+        "lore": "Hertareum was planned as a digital currency, but eventually settled as a physical currency.<br />It's worth mentioning that even though Hertareum coins don't contain any precious metal components, the high-definition silhouette Non-Fungible Token contained inside it is much more valuable than any of them."
+    },
+    "Mechanical Parts": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Essential components of all machines with strange shapes and specific functions.<br />Without them, nothing can be made.<br /><br />\"With the same parts, Screwllum can make entire planets and create cyborgs. But you can only make me a watch that runs seven seconds late every day.\"<br />\"Seven seconds is good enough! Just a hair later than the clocks they use in observatories.\""
+    },
+    "Solid Water": {
+        "desc": "Tier 1 Synthesis Material",
+        "lore": "Compound composed of hydrogen and oxygen, essential to support carbon-based life. <br />Keeping it in the solid state makes it easy to carry.<br /><br />\"...Isn't it ice?\"<br />\"No, no, no. Ice is ice, this is water, just in the solid state.\"<br />\"...Isn't that the definition of ice?\""
+    },
+    "Oath of Steel": {
+        "desc": "A shield forged with irreplaceable craftsmanship from an unknown alloy. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Preservation</span> characters.",
+        "lore": "It may be a large shield, but it feels as light as a feather. Even after taking on a full charge, no marks can be seen on the face of the shield.<br />Ancient legends tell of a war where high-spirited warriors wielded deathray-beaming spears and shields forged of Frost Steel, defended a nation destined to falter in the face of war.<br />This shield is a witness to that war.<br /><br />\"Powerful voices chant: 'The enemies are at our gates!'\""
+    },
+    "Key of Knowledge": {
+        "desc": "A mythical key that appears in the hands of the sages of the worlds. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Erudition</span> characters.",
+        "lore": "It can unlock the mysteries binding the truth of the world and grants knowledge beyond the understanding of humans.<br />No matter how the wielder attempts to display their possession of the key, no one but themselves can see its form. Some people believe that to be a gift from the heavens, while others think it's a sign of mental disorder.<br /><br />\"I had a dream of molecules coiling up into a loop like a snake biting its own tail. I woke up realizing that this is the answer I've been looking for all along!\""
+    },
+    "Tear Crystal of Glorious Death": {
+        "desc": "Tier 4 Synthesis Material",
+        "lore": "A Mourning Actor took a gondola and rowed towards a silent world of barrenness, humming an elegy for civilizations long gone. Not a single soul could be found at the site of the doomsday battlefield, but like nacre, the world that had turned into ashes gave birth to pearls of sorrow. The ghosts of the past condensed into clouds and rained down crystals like teardrops. The Actor held a fine grain of such crystal in hand and immediately heard in a dream the glorious chorus of civilizations at their height — heroes with godly might, starships like towering mountains, the whimper of stars, and the rage of the enemy. The Actor became restless in sleep, dragged into silent dreams.<br /><br />\"Every single joy I had in my dreams breaks my heart.\""
+    },
+    "Stellaris Symphony": {
+        "desc": "A music box with complex structures made by an unknown person. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Harmony</span> characters.",
+        "lore": "It plays a powerful galactic symphony.<br /><br />\"Some astronomers believe that the revolutions of the heavenly spheres work the same as complex mechanical structures. The crystal clear and pleasant notes emitted during the movements of the stars are known as the 'Harmony of the Heavenly Spheres.'\""
+    },
+    "Recipe: Yucky Fried Rice": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Stone from the Everwinter Monument": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Trailblaze Power": {
+        "desc": "A complex power hidden in the engines of the Astral Express that protects travelers on the Trailblaze path.",
+        "lore": "\"Explore, understand, establish, and connect — that is what it means to trailblaze. Akivili may have fallen, but their legacy continues!\""
+    },
+    "Recipe: Life Transmitter": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Core of Ice": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "Shattered ice fallen from the stars.<br />The frosty mist it emits when removed from a specialized canister looks like the breath of wintertime.<br /><br />\"Zoom in on a snowflake <nobr>100</nobr> times and behold the wonder of nature.\""
+    },
+    "Ancient Part": {
+        "desc": "Mechanical part left behind from the Old World. Crude material used for enhancement.",
+        "lore": "Despite its size, it was cast and polished in a way that people today would struggle to replicate.<br /><br />\"A small screw in the Old World is stronger than our armor.\""
+    },
+    "Recipe: Disposable Kinetic Arm": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Relic Coffret: Musketeer of Wild Wheat": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Musketeer of Wild Wheat set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Recipe: Simple First-Aid Device": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Ambergris of Abundance": {
+        "desc": "Tier 3 Synthesis Material",
+        "lore": "Jelly-like substance that contains the power of Abundance.<br />Firm but not stiff, with notes of fragrance, it fills your heart with hope the moment it touches your fingertip.<br />Do not ask what it's made of.<br /><br />\"It gives you longevity and abundance, dispelling misfortune and illness.\""
+    },
+    "Silvermane Medal": {
+        "desc": "Medal of honor worn by soldiers of the Silvermane Guards with gallant and meritorious service. Advanced material used for enhancement.",
+        "lore": "A proof of honor awarded to those that fought against Fragmentum creatures, Underworlders, and sudden disasters.<br />It is not usually pinned onto the recipient's chest, but rather placed onto his coffin.<br /><br />\"Remember, young Gepard. It is not a toy: it is the destiny and blood of the Landau family.\""
+    },
+    "Recipe: Dust of Alacrity": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Recipe: Cosmic Fried Rice": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Lucent Afterglow": {
+        "desc": "Exchange for Light Cones at the Express's Messenger",
+        "lore": "An aftermirage of bygone days, invaluable to the Garden of Recollection.<br /><br />The Garden of Recollection has its own rules: Exchange time for time and memory for memory. The Garden of Recollection can even bring back to you a lost, irrevocable past for the right cost..."
+    },
+    "Lost Crystal": {
+        "desc": "Enhancement material for Relics. Provides <nobr>1000</nobr> Relic EXP.",
+        "lore": ""
+    },
+    "Obsidian of Obsession": {
+        "desc": "A sizable piece of dark matter captured from the void. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Nihility</span> characters.",
+        "lore": "The weak-minded and soft-willed will spend their eternity in chaos from just a simple glance into the prism.<br /><br />\"         \""
+    },
+    "Seed of Abundance": {
+        "desc": "A seed of blessing sown by the Aeon of Abundance. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Abundance</span> characters.",
+        "lore": "Those who come in contact with it are slowly healed of their wounds and illnesses.<br />People who pray for the blessing of life while in despair will always have their prayers answered.<br /><br />\"You shall be granted what you ask for.\""
+    },
+    "Lost Gold Fragment": {
+        "desc": "Enhancement material for Relics. Provides <nobr>500</nobr> Relic EXP.",
+        "lore": "Carefully collected Fragmentum dust with irregular shapes. Under the right conditions, they can express specific forms of relics.<br /><br />When the stars return to the right position... Ha! Just kidding."
+    },
+    "Relic Coffret: Fleet of the Ageless": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Fleet of the Ageless set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Safeguard of Amber": {
+        "desc": "An unusual shield embedded with ambers mined from beyond the skies. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Preservation</span> characters.",
+        "lore": "The wielder of this shield is seemingly protected by an invisible shield wall, immune to fiery arrows or mountainous claws.<br />Ancient legends entail a war where a tribal hero wielding a bronze shield charged to their death against a Leviathan, together with warriors armed with fiery spears.<br />This shield is a witness to that war.<br /><br />\"Do not cross the line.\""
+    },
+    "Express Supply Pass": {
+        "desc": "",
+        "lore": "Provisions prepared by the Express for Trailblazers. Claim with pass.<br /><br />\"Dear conductor, can we not punch holes in the cards? I want to collect a whole collection of them.\""
+    },
+    "Recipe: Wrathful Gauntlets": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Grand Gift of the Pathstriders": {
+        "desc": "Gifts between Pathstriders. Select one rare material of your choice.",
+        "lore": "Your companions would eventually reach their own ends. Hopefully, this gift can accompany you on an even longer journey."
+    },
+    "Undying Starlight": {
+        "desc": "",
+        "lore": "Splendid gems formed when a shooting star fell from the sky.<br /><br />\"Precious things stay precious.\""
+    },
+    "Relic Coffret: Guard of Wuthering Snow": {
+        "desc": "A device used to collect and restore the Lightdust in the Fragmentum to its original form. Use this to obtain a random 5-star relic from the Guard of Wuthering Snow set.",
+        "lore": "You never know what's in the box until you open it.<br /><br />\"So it's essentially like buying a lottery ticket?\"<br />\"At least we don't need to worry about finding a cat that is both dead and alive.\""
+    },
+    "Broken Teeth of Iron Wolf": {
+        "desc": "Fragmented saw teeth left behind by automatons. Can be used for the Ascension of Physical characters.",
+        "lore": "It is said that the smelting techniques of the Architects allowed them to make chainsaws sturdy enough to split giant boulders. Such techniques have been long lost to history.<br /><br />\"Boss Svarog says its blade is so thin that it can cut into the gap between molecules... What are molecules?\""
+    },
+    "Recipe: Punitive Energy": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Vortex of Wind": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "The eye of the storm remains stagnant.<br />Even when put in vacuum, the grains involved in the vortex continue to revolve around the eye of the storm.<br /><br />\"Look, they won't stop no matter what happens. They just keep whirling. You know what that reminds me of?\"<br />\"Trailblazing!\"<br />\"...That's right, Pom-Pom. Promise me that our trailblazing journey will never come to a stop.\""
+    },
+    "Flower of Eternity": {
+        "desc": "A gorgeous flower blooming from the Sprout of Life. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Abundance</span> characters.",
+        "lore": "The stamen contains the concentrated power of the Path of Abundance, ensuring the flower's ever-lasting vitality. No fire, ice, or any harshness can hinder the growth of this magnificent life form.<br />Given time, its leaves shall feed upon starlight. Its roots shall burrow into the flesh of every being of this world, all-connected, never-perishing. Its fruits shall fulfill the promise of immortality.<br /><br />\"There be giant ships, eclipsing mountains, drifting over the void. Upon them grows the undying tree. Its consumption grants immortality.\""
+    },
+    "Recipe: Disposable Kinetic Cannon": {
+        "desc": "A simple equation. When entered into the Synthesizer, it will unlock a new recipe.",
+        "lore": ""
+    },
+    "Immortal Lumintwig": {
+        "desc": "Deciduous twigs from an ancient divine construct. Advanced material used for enhancement.",
+        "lore": "The source of the Xianzhou long-life species' \"Endless Lifespan.\" The remnants of the Aeon of Abundance's influence. After the Three Sufferings, Xianzhou laid in devastation. The Homo celestinae fell as demons, and catastrophes occurred ceaselessly.<br /><br />\"As decreed by the Ten-Lords Commission, all who are near the mara-struck state will be seized by the infernal judges and cast into the Shackling Prison.\""
+    },
+    "Obsidian of Dread": {
+        "desc": "A fragment of dark matter captured from the void. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; text-align:center; font-weight:bold;\">Nihility</span> characters.",
+        "lore": "Nothing can prove its noumenon.<br />Touch gently to hear an unclear murmur from the shard.<br /><br />\"████ ██ █ █\""
+    },
+    "Adventure Log": {
+        "desc": "Experience material for characters. Provides <nobr>5000</nobr> Character EXP.",
+        "lore": "A neatly organized collection of educational adventure notes containing countless illustrations and texts entailing adventures from beginning to end, as well as valuable information and survival-related techniques.<br /><br />\"Why not just digitize it and save it on a photolith disk? That'd be much more convenient.\"<br />\"Advanced technology is far more fragile than you'd think when faced with stellar storms and neuron flow eruptions. Besides, I'm sure the author of this book wanted people to read it in the simplest of ways.\""
+    },
+    "Gift of the Stars": {
+        "desc": "A fine-looking envelope containing a custom-made ticket.",
+        "lore": "\"Look for yours among the stars.\""
+    },
+    "Artifex's Cogwheel": {
+        "desc": "Parts of the Xianzhou machines. Normal material used for enhancement.",
+        "lore": "The connective components used in Xianzhou's ingenium technology. The intricate and thin teeth of the cogwheels are as minute as mustard seeds, and yet are interconnected to form a complex body, making the machine able to pass as true life.<br /><br />\"Its form lies in harmony, a parallel to nature. Its movements cyclical, echoing the cosmos.\""
+    },
+    "Herta Contract: Quest Sharing": {
+        "desc": "A mutual aid contract between Herta and the Express. She will help the Express whenever she can, in exchange for treasures found during the Trailblaze.",
+        "lore": ""
+    },
+    "Usurper's Scheme": {
+        "desc": "A moderate amount of anti-matter. Normal material used for enhancement.",
+        "lore": "A moderate amount of anti-matter that floats around the Voidranger: Distorter. The amount of matter and anti-matter particles has reached a dangerous balance...<br /><br />\"They are all looking forward to the moment of obliteration, when they will be reforged and fused with the entire world.\""
+    },
+    "Leaf of Imaginary": {
+        "desc": "Tier 2 Synthesis Material",
+        "lore": "A leaf of unknown origin.<br />It doesn't belong to any plant and is more of a representation of something more abstract.<br />The ancient light nourishes the leaf through its veins, displaying its faded but remnant power.<br /><br />\"One leaf, one world.\""
+    }
+}
