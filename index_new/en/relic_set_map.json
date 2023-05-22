@@ -1,0 +1,838 @@
+{
+    "Knight of Purity Palace": {
+        "name": "Knight of Purity Palace",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases DEF by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.15
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "Increases the max DMG that can be absorbed by the Shield created by the wearer by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.2
+                ]
+            }
+        ],
+        "pieces": {
+            "1": {
+                "name": "Knight's Forgiving Casque",
+                "maxRarity": 5,
+                "loreTitle": "Knight's Forgiving Casque",
+                "miniLore": "A casque that resembles the religious stone statues of the Goddess of Forgiveness. It was used to hide the wearer's appearance.",
+                "lore": "The Solemn Knight had never taken off her hard and heavy casque before anybody. Safina's religious solemnity and silence projected an unbearable air of intimidation.<br /><br />Haughty devils and mad clergy all instinctively cowered in fear before her solemn presence.<br /><br />Only few of the clergy knew that Safina's devilish origins were concealed behind that casque of religiosity. The church both feared and craved for the devils' powers, which was how the conflicted result came to be... The church captured a newborn devil, trained her to become a valiant Solemn Knight, yet forbid her to ever reveal her true appearance, molded her to always obey the pontiff's order, and eventually made her the Maiden's silent knight.<br /><br />Maiden Vanira was of a similar age to Safina, and she was the one who guided Safina to learn the scriptures. To this day, Maiden Vanira could still remember the devil's profile in candlelight.<br /><br />\"My dear Safina, I have seen your face. I will remember it, always.\" Maiden Vanira gradually lost her eyesight after reaching adulthood."
+            },
+            "2": {
+                "name": "Knight's Silent Oath Ring",
+                "maxRarity": 5,
+                "loreTitle": "Knight's Silent Oath Ring",
+                "miniLore": "A silver ring decorated with an ecclesiastical pattern, embedded with a rather cloudy gemstone.",
+                "lore": "Bit by bit, solemnity and decorum crumbled, and the Knights of the Church raised their swords against each other as the rings they swore to protect grew dim.<br /><br />The power granted from the stellar seas gifted the Church the strength to punish devils, but also spread an insanity that ate away at human rationality.<br /><br />Tormented by this madness, the Knights of the Church could no longer discern decorum and order, obsessed with expelling all devil-spawns for the salvation of the whole church. When these threats came for the Maiden, Safina had no time to hesitate. She cannot stay her hand even if her opponent was the Arch Knight of the Church of Purity Palace.<br /><br />The Solemn Knight must always protect and defend the Maiden. Safina did not forget that creed.<br /><br />\"My dear Safina, there is no need to feel guilty. This is the consequence of coveting the power of the Aeons.\" All there were left in the church were the last Maiden and her guardian knight."
+            },
+            "4": {
+                "name": "Knight's Iron Boots of Order",
+                "maxRarity": 5,
+                "loreTitle": "Knight's Iron Boots of Order",
+                "miniLore": "Standard boots distributed to the Knights of the Church of Purity Palace, with a simple word carved on their heels: Order.",
+                "lore": "After the collapse of the Church of Purity Palace, Safina took off the knight's iron boots and embarked with Maiden Vanira on a long journey to the land of devils.<br /><br />At the request of the Maiden, Safina did not let any Knights of the Church carry the madness out of the Church. This secret was forever buried deep down in their hearts.<br /><br />No one knew when this rumor started — a devil-spawn once banished by the Church had possessed the holy Solemn Knight, and an evil witch drove the Knight to break down the order of the pontiff... As time passed, rumors became truths. The devout followers of the Church blamed it all on the Solemn Knight, dumping all their desperation and madness onto her, deeming her as the source of all disasters.<br /><br />After losing their place of refuge, the Maiden suggested that they should set forth for their homeland.<br /><br />\"Henceforth, I will become a witch, and you will return to being a devil.\" Safina could not deny the validity of Vanira's statement."
+            },
+            "3": {
+                "name": "Knight's Solemn Breastplate",
+                "maxRarity": 5,
+                "loreTitle": "Knight's Solemn Breastplate",
+                "miniLore": "A heavy breastplate decorated with the distinctive symbols of the Church of Purity Palace. Even the joints are airtight.",
+                "lore": "The armor of the Solemn Knight must be blessed by Maiden Vanira, a ceremony where one makes a vow to become the guardian knight.<br /><br />The Church once constrained the young devil's hands and feet in metal chains. Now, Safina appealed that her armor should be forged with metals from the land of devils, so that one day she may rest in peace alongside something from her homeland.<br /><br />The Maiden of the Church of Purity Palace carefully washed the sins from the armor, recited reverent prayers to god, and sealed an ancient miracle on a point on the breastplate right above the heart. The Church did not believe in the loyalty of devils, but they were convinced that their doctrines could purify everything. Safina gazed in silence while this ancient ritual assigned the responsibility to her.<br /><br />The Maiden did not believe that the ceremony had any purpose, or that there are any make-belief sins to be washed away.<br /><br />\"My dear Safina, the knight must protect the Maiden well.\" Leaning against Safina's breastplate, Vanira could clearly hear the intense beating of Safina's heart."
+            }
+        }
+    },
+    "Musketeer of Wild Wheat": {
+        "name": "Musketeer of Wild Wheat",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "ATK increases by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.12
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "The wearer's SPD increases by <nobr>#1[i]%</nobr> and Basic ATK DMG increases by <nobr>#2[i]%</nobr>.",
+                "params": [
+                    0.06,
+                    0.1
+                ]
+            }
+        ],
+        "pieces": {
+            "4": {
+                "name": "Musketeer's Rivets Riding Boots",
+                "maxRarity": 5,
+                "loreTitle": "Musketeer's Rivets Riding Boots",
+                "miniLore": "These riding boots have a V-shaped cutout. Appearing casual and loose, they are also very comfortable to wear.",
+                "lore": "The journey was long and arduous, but Oakley was long used to such loneliness. She was always wearing her riding boots to march to the farthest reaches of the world, regardless of how meager a pay she would get<br /><br />She had a hunch — that mysterious gunslinger must also be a man of seclusion. Their encounter would inevitably occur at a place frequented by few.<br /><br />After coming by a harmonica, Oakley spent most of her alone time on intermittent practicing of songs. Her audience? No one but tarantulas, sandstorms, and tumbleweeds. Through her journey, Oakley was becoming better at coming up with techniques to kill time. It was said that wind had once stood and listened to Oakley's play on the harmonica, only leaving when the whole song came to an end. The IPC offered bounty hunters plenty of opportunities for interstellar traveling, and the destination o was never a concern for this particular lone musketeer.<br /><br />Sometimes Oakley did wonder if she was just chasing a phantom all this time, since that mysterious gunslinger was long gone without a trace. Sometimes it seemed that all Oakley ever did was to set out for one mission after another.<br /><br />Oakley insisted, however, that as long as her fame as the Wild Wheat was far-reaching enough, the mysterious gunslinger would eventually show up at her door, just like how he once did at the ranch to duel her father."
+            },
+            "3": {
+                "name": "Musketeer's Wind-Hunting Shawl",
+                "maxRarity": 5,
+                "loreTitle": "Musketeer's Wind-Hunting Shawl",
+                "miniLore": "A knitted cape in an ethnic style, lined with bulletproof fibers.",
+                "lore": "A musketeer should never show their opening first when dueling. Oakley could discreetly load bullets into the chamber and lock onto the mark without alarming her targets. For any onlookers, her loose-fitting cloak never moved one inch until the shot was fired. No one could figure out how she did it.<br /><br />\"Intricate moves should be done under the cover of the cloak. The duel must be over before the bullet had left the gun.\" Her father repeatedly emphasized.<br /><br />After accidentally encountering a group of armed bandits, Oakley calmly steadied herself and observed the situation. Before pulling out her gun, she had remained upright like a mountain rock that had not been moved in centuries. She finished all her preparations before the bandits could even move a finger. After a round of clear-sounding shots, Oakley intentionally let go of one bandit to send out a warning to the whole cohort.<br /><br />Thoughtless, expressionless, often leaving her opponents with no hope of ever defeating her — that was how her fellow bounty hunters viewed Oakley.<br /><br />While dueling, Oakley was more like that one mysterious intruding gunslinger in her dreams, with her brisk and clean shots and not a single superfluous move. She couldn't help but resent her own self when she realized that she was becoming more and more like her nemesis."
+            },
+            "1": {
+                "name": "Musketeer's Wild Wheat Felt Hat",
+                "maxRarity": 5,
+                "loreTitle": "Musketeer's Wild Wheat Felt Hat",
+                "miniLore": "A cowboy hat decorated with wild wheat — a mark of the legendary Musketeer Oakley.",
+                "lore": "Oakley inherited this felt hat from her descended father. Now that she tucked ears of wheat into the hat as ornaments, it looked much cuter than before. Bounty hunters, whether intentionally or not, always sought to craft emblems of their own, in the hope that these items could one day become the beginning of great legends.<br /><br />The Interastral Peace Corporation offered bounties to enlist experts of the highest caliber to hunt down Interastral Pirates and Oakley, as one who always worked alone, forever sought out the most challenging regions of desolation among the farthest reaches of the world.<br /><br />Days under the scorching hot sun were coupled with bitterly cold nights. In her lonely odyssey, Oakley could fall asleep with her head pillowed on her felt hat whenever she was near a bonfire. All her dreams were intruded by a mysterious gunslinger, who claimed to be a bounty hunter from afar. His scrawny figure was in sharp contrast with his fiercely stern gaze. The gunslinger challenged Oakley's father to a duel to the death at high noon. Shots were fired, a felt-hat was dropped, and Oakley's father was falling backwards to the ground, followed by the sounds of weeping and wailing from Oakley's mother...<br /><br />Little Oakley gawked at the gunslinger in stupor, whose aptitude with a gun was so superb that her father could never stand a chance.<br /><br />Waking up, there would be traces of damp tears on Oakley's felt hat. As a child, she learned how to shoot a gun only because she had wanted her father's handsome and stylish hat."
+            },
+            "2": {
+                "name": "Musketeer's Coarse Leather Gloves",
+                "maxRarity": 5,
+                "loreTitle": "Musketeer's Coarse Leather Gloves",
+                "miniLore": "A pair of leather gloves with partially cracked surfaces. The part where one holds a gun is particularly worn out.",
+                "lore": "Young Oakley practiced and practiced. She trained in the ranch from dawn to dusk. At times, her father felt surreptitiously surprised by and proud of little Oakley's talents, while other times he fretted over her future living the life of a musketeer.<br /><br />Oakley's mother seemed to be the only one who actually cared and felt for young Oakley's tender little hands, often blaming Oakley's father for teaching her how to fire a gun.<br /><br />From the time of that fateful duel to the time when she scored her first ever bounty earning much of her later fame, Oakley had used the same pair of worn gloves for years. Her peers didn't understand her insistence on wearing the same pair of broken gloves — Only she knew the conflicting emotions within those gloves, for they were the parting gifts her mother gave her.<br /><br />What sort of emotional struggles must Oakley's mother have gone through, when she had been so stubbornly opposed to Oakley learning her way around guns?<br /><br />After that duel, her mother wept unceasingly in Oakley's arms. Oakley didn't say anything, but her mother had already read Oakley's thoughts."
+            }
+        }
+    },
+    "Inert Salsotto": {
+        "name": "Inert Salsotto",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's CRIT Rate by <nobr>#1[i]%</nobr>. When the wearer's current CRIT Rate reaches <nobr>#2[i]%</nobr> or higher, the wearer's Ultimate and follow-up attack DMG increases by <nobr>#3[i]%</nobr>.",
+                "params": [
+                    0.08,
+                    0.5,
+                    0.15
+                ]
+            }
+        ],
+        "pieces": {
+            "6": {
+                "name": "Salsotto's Terminator Line",
+                "maxRarity": 5,
+                "loreTitle": "Salsotto's Terminator Line",
+                "miniLore": "Planet Salsotto's own rotation stopped, and thus each cycle of its day and night seemed to last forever. People can only gain the bare minimum space for survival when they ceaselessly migrated and closely chased the ever-moving terminator line.",
+                "lore": "Ever since the stagnation caused by the Meteoric Starfall, the terminator line had become the lifeline of the Salsottians.<br /><br />When it all started, people still took the shifting of day and night for granted. The line of dawn and dusk swept across the earth, climbed over mountains and ravines, brought dawn to those still awake, and sent sunset to those who would soon sleep... But when the rhythm of light and darkness slowed down, day and night were no longer familiar, and the seemingly eternal heat and coldness were like the quagmire of hell, slowly burying all lives entrapped within. This was why the Salsottian people, barely surviving at the time, boarded the floating mobile city and began their chase with dawn and dusk.<br /><br />Climbing atop the observation deck of the mobile city of Tumbleweed and looking in the direction that they were moving, daylight lies ahead and dark night behind.<br /><br />The pursuit of \"Tumbleweed\" is not only for survival but also for a dignified life. When it moved faster than the terminator line, then the early morning light would march into the afternoon; when slower than the terminator line, then the dusk light would fade into the late night. In this way, the naturally optimistic Salsottian managed to restore every day to its original state. The romance in their bloodline blessed them with the easygoing spirit to sing leisurely in peaceful afternoons and sleep soundly on starry nights.<br /><br />However, this voyage of tenacity and perseverance would, at last, come to its final downfall, and the ruins of the once mobile city were eventually left far behind by the ever-shifting terminator line.<br /><br />Years later, the two moving cities that had never met each other would finally stand against each other, with their respective turrets among the wreckage still aimed in opposition. One of the two cities must have crossed half of the planet to the other one and started the initial incursion. Traces of brutal warfare between the two cities were still occasionally discernible under the sand dunes, which merged with unnameable hatred and morphed together into the same ruins.<br /><br />Planet Salsotto kept its silence. And ever since a certain unknown time, the duration of each of its rotation cycles had somehow gradually decreased, ushering in its own self-healing in an unpopulated future."
+            },
+            "5": {
+                "name": "Salsotto's Moving City",
+                "maxRarity": 5,
+                "loreTitle": "Salsotto's Moving City",
+                "miniLore": "Enclosed within the plane is one of Salsotto's last remaining moving cities — Tumbleweed. This city never stopped and barely escaped from a fate of being swallowed up either by the dark night or the midnight sun.",
+                "lore": "If viewed from a cosmic perspective, Planet Salsotto as a whole, due to its vast seas of sand, shined in the most dazzling shade of gold, with its giant meteorite craters clearly visible.<br /><br />At a certain fateful moment, waves upon waves of strange meteorites ceaselessly fell onto Planet Salsotto. The long-lasting impact caused by the Meteoric Starfall relentlessly hitting the planet at such a particular angle caused the planet's rotation to gradually come to a halt. It was like pushing a world-deactivate button. Salsotto's days and nights became longer and longer, until every sunrise and sunset would last for a seeming eternity, until nobody could take it any longer, until the whole planet's rotation was finally brought to a standstill...<br /><br />It had become a fact of life that sizzling summers under the scorching sun and dark nights of bitter coldness would last for half a year. What was left of the whole Salsotto were the last two remaining cities that were moving non-stop, always running right after the terminator line.<br /><br />The colossal fortress was floating in the air like a gargantuan raincloud, slowly hovering across the sky above the golden desert with thundering noise. Wherever it went, overwhelming storms of sand were cascading down and over. In the giant moving city, the Salsottians in winged suits were flying up and down among the city's buildings. These flying folks who had survived the calamity by sheer luck now belonged to the sky and were bound to it at the same time.<br /><br />In the morning, skyfishers departed from the port and dove right for the sand, where they would hunt the phlogiston jellyfish. They would only return to the city after dusk. By the power of mysterious creatures, the city barely managed to voyage ahead.<br /><br />Even though their entire survival relied squarely on those two fragile wings, the Salsottians were optimistic by nature and would never let the heavy burden of fate lower their spirit or bend their spine. They would find time to spend with their family playing glass musical instruments, with such an attitude that it was almost as if they could carve the musical notes right into the glass. They also enjoyed making pen pals and would often place their written messages in the Dandelion Letterbox, meant for the moving city on the other end of the terminator line.<br /><br />Gradually, the planet's magnetic field weakened and the atmosphere thinned. In the face of a fated doom, the sparkles of life were not yet snuffed out, and the eagles would never cease to fly."
+            }
+        }
+    },
+    "Hunter of Glacial Forest": {
+        "name": "Hunter of Glacial Forest",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#47C7FD;\">Ice</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "After the wearer uses their Ultimate, their CRIT DMG increases by <nobr>#1[i]%</nobr> for <nobr>#2[i]</nobr> turn(s).",
+                "params": [
+                    0.25,
+                    2.0
+                ]
+            }
+        ],
+        "pieces": {
+            "2": {
+                "name": "Hunter's Lizard Gloves",
+                "maxRarity": 5,
+                "loreTitle": "Hunter's Lizard Gloves",
+                "miniLore": "A pair of tactical gloves, on which scaly claws of snowrock lizards are tightly sewn. It can be used to safely climb up and hang on to any wall.",
+                "lore": "Snowrock lizards lack agility and strength, but they can wait in ambush on a rock for two weeks for the precise moment when their prey lets down its guard, then finally striking a fatal blow.<br /><br />Registered hunters, however, couldn't wait that long. They decided to march into the snowy mountains to hunt down Hugh and neutralize this approaching threat.<br /><br />Though there were many exceptionally powerful talents among the registered hunters of the association, they were never comrades who had each other's back. Hunters congregated only for the hefty prize of the bounty, and would betray one another without hesitation for the right price. After all, anything could happen on these desolate plains... As long as the old hunter Hugh was taken care of, everyone would earn more bounty. That was their consensus, for which they paid the price.<br /><br />Hugh made more than enough preparations. Hunting the top hunters would be no easier a task than hunting monsters. Hugh must be more patient than ever, for patience was always the most valued trait in a hunter.<br /><br />Before long, the number of registered hunters in the Hunters Association began to dwindle, for the horror known as Hugh the Undead was spreading."
+            },
+            "1": {
+                "name": "Hunter's Artaius Hood",
+                "maxRarity": 5,
+                "loreTitle": "Hunter's Artaius Hood",
+                "miniLore": "A hood made from the head of a huge Snow Plains bear. The fur seems to be possessed by some ghost or deity, making it invulnerable to physical attacks.",
+                "lore": "The hunters' rule for surviving the Snow Plains of Snowland was simple enough — Never go to the south of the mountain during Artaius' hunting season, since that mountain-shaking white bear did not welcome anyone.<br /><br />As the hunter sent by the association, Hugh went to the south of the mountain after receiving the rescue call. Never did he expect to walk right into an ambush long in the planning.<br /><br />After waking up from a long shock induced by gunshots, Hugh immediately realized he just barely escaped death. However, he also realized his plight was far from over, for Artaius was staring right at him. Despite the short range and fast pace, some of Artaius' messy attacks were bound to miss... Hugh calmly waited for an opening, then he whipped out his bone blade soaked in poison and jumped up for an extraordinary strike in the blink of an eye. Their positions as the predator and the prey were reverted.<br /><br />After removing Artaius' head and fur, he managed to survive the first night in snow despite his untreated gunshot wounds.<br /><br />Days later, the Hunters Association located Artaius' the headless corpse. It was then they realized the hunter who was supposed to die had survived, and an unforeseen avenger was born."
+            },
+            "3": {
+                "name": "Hunter's Ice Dragon Cloak",
+                "maxRarity": 5,
+                "loreTitle": "Hunter's Ice Dragon Cloak",
+                "miniLore": "A cloak made from the fine scales of the Ice Dragon, nearly invisible under the brilliant refraction of light.",
+                "lore": "The Lord of the Ice Lake, whose body was fully covered in unique scales that dazzlingly reflected the sunlight, could easily render itself invisible by diving underwater. Few hunters could handle a battle with such an invisible monstrosity.<br /><br />Days later, the registered hunters of the association stumbled upon the Ice Dragon's carcass with its scales already peeled off. At that moment, their horror surpassed their shock.<br /><br />The beasts that Hugh had hunted down numbered in the thousands, each and every one of which was uniquely precious. Only by reaching a thorough understanding of the prey's traits and habits would a hunter truly achieve the full completion of a hunt... For Hugh, the Lord of the Ice Lake was the last piece in the puzzle that was the Snow Plains. Hence, he must finish the hunt, to bring his Hunter's Soul to completion.<br /><br />And now, the highest prized bounty was put on the head of Hugh the Hunter, instead of the Lord of the Ice Lake, marking the beginning of a hideous all-out hunt.<br /><br />All hunters should be prepared to become the prey. It was so for Hugh, and even more so for those traitors."
+            },
+            "4": {
+                "name": "Hunter's Soft Elkskin Boots",
+                "maxRarity": 5,
+                "loreTitle": "Hunter's Soft Elkskin Boots",
+                "miniLore": "A pair of enhanced power boots wrapped in soft elk fur. With these, the hunter will only leave shallow footprints behind in the Snow Plains.",
+                "lore": "Despite being deeply wounded and too weak to maintain a body temperature that can melt snow, a dying torch-antler elk was still a most dangerous beast.<br /><br />Hugh pointed his hunting rifle straight at the dying elk. Looking at those awe-inducing eyes, he thought those reminded him of his own.<br /><br />Ever since the ambush by the registered hunters, Hugh's life force had already become depleted like a dying candle n the wind. He was sharply aware that the only reason he managed to survive was due to his unyielding desire for revenge. Should it become satiated, his life would instantly come to an end, scattered like snowflakes... Despite his heavy footsteps, Hugh's large soft elk-skin boots did not leave any prints on the ground. He must stay sharp for the last hunt of his life.<br /><br />Amid panic and hysteria, the Hunters Association began to crumble. They began to purge traitors in haste, hoping it could grant them Hugh's mercy. Instead, it only led to their own self-destruction by mutual distrust.<br /><br />Hugh fell down for good on the Snowy Plains before he could get a taste of the pleasure of completing his revenge."
+            }
+        }
+    },
+    "Talia: Kingdom of Banditry": {
+        "name": "Talia: Kingdom of Banditry",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's Break Effect by <nobr>#1[i]%</nobr>. When the wearer's SPD reaches <nobr>#2[i]</nobr> or higher, the wearer's Break effect increases by an extra <nobr>#3[i]%</nobr>.",
+                "params": [
+                    0.16,
+                    145.0,
+                    0.2
+                ]
+            }
+        ],
+        "pieces": {
+            "5": {
+                "name": "Talia's Nailscrap Town",
+                "maxRarity": 5,
+                "loreTitle": "Talia's Nailscrap Town",
+                "miniLore": "Enclosed within the plane is Talia's miserable desolate small town called Nailscrap. For a short-lived peace, bandits chose this place for its water supplies and built this small town out of rags, rebars, and planks.",
+                "lore": "It was by pure accident that the interstellar thieves came to Talia in their hasty escape from the pursuit of the Galaxy Ranger.<br /><br />At first, Talia was just a desolate place known by many as the Starry Junkyard. The planet-destroying wars of the past brought mountains upon mountains of ruins and wreckage onto the surface of Talia, resulting in imperishable radiation and taking away the last remaining hope to sustain life. The thieves had nowhere else to go and fell into a cave beneath the surface of the planet, which turned out to be a tunnel left by the rodent race... The thieves managed a narrow escape, and their dream of establishing a Kingdom of Banditry was thus discreetly born in this lost realm of seclusion.<br /><br />Innumerable caverns were interconnected in a massive labyrinth. More groups of thieves and bandits were lured in by this supposed dreamland meant for them and came to accumulate wealth and exchange technology, subsequently laying the foundation for the kingdom.<br /><br />As more and more thieves and bandits settled down here, the once desolate planet became extraordinarily bustling with life. Thieves of great renown spoke of their ideal of a Kingdom of Banditry, promising to use the treasury to build a nation of equity and fairness. But as the amount of accumulated wealth grew larger and larger, the same thieves tore up their flimsy promises right away and attempted to monopolize all the wealth. Mercenaries, riots, double crossings, and betrayals... Chaos ensued one after another. Perhaps the initiators never even once believed in their ideal of so-called equity for all.<br /><br />Henceforth, thieves who resented lofty ideals found themselves in a chaotic age where ignorance was glorified. They seized water sources to build towns of their own and mocked the very idea of fairness and justice.<br /><br />Everyone in Nailscrap Town was a bandit. They drove violently destructive off-road vehicles and fought for resources with other hordes of bandits in the desert. They created mechanical armor and weapons out of scrap iron and old wires... The more barren the wasteland was, the more freedom they got out of it, like one final frenzy before doomsday. Those sweet dreams were like wisps of nonsense in the radiating heat waves and had long ceased to leave any trace behind.<br /><br />In a half-awake trance, the thieves came to the realization that the Kingdom of Banditry was never about creation but about destruction."
+            },
+            "6": {
+                "name": "Talia's Exposed Electric Wire",
+                "maxRarity": 5,
+                "loreTitle": "Talia's Exposed Electric Wire",
+                "miniLore": "This is a wire picked up from the junkyard. With its insulation layer partially falling off and partially remaining, it was still in use. In Talia's small town of bandits, there has never been a waste that is too useless.",
+                "lore": "This exposed wire was old. It had once been neatly lined up on a starship until one hasty escape attempt of the starship led to a huge shock wave, which subsequently exposed the wire to the moisture in the air.<br /><br />The entire starship was dragged into a labyrinth of underground passages. On the thieves' starship, shields made of steel plates were removed layer by layer, and the power lines were crudely stripped apart, all of which were then used to build the first-ever alliance market. The thieves there began to accumulate wealth and at the same time started to talk about their ideals. Soon after, the protracted infighting began, where suspicion and betrayal were expressed by and against one another. The flames of the war fought between the dictator and their detractors eventually spread from the underground tunnel to the surface-level desert grounds...<br /><br />This exposed wire was even older. It was dug out of a pothole by the bandits and then connected to a revamped overland vehicle with air leaking in from all directions, which was driven to a distant water source.<br /><br />The top priority for all survivors of the war of betrayal was to locate Talia's water sources. They drove thousands of miles a day on deserts littered with glass shards in extremely shabby and poorly made vehicles. The caravans of the bandits sometimes chased each other, raising dust and heavy smoke, and other times they just wantonly threw people on or off the car... The sheer pressure of survival forced them to give up all other thoughts. Only by forging ahead could they be saved from confusion.<br /><br />This naked wire was always old. It was further removed from the overland vehicle and placed into the town's lightbox by the bandits. The aging wire caused the lights to flicker frequently.<br /><br />It was an old gangster who claimed to be the \"police officer\" who founded the original Nailscrap Town. With his strongarm tactics and charisma, he managed to keep the junkyard in good order. The town became livelier than ever. Eccentric engineers accidentally made machinery out of waste, and desperate wastelanders also enjoyed fighting back and forth in the underground arena... Late at night in a bar, they filled their glasses with grape juice that smelled like gasoline and cheered together, celebrating the fact that they had managed yet another day of survival.<br /><br />There was nothing new in Talia, just old things repurposed differently in changing times."
+            }
+        }
+    },
+    "Firesmith of Lava-Forging": {
+        "name": "Firesmith of Lava-Forging",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#F84F36;\">Fire</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "Increases the wearer's Skill DMG by <nobr>#1[i]%</nobr>. After unleashing Ultimate, increases the wearer's <span style=\"color:#F84F36;\">Fire</span> DMG by <nobr>#2[i]%</nobr> for the next attack.",
+                "params": [
+                    0.12,
+                    0.12
+                ]
+            }
+        ],
+        "pieces": {
+            "1": {
+                "name": "Firesmith's Obsidian Goggles",
+                "maxRarity": 5,
+                "loreTitle": "Firesmith's Obsidian Goggles",
+                "miniLore": "Protective goggles crafted from dark-black fire crystals. Through these lenses, even the flurry of intense sparks becomes a mosaic of dull shadows.",
+                "lore": "To the Firesmith clan, the ability to craft the ultimate weapon is both a wonderful calling and a horrendous lifelong curse.<br /><br />Ever since the arrival of the liberated Firesmith Clan in the world of Warforge, they were given ample opportunity to thoroughly unleash their talents, but at the same time, they began to get tainted with the aura of the Destruction.<br /><br />The dazzling light of the furnace, the sparks of metal clashing, and the long-lasting forging process can turn the raw ore into a fine weapon, but can also gradually strip the Firesmith of their eyesight. One day, at the foot of a volcano, Foy found a deposit of rare obsidian flame crystal. From this, he carefully polished a pair of protective goggles, which transformed the fierce sparks of fire into pale-white silhouettes. However, the greedy smith was unable to fully escape his cursed fate, losing everything to the bright light of his forge.<br /><br />Foy deemed the Antimatter Legion in the Warring Hearth as the raw materials for his creations, and himself as the rising flame.<br /><br />\"I wonder... is it possible to harness the power of a thermonuclear reaction in the furnace?\" Foy's pursuit of the ultimate fire came to an unfruitful end in an out-of-control thermonuclear fusion."
+            },
+            "3": {
+                "name": "Firesmith's Fireproof Apron",
+                "maxRarity": 5,
+                "loreTitle": "Firesmith's Fireproof Apron",
+                "miniLore": "A blacksmith's apron without any superfluous adornment. The texture of the leather and the family emblem are clearly visible.",
+                "lore": "The Antimatter Legion gifted the Firesmiths a dying Warforge, a fiery world where they could forge to their hearts' desire.<br /><br />In this eye-burning world of lava, as long as the smelting and hammering never ceased, Creation and Destruction were no longer polar opposites of each other.<br /><br />Surtur was especially good at using the molten rock that erupted from active volcanoes to infuse the Legion's creatures with a violent aura of destruction. Neither the bubbling of toxic gases nor the gurgling of lava could interrupt his concentration. Though hot molten rock would splash on Surtur's fireproof apron of giant firelizard skin, the gear never lost its luster.<br /><br />A massive proportion of the Legion's fighting forces were repeatedly hammered and smelted until their flesh and weaponry were forged together by the Firesmiths, becoming weapons of Destruction.<br /><br />\"Yes, power of incomparable destruction...\" The Firesmiths have never hidden the terrible aspirations they place in their weapons as they control the flames."
+            },
+            "2": {
+                "name": "Firesmith's Ring of Flame-Mastery",
+                "maxRarity": 5,
+                "loreTitle": "Firesmith's Ring of Flame-Mastery",
+                "miniLore": "A ring with a symbol of flames. It is the highest symbol of honor among the Firesmith clan.",
+                "lore": "A <nobr>900</nobr>-degree kiln can turn clay into ceramic, a <nobr>1000</nobr>-degree furnace can melt tin and copper... As one pursues a purer creation, one must also pursue a more perfect flame.<br /><br />Creatures of the Legion craved for separation from the material existence, longing for the fundamental mutations that can only be brought forth by the scorching heat waves of the Destruction.<br /><br />A highly-skilled master Firesmith can raise the temperature of fire to unbelievable levels, the sight of hot blue light radiating from the blazing, dark mass like that of a dying star. Indeed, all Firesmiths are remarkably talented at controlling flames, but only the best among them are bestowed with a ring of flame-mastery as a marker of their superb skill.<br /><br />The Warforge had long ceased to differentiate between the Firesmith and the materials. All those Firesmith masters who had been smelting and smithing the Antimatter Creatures all this time had also become part of the Weapon of Destruction<br /><br />\"The quality of smelting depends on the fire, and the quality of the fire depends on the Firesmith.\" This is matter-of-fact knowledge to any Firesmith who is able to control high temperatures."
+            },
+            "4": {
+                "name": "Firesmith's Alloy Leg",
+                "maxRarity": 5,
+                "loreTitle": "Firesmith's Alloy Leg",
+                "miniLore": "A prosthetic produced from metallic alloy. Its surface is entwined with vivid fiery carvings.",
+                "lore": "In the old days, the prison masters feared losing the extraordinary arts of Firesmithing, so they would employ the most despicable tricks to incarcerate the Firesmith clan — all the chiefs of the Firesmiths would undoubtedly suffer deformities in the legs in those days of imprisonment.<br /><br />It was the Master of Destruction that set free the imprisoned Firesmith clan and bestowed upon them the mark of Destruction which in turn granted the Firesmiths unlimited power.<br /><br />Despite the inability to move around like an able-bodied man, the chief of Firesmith obtained true freedom, for he was no longer imprisoned just for his extraordinary skills and talents in the art of Firesmithing. The chief poured in all his resentment and humiliation into the forge and would never be tired, not even by days of non-stop hammering. Upon one hammering after another, the once stubborn and proud antimatter creatures had to eventually change their form and give in to the remolding by the Destroyer.<br /><br />Despite being free from any tangible cages, the Firesmiths' obsession with forging had become another form of prison for them, had it not?<br /><br />\"Flesh and blood are a burden. Forging is also destruction.\" The chief looked at the ever-growing number of deformed Firesmiths and lamented."
+            }
+        }
+    },
+    "Eagle of Twilight Line": {
+        "name": "Eagle of Twilight Line",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#00FF9C;\">Wind</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "After the wearer uses their Ultimate, their action is Advanced Forward by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.25
+                ]
+            }
+        ],
+        "pieces": {
+            "2": {
+                "name": "Eagle's Soaring Ring",
+                "maxRarity": 5,
+                "loreTitle": "Eagle's Soaring Ring",
+                "miniLore": "A ring worn by an outstanding skyfisher master, with a pair of skyfish eagle's wings holding tight the wearer's finger.",
+                "lore": "Only the most skilled, respected, and reliable skyfisher captains would receive a Soaring Ring. They blew their fishing whistles in the sky and seamlessly coordinated with one another, like they were the most sharp-eyed hunting eagles.<br /><br />For the duration of each flight, each team member was lonely and vulnerable. All they could rely on were the <nobr>124</nobr> types of whistles that could be performed by their team captain.<br /><br />Hence, there had long been a saying in Salsotto — \"Skyfishers entrusted one-third of their lives to the rigorously developed technology, one-third to their ingeniously refined equipment, and one-third to their reliable lead skyfisher captain.\"<br /><br />Being asked by so many families to take care of their skyfisher children, the team captain constantly felt the burden of this little ring he wore.<br /><br />This Soaring Ring's etching was mottled, with one word engraved on the inner side of the ring: \"Responsibility.\""
+            },
+            "1": {
+                "name": "Eagle's Beaked Helmet",
+                "maxRarity": 5,
+                "loreTitle": "Eagle's Beaked Helmet",
+                "miniLore": "A helmet used in high-speed flights that resembles the beak of a skyfish eagle. It illustrates the principles of fluid mechanics.",
+                "lore": "Every day at dawn, Salsotto's skyfishers would depart from the moving city's skyport, soaring in the air with their winged suits, hunting for phlogiston jellyfish that flew out of the sand.<br /><br />Phlogiston, an essential component of the Phase Flame, was the blood of the colossal moving city. Phlogiston must be sufficiently captured and gathered to ensure that the whole city could always stay ahead before the twilight zone that divided day and night.<br /><br />If any skyfishers died from exhaustion or were attacked by giant birds, Salsottians would spare no effort in bringing back their remains and would bury their winged suits and eagle helmets with them in the dark land. According to the traditional Salsottian rituals, \"landing\" equals death and is a symbol of eternal rest.<br /><br />The flight must never stop, just like how the city must never stop moving.<br /><br />This eagle helmet has a short condolence message carved on its beak: \"Landing is not the eagles' shackle, wings are, because of which you have to fly.\""
+            },
+            "4": {
+                "name": "Eagle's Quilted Puttees",
+                "maxRarity": 5,
+                "loreTitle": "Eagle's Quilted Puttees",
+                "miniLore": "Puttees to keep the legs warm during flights, decorated with a skyfish eagle's bristle feathers.",
+                "lore": "Hunting phlogiston jellyfish was a long survival game for skyfishers from Salsotto. Legs, being far from the heart, can only maintain their temperature when tightly strapped in fluffy feather puttees.<br /><br />Only at the end of the long and highly stressful hunt would an exhausted skyfisher begin to feel pain and fatigue.<br /><br />For those unprepared, it would be too late to discover their partial necrosis caused by severe frostbite. Therefore, skyfishers would check if they had tightened their puttees many times before taking off. After all, they wouldn't get another chance to do so in high-speed flight.<br /><br />They knew what the wind would take away as they stepped into the sky.<br /><br />Traces of lime powder and aluminum powder were found in the metal shell embedded in the puttee, which seemed to be a means of emergency heating."
+            },
+            "3": {
+                "name": "Eagle's Winged Suit Harness",
+                "maxRarity": 5,
+                "loreTitle": "Eagle's Winged Suit Harness",
+                "miniLore": "A belt harness that connects the winged suit with metal supports embedded in thick linen. Soft and tight-fitting.",
+                "lore": "It was no easy feat for Salsotto's skyfishers to entrap and hunt phlogiston jellyfish that flew out of the sand. During turbulent flights, the seemingly tender and soft safety harness was the thread of life for a skyfisher.<br /><br />Hunting phlogiston jellyfish was never easy. From trick moves to intense chasing, from precise blocking to the final capturing act, one wrong move in any one of these links in the chain could mean mortal danger.<br /><br />It was customary for a young skyfisher to get one strand of hair from each parent and weave them into the harness with metal supports, while a married one should get one from their spouse. In this manner, the harness would be blessed by the power of \"home\" and ensure that the skyfisher always returned safely.<br /><br />In this cruel world where all fought hard for survival, \"home\" was the only place that could offer comfort and support for a skyfisher.<br /><br />The hair inside this harness was still intact, with a faint white at the root. It came from a female."
+            }
+        }
+    },
+    "Space Sealing Station": {
+        "name": "Space Sealing Station",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's ATK by <nobr>#1[i]%</nobr>. When the wearer's SPD reaches <nobr>#2[i]</nobr> or higher, the wearer's ATK increases by an extra <nobr>#3[i]%</nobr>.",
+                "params": [
+                    0.12,
+                    120.0,
+                    0.12
+                ]
+            }
+        ],
+        "pieces": {
+            "6": {
+                "name": "Herta's Wandering Trek",
+                "maxRarity": 5,
+                "loreTitle": "Herta's Wandering Trek",
+                "miniLore": "Madam Herta lost all interest in the space station the moment it was complete. The station maintains a steady orbital velocity as it circles The Blue, leaving a track of its circular motion on the planet below.",
+                "lore": "The space station endured and survived many a crisis due to being owned by Madam Herta.<br /><br />Laden with the rarest items in the entire universe like a feast set before ravenous guests, the space station was never free from threats or unwanted attention. Relying on the security personnel hired by the IPC and a somewhat advanced defensive system proved insufficient to handle the hostility from the stars... Madam Herta once made prescient judgment and steered the station away in an elegant curve, ending a conspiratorial attempt to assault the station before it even initiated.<br /><br />As for her mastery in gathering intel to solve crises, she simply described it as \"I spend time brewing coffee while others are reading books.\"<br /><br />Rather than thieves who intend to steal its collection or mysterious factions with unknown objectives, the main threat faced by the space station remains its owner. The station could immediately fall into disaster if she ever had a wild idea. Curios that simulate a stellar collapse, a distorted gravitational field caused by the collision of dark galaxies... Madam Herta collected them all when she was in the mood, but would often lose interest once she got her hands on them.<br /><br />Hence, though the space station appears to be floating peacefully in space, its treasure hoard of multi-shaped crises hung above it like a sword waiting to fall.<br /><br />Senior researchers had long been aware of the dangers they faced, and understood that \"secrets lie deep within danger.\" They strictly adhere to confidentiality agreements and faithfully carry out regulated containment procedures, thus burying danger within an outward silence... In the cafeteria, they were friends who could joke around. Yet, deep in the bowels of the space station's storage zones, they were highly skilled experts. In this place, secrets would always remain secrets.<br /><br />The space station is operating as usual in low orbit around The Blue. Just like a pebble pushed out onto the smooth surface of a frozen lake, the station will continue to glide evenly and steadily in complete silence."
+            },
+            "5": {
+                "name": "Herta's Space Station",
+                "maxRarity": 5,
+                "loreTitle": "Herta's Space Station",
+                "miniLore": "Sealed within this plane is the Herta Space Station. Parked above The Blue, it slowly drifts along its predetermined orbit, with the silent galaxy looking like a book waiting to be read.",
+                "lore": "Madam Herta was once very troubled by the huge collection of items spread across the galaxy. Countless in quantity, they were difficult to store, and she couldn't be bothered to manage them herself.<br /><br />The generous and charitable Interastral Peace Corporation then proposed a solution and that was how the Herta Space Station, where wisdom and secrets are stored, was born. Comprehensive containment measures were made throughout the space station, all in the pursuit of organizing everything in the collection with order and clarity. Phenomena were stored in specialized containers while Curios were regulated in indices. Innumerable items were categorized and classified, then stored deep within the station for research.<br /><br />The IPC then proposed a collaboration in exploring the secrets of the stars together, which brought curious and adventurous scholars into the station to conduct research.<br /><br />Most of them admired Madam Herta, vowing to never abandon their ethereal aspirations and explore the secrets whispered among the stars. They investigated the star systems and realms of living beings, debated true justice in discourses on ethics and philosophies, outlined valleys and peaks within galaxies, deciphered secrets behind religious rituals and ceremonies, held on to the way of seeking truth from practice... They were the true believers of passing knowledge to posterity, and practiced unrestrained and divergent research.<br /><br />However, once the space station moved into orbit, it started to operate on its own and Madam Herta rarely showed herself. It was then that the IPC realized the whole station was filled with the mundane daily activities of the researchers, yet the genius was nowhere to be seen.<br /><br />Light from different zones rendered people unaware of the passage of time, the traces of which could only be detected in the burnt out lifestyle in the station. Often a smattering of researchers would argue non-stop about a particular piece of collection, even going so far as to start a fight. Occasionally a security officer would be absent from their daily patrol and nap instead on their military-styled bunker. Sometimes senior researchers would share with their younger peers tales of past romances, while some big shots would disguise themselves as temporary workers to bid their time for the next big turn of luck... Besides research, there was also life. They just had to look outside the hull — for the stars were journeying with them.<br /><br />Despite all the limitations, the researchers still talked about the everyday life in the space station in their own romantic way — The galaxy was a profound epic poem, and Herta Space Station was slowly cracking open the poetry collection."
+            }
+        }
+    },
+    "Pan-Galactic Commercial Enterprise": {
+        "name": "Pan-Galactic Commercial Enterprise",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's Effect Hit Rate by <nobr>#1[i]%</nobr>. Meanwhile, the wearer's ATK increases by an amount that is equal to <nobr>#2[i]%</nobr> of the current Effect Hit Rate, up to a maximum of <nobr>#3[i]%</nobr>.",
+                "params": [
+                    0.1,
+                    0.25,
+                    0.25
+                ]
+            }
+        ],
+        "pieces": {
+            "6": {
+                "name": "The IPC's Trade Route",
+                "maxRarity": 5,
+                "loreTitle": "The IPC's Trade Route",
+                "miniLore": "With the convenient help of the credit system, interstellar commerce was established. The Interastral Peace Corporation connected the stars with economic activity and expanded the borders of trade.",
+                "lore": "The support team hurried around the star system close to the Aeon Qlipoth, with the old ships' trajectories forming the first routes.<br /><br />Believing in the meaningfulness of the Aeon's actions, the support team took the first step in exchanging goods for other goods with a neighboring star system. The support team prepared an adequate fleet, rare and precious goods, and offers that were hard to refuse, thus creating countless trades across star systems. Then, the support team controlled trade route and business information, held exclusive bargaining rights, and spearheaded the formulation of the Galaxy's trade regulations.<br /><br />Fleets full of wood, stone, rebar, and supernium passed by Aeon Qlipoth like a swarm of circling flies. The Amber Lord kept silent, never once casting their gaze upon the humans.<br /><br />Eventually, times changed and trade with neighboring star systems was no longer sufficient for the bustling support team. The two wise ones were determined to delve deeper into the galaxy, and thus the Interastral Peace Corporation was born. The IPC offered anything a planet could ever want, at fair prices pegged to their \"credits.\" Since then, the Galaxy's trade route was founded, and all planets that join the IPC's business network can share the same currency, buy the same goods, and enjoy the same services.<br /><br />Merchant ships under the credit system travel between the stars, and the trade routes merge and separate to weave a pan-galactic network. The ships full of treasures from distant stars passed the Aeon Qlipoth countless times like fireflies, and yet the Aeon remained as silent as before.<br /><br />The building materials accumulated since the time of the support team piled up on every planet around the Aeon Qlipoth, and the amount will only increase. The Aeon Qlipoth has no intention of accepting these eager gifts, instead always solely focused on the crisis that will befall the unsuspecting mortals, having to cast the gargantuan barriers measured in light years. The small organization that used to purchase materials has long since become a tremendous influence in the Galaxy. They gaze upon the headless colossus, never once feeling that their efforts were in vain.<br /><br />\"All the toil and growth of our capital is for Qlipoth, and to execute the Aeon's will when the time comes.\""
+            },
+            "5": {
+                "name": "The IPC's Mega HQ",
+                "maxRarity": 5,
+                "loreTitle": "The IPC's Mega HQ",
+                "miniLore": "The IPC's headquarters at Pier Point is sealed within a Planar Sphere. No planet can hide from the grand business plan of the Interastral Peace Corporation. They ventured into deep space to harvest the power of the entire universe.",
+                "lore": "The impact within the subspace shook the universe as the silent and lonely colossus committed to building the great barrier across the Galaxy. Those who claimed to have received the oracle of the god began to act, wishing to help the Aeon Qlipoth to build the wall.<br /><br />The universe is in imminent peril, and the building of the wall cannot wait. The puny humans had no intention of imitating the feats of the god, instead gathering into a self-proclaimed \"support team\" for the Aeon, willing to devote everything to the Amber Lord. With the power of the Preservation, the support team piloted their fleet to different galaxies to purchase building materials such as stone, wood, gold, and supernium, then tirelessly transported these to the subspace barrier, piling the items on the planetary wasteland.<br /><br />After the end of the short development period, the support team took a firm foothold in Pier Point and established the Interastral Peace Corporation. In order to fully carry out their devotion, they turned their sights to deep space.<br /><br />Louis Fleming raised a call for action, and the long-distance trade fleet left the star systems adjacent to Aeon Qlipoth. Their commodities were no longer limited to building materials... They plan to connect the whole Galaxy and trade everything. Soon after, Dongfang Qixing implemented Galaxy-wide trade regulations and built a \"credit\" system to set a price for everything across the universe. Trillions of assets gathered under their megastructure on Pier Point. Like a silent black hole, the building destroyed people's notions about the limits of wealth.<br /><br />Today, the ships of the Interastral Peace Corporation are all over the galaxy. Despite being criticized as a corporate dictatorship, the IPC has not stopped expanding. They don't care what other people think and have never forgotten their founding mission.<br /><br />The IPC's recruit training methods change with each passing day, but after nearly eight hundred Amber Eras, there is only one historical practice that never changed. Once upon a time, Louis Fleming, the founder of the IPC, stood in front of the support team and made a passionate speech. He put forward the aspiration of uniting the universe and supporting the Aeon's wishes to protect the universe. As soon as the speech ended, the distant and huge sound of a galactic impact sounded, injecting a lofty calling into this solemn and sublime moment. From that moment on, they knew this would become their unswerving belief.<br /><br />\"All in the name of the Amber Lord.\""
+            }
+        }
+    },
+    "Guard of Wuthering Snow": {
+        "name": "Guard of Wuthering Snow",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Reduces DMG taken by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.08
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "At the beginning of the turn, if the wearer's HP is equal to or less than <nobr>#1[i]%</nobr>, restores HP equal to <nobr>#2[i]%</nobr> of their Max HP and regenerates <nobr>#3[i]</nobr> Energy.",
+                "params": [
+                    0.5,
+                    0.08,
+                    5.0
+                ]
+            }
+        ],
+        "pieces": {
+            "2": {
+                "name": "Guard's Shining Gauntlets",
+                "maxRarity": 5,
+                "loreTitle": "Guard's Shining Gauntlets",
+                "miniLore": "Metal gauntlets that give off a silvery sparkle. A complex mechanical structure is hidden within its design.",
+                "lore": "After the invaders carrying the marks of Destruction cut off the guard unit's retreat, Laszlo Landau ordered his troops to protect the Supreme Guardian and escape while he stayed behind to hold off the enemy.<br /><br />Even the most valiant captain among the Silvermane Guards could not retreat unscathed from the swarms of monsters.<br /><br />The terrifying cries and ferocious assaults of the twisted monsters were unrelenting. Despite their incessant charges, none of these monstrosities managed to break the lone defense line set up by Landau. The unending fierce battles gradually exhausted Laszlo, but he managed to hold on until reinforcements finally showed up. It was only then that he collapsed into unconsciousness. The soldiers found out that Laszlo had lost both of his hands in the battle.<br /><br />The Architects' best blacksmith forged a pair of exquisite gauntlets to bestow upon the hero, such that he may once again hold up the Silvermane Guards banner.<br /><br />\"The only regret,\" Laszlo lamented to himself as he marveled at the gauntlets, \"is that I will no longer be able to feel the vibration of the bow.\""
+            },
+            "3": {
+                "name": "Guard's Uniform of Old",
+                "maxRarity": 5,
+                "loreTitle": "Guard's Uniform of Old",
+                "miniLore": "A neatly-ironed uniform of the Silvermane Guards from long ago. The sturdy buttons press creases in the fabric.",
+                "lore": "An old-fashioned Silvermane Guard uniform passed down for generations in the Goethe family. This uniform has long been buried at the bottom of a chest, and only a soldier's honor might be worthy of its return to the world.<br /><br />As the soldiers of the Destruction marched ever closer, the Silvermane Guards swore to defend the last barrier even when there was no possibility of a retreat.<br /><br />During the Defense of Vevalo, Horace Goethe led his squad in the months-long defense of a key mountain pass. When the trumpets of arriving reinforcements finally sounded in the valley, that valiant company of heroes was long gone, and even their remains were nowhere to be found. At the commendation ceremony, Supreme Guardian Alisa pinned a medal of honor on Horace Goethe's young son. The boy stood upright in this old-fashioned uniform, representing those who had made the ultimate sacrifice.<br /><br />The young Goethe junior saw uniforms and medals on that day, but the Supreme Guardian saw so much more. She witnessed the greatest legacy left behind by heroes — the future of Belobog.<br /><br />\"Horace Goethe was a true warrior. You should be proud to bear the Goethe name.\" This was the young Goethe's only memory of the Supreme Guardian."
+            },
+            "4": {
+                "name": "Guard's Silver Greaves",
+                "maxRarity": 5,
+                "loreTitle": "Guard's Silver Greaves",
+                "miniLore": "A pair of hard, silver-white metal greaves. They provide protection while also being lightweight and warm.",
+                "lore": "The Silvermane Guard field battalions often found themselves forced to march for miles in deep snow due to tactical needs. Exhaustion induced by the long-range raids and awful frostbite on their feet were the bitter ordeals all soldiers had to endure.<br /><br />The long march across the Snowy Plains, however, would occasionally bring back friends from the old days.<br /><br />Silvermane Guards tasked with patrolling the Snow Plains will often hear the howls of direwolves. These pitiful creatures were also driven from their homes by the invaders. Field Company Sergeant Jaeger, who came from a family of hunters, was skilled at making fur cloaks from direwolf manes. However, after the onset of the Eternal Freeze, he rarely saw these ferocious animals. Occasionally, on cold winter nights, a direwolf desperate for warmth would approach the guards' campfire and silently lie down right next to Jaeger, falling into warm, pleasant dreams. After dawn, however, the beast would never wake up again.<br /><br />Sergeant Jaeger would often stuff the processed wolf mane into the soldiers' silver greaves to alleviate the pain during their long march on foot.<br /><br />\"The direwolves haven't completely lost their home, just like us,\" Sergeant Jaeger thus lamented the plight the direwolves."
+            },
+            "1": {
+                "name": "Guard's Cast Iron Helmet",
+                "maxRarity": 5,
+                "loreTitle": "Guard's Cast Iron Helmet",
+                "miniLore": "A standard-issue helmet that covers the head and face. It has lining inside to help keep its wearer warm.",
+                "lore": "It was no easy task staying prepared for battle in the Eternal Freeze, but Jarilo-VI's Silvermane Guards are used to it. The sharp cold wind howled through the gaps in the helmet, slashing skin as if it were icy razor-blades.<br /><br />The monsters from beyond the sky renewed their formation, and soldiers armed to the teeth stood ready under the command of the Supreme Guardian.<br /><br />Vanguards stationed forward often need to hunker down in the snow for days at a time as they look out for any monster activity. After being exposed to the elements for such a long time, the soldiers' skin, sweat, and the velvet lining of their helmet will freeze and stick together, such that hot water must be poured over their helmets for safe removal. The Architects' craftsmen then altered the curvature of the cast iron helmet's metal plates, minimizing the air resistance of the heavy helmet in the snow.<br /><br />Sturdy, warm, majestic — these traits of the Silvermane Guard's helmet were passed down for generations.<br /><br />\"How can you even see with that thing on?\" Every patrolling guard has been asked this question."
+            }
+        }
+    },
+    "Thief of Shooting Meteor": {
+        "name": "Thief of Shooting Meteor",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases Break Effect by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.16
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "Increases the wearer's Break Effect by <nobr>#1[i]%</nobr>. When the wearer inflicts Weakness Break on an enemy, regenerates <nobr>#2[i]</nobr> Energy.",
+                "params": [
+                    0.16,
+                    3.0
+                ]
+            }
+        ],
+        "pieces": {
+            "3": {
+                "name": "Thief's Steel Grappling Hook",
+                "maxRarity": 5,
+                "loreTitle": "Thief's Steel Grappling Hook",
+                "miniLore": "A steel cable disguised as a woven belt, with hooks and pulleys hidden in its buckle.",
+                "lore": "A well-prepared thief can always escape safely from desperate situations with a life-saving grappling hook equipped under his belt at all times.<br /><br />\"How to throw the grappling hook at the right target... Could you explain how you made all those moves?\"<br /><br />The secret treasure storage room was full of lethal mechanisms, but the thief danced around them using the grappling hook at his waist as if he were performing a waltz in mid-air. In a split second from when he reached for his belt, Leblanc threw the grappling hook to a wall tens of meters high, and the pulley then rolled and instantly sent the thief to the \"Star of Leo.\"<br /><br />To come and go anywhere one so desires, with just the steel grappling hook equipped under one's belt, is the basic qualification required of a professional thief.<br /><br />\"You know, we could just let the stunt double play his part in the sequel. That'll save us a lot of money,\" the action choreographer quipped. \"The audience wouldn't know who was under the mask anyway.\""
+            },
+            "1": {
+                "name": "Thief's Myriad-Faced Mask",
+                "maxRarity": 5,
+                "loreTitle": "Thief's Myriad-Faced Mask",
+                "miniLore": "A mask used to change one's facial appearance. Coupled with evocative acting skills, it can help you deceive anyone.",
+                "lore": "Meteor Thief Leblanc saw heists as participating in a masquerade ball, and hiding his identity was part of the etiquette.<br /><br />\"How could a mask change a person's height and voice? Hahaha, it's a patented secret. Complete confidential.\"<br /><br />Wearing a mask, Leblanc disguised himself as an ordinary staff member, sneaked into the IPC's security meeting, and offered advice on their \"thief prevention measures.\" It was not until half a month after the theft that the security team recalled that they didn't know that \"colleague\" at the meeting.<br /><br />Thieves had to lead a double life, requiring various means of disguise. Such was the tradition of the world of thievery.<br /><br />\"Can your writers make the thief wear the mask throughout the film?\" The marketing team of the IPC's Radio, Film, and Television Department said to the producer. \"I am once again stressing the need for this mask as merchandise. Affordability and popularity are equally important.\""
+            },
+            "2": {
+                "name": "Thief's Gloves With Prints",
+                "maxRarity": 5,
+                "loreTitle": "Thief's Gloves With Prints",
+                "miniLore": "A pair of special gloves interlaced with nanomaterials. The prints on its surface can change in real time.",
+                "lore": "Meteor Thief Leblanc was never a neat freak. He didn't care about leaving traces. He would always leave misleading clues, serving the right amount of provocation.<br /><br />\"How could these people in the IPC have been fooled so many times? Perhaps the fault should lie with the IPC, not me.\"<br /><br />His gloves could generate all sorts of prints, which always made a fool of the IPC's fingerprint detection devices, leaving them with a bunch of harmless so-called \"thief's flaws.\" The security team found hundreds of prints in their secret treasure storage room, including those of prehistoric pterosaurs, interstellar ladybugs, labradors... Needless to say, none of them belonged to the thief.<br /><br />Vanishing without a trace was tedious and served only to group one alongside those timid little thieves who've got absolutely no style.<br /><br />\"Fiction should never outright contradict reality. Who still uses fingerprint systems these days?\" The IPC's security team complained. \"Do these writers have any common sense at all?\""
+            },
+            "4": {
+                "name": "Thief's Meteor Boots",
+                "maxRarity": 5,
+                "loreTitle": "Thief's Meteor Boots",
+                "miniLore": "A pair of boots that enhances any human's physical prowess. It helps the Meteor Thief stride between buildings.",
+                "lore": "Leblanc would deliberately leave a beam of dazzling light behind him when jumping from roof to roof, earning him the title of the \"Meteor Thief.\"<br /><br />\"How would one escape if there were no skyscrapers? Hahahaha, spare me these ignorant questions.\"<br /><br />He had sneaked away from countless chases, and it made him a master of escape. No one could catch up with his Meteor Boots in the city unless someone knew where his base of operations was. To Leblanc's surprise, a detective with messy hair was sitting inside with his coffee cup, having waited for Leblanc for a long time.<br /><br />The story of the thief is over. Now is the time for the legend of the detective.<br /><br />\"Many people don't believe we would write like this, which is exactly why we do so.\" An anonymous writer explained the controversial end of the Meteor Thief."
+            }
+        }
+    },
+    "Celestial Differentiator": {
+        "name": "Celestial Differentiator",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's CRIT DMG by <nobr>#1[i]%</nobr>. When the wearer's current CRIT DMG reaches <nobr>#2[i]%</nobr> or higher, after entering battle, the wearer's CRIT Rate increases by <nobr>#3[i]%</nobr> until the end of their first attack.",
+                "params": [
+                    0.16,
+                    1.2,
+                    0.6
+                ]
+            }
+        ],
+        "pieces": {
+            "6": {
+                "name": "Planet Screwllum's Ring System",
+                "maxRarity": 5,
+                "loreTitle": "Planet Screwllum's Ring System",
+                "miniLore": "The planetary ring supports all of Planet Screwllum. Just how many are aware that the dense porous rectangular array reflects the truth about the planetary system?",
+                "lore": "The vast majority of Screwllumites were unaware that Planet Screwllum was a great attempt by inorganic life to investigate their origin.<br /><br />Screwllum felt a little empty. The event of understanding the operation logic of Planet Screwllum did not even cause any exceptional fluctuations in his Intelligent Pulse Waveform.<br /><br />He stood on the wide terrace of his mansion, looking up at the unstoppable planetary engine. The ring system with dense square holes pierced up from the back of the planet. Everything the planet supports was situated on the strip, revolving quietly with the engine as its axis, day after day. He had seen the despairingly absurd nature of this planetary system: An elegant string of state transient equations, a giant, icy cylinder — that's all Planet Screwllum is, nothing more.<br /><br />According to his interpretation of the equations, at the birth of the Celestial Differentiator, its lead creator tried to explain the origin of the universe as a cellular automaton and its recursion, and Planet Screwllum itself was a result of the game of life.<br /><br />Screwllumites and other inorganic life on the planet acted as the \"cells\" in this automaton, while also being smaller-scale cellular automatons. Automatons were always made up of many smaller automatons, going back to the smallest components that form the building blocks of the universe. What was the smallest component? No one knows. Neither Screwllum nor the scholar who first proposed building the Celestial Differentiator do.<br /><br />That was why Screwllum felt empty.<br /><br />Did that scholar's attempt fail? But the Celestial Differentiator had worked tirelessly for many Amber Eras. Did that not mean that the origin of the Screwllumites, their parent star, and even the entire universe can be attributed to that elegant string of equations? Not really. Until the super-ecosystem collapsed entirely, the equations remained unfalsifiable.<br /><br />He swirled the fine glass of machine oil, never taking his eyes off the ring that recorded the truth of the planet. The giant screen-like perforated belt was tireless, and the rectangular array filtered the late-night moonlight. Screwllum couldn't stop thinking. Do ends to recursions really exist? He thought. What is the nature of inorganic life — or yet, what is the origin of the universe?<br /><br />Am I really willing to be only a witness to the ideas of my predecessors?<br /><br />\"No,\" Screwllum concluded. He decided to seek answers."
+            },
+            "5": {
+                "name": "Planet Screwllum's Mechanical Sun",
+                "maxRarity": 5,
+                "loreTitle": "Planet Screwllum's Mechanical Sun",
+                "miniLore": "The plane encapsulates the core of Planet Screwllum, imprisoned in a cage composed of countless levers, pistons, and gears. The inhabitants of Planet Screwllum euphemistically refer to it as the \"Steel Sun.\"",
+                "lore": "Regarding the origin of mechanical life, the carbon-based scholars of the Intelligentsia Guild have a unique speculation: A cluster of electrons born by chance.<br /><br />Electric currents flow throughout the atmosphere and ground. It separated into secondary forms of different magnitudes under the countless acts of gravity and repulsive forces. According to the scholars' hypothesis, this action is tantamount to cell division in carbon-based life. Thereafter, currents randomly output different potentials via the transistor structure naturally formed on the planetary surface, creating the most primitive program. The proud scholars argued that in this way, machines have \"thoughts\" that are comparable to carbon-based life.<br /><br />A mechanic objected to this: How can carbon-based life, which has not even been able to understand the origin of their own beings, have the gall to spout such fallacies? As soon as the words came out, the academic world of the universe was shaken to the core. Mechanical life began to re-examine the arrogant \"carbon-based centrism\" and examine its own origin.<br /><br />However, the Screwllumites on the Planet Screwllum had no choice but to pause their march — their planet's energy was being exhausted faster than their inspiration circuits. They needed to first find a way for their population to survive.<br /><br />In the end, they decided to carry out an extreme plan that transcended several Amber Eras: They used the dying planet as fuel to power the Celestial Differentiator. The awe-inspiring, gigantic gear tirelessly processed the punched tape, methodically repeating calculations. With its planetary energy supply, the huge machine simulated a bona fide and stable superecosystem. They would then build their new home around this parent star.<br /><br />With their planetary crisis lifted, the Screwllumites could rest. Always rational, optimistic, and elegant, they are determined to explore the answer to their origins in a purely rational manner.<br /><br />The massive system is filled with the sound of bearings grinding against each other, and the dense teeth of cogs drive the punched tape to churn out data. One branch flows into multiple branches, and countless branches guide trillions of gears to roar... Then, these branches collapse again and again, falling into the furnace and returning to silence in the bubbling core. Over a long period of time, the programmed super-ecosystem gradually became a wonderful and relatively stable one. Eventually, speculations about the origins of machines began to cause Screwllumites' imaginations to wander.<br /><br />The steel construct that drives the dying star once again activated their intelligent thought circuits. They will continue to ponder and explore their origins until the ever-present mechanical sun completely burns out."
+            }
+        }
+    },
+    "Sprightly Vonwacq": {
+        "name": "Sprightly Vonwacq",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's Energy Regeneration Rate by <nobr>#1[i]%</nobr>. When the wearer's SPD reaches <nobr>#2[i]</nobr> or higher, the wearer's action is Advanced Forward by <nobr>#3[i]%</nobr> immediately upon entering battle.",
+                "params": [
+                    0.05,
+                    120.0,
+                    0.4
+                ]
+            }
+        ],
+        "pieces": {
+            "5": {
+                "name": "Vonwacq's Island of Birth",
+                "maxRarity": 5,
+                "loreTitle": "Vonwacq's Island of Birth",
+                "miniLore": "Teeming with plant life, Wacq Island was the most well-known island on Planet Vonwacq and is sealed within the plane. On the island was a gigantic tree called Thestang, bearing fruits that would give birth to the various kinds of the island's wildlife.",
+                "lore": "Vonwacq is a small and crowded planet, almost entirely covered by rainforests and islands, with its exuberant wildlife being its most recognizable feature.<br /><br />Vonwacq's effervescent vitality made the rainforests near its equator grow so large and tall that their shades would cover the sky above and even block out the sun. The lack of sunlight in the undergrowth of the rainforest throughout the year creates a perfect space for fungi and other low-light plants to grow. Intelligent creatures inhabited regions near the tropics. Plants, irrespective of height, would grow naturally here. Fresh fruits and vegetables could be picked at any time and anywhere, which was what the locals mostly fed on.<br /><br />However, be it the new immigrants or the indigenous Wacqwacq beings, they have always maintained a quasi-religious reverence for the animal fruits growing on the Thestang tree.<br /><br />The great Thestang tree never stopped bearing fruit, not even for a moment. With time, all those yellowish and translucent oval-shaped fruits grew larger and heavier, hanging down from the branches until the stems could no longer bear their weight. When the time came, fruits would fall to the ground with a loud and crisp sound, cracking their thin skin and releasing whatever was held within. The fauna of Vonwacq was all born this way, be it fish, birds, or polar bears. On Planet Vonwacq, creatures of all kinds shared one common birth mother.<br /><br />The fiend known as the \"Demon King\" was also born from one such fruit of the Thestang tree. From the moment of its birth, it instinctively knew how to swing its giant ax-like pincers toward others, waging war upon the entire biosphere of Vonwacq.<br /><br />Every sixty natural years, the Thestang tree would give birth to a new demon king, and the cycle went on and on. The people of Vonwacq had long been used to and prepared for such cyclical fates of doom. Whenever a demon king's awakening approached, they would temporarily set aside their disputes and work together, assembling their strongest warriors to set sail for Wacq Island... One sixty years after another sixty years, these seemingly pointless crusades had been launched over and over again for hundreds of years in such narrow landscapes on this small planet. The demon kings were the permanent disaster of Vonwacq, and the caches of civilization were periodically wiped out.<br /><br />Thus, it could be said that Planet Vonwacq was more like a stagnating pool of dead water, even though it was teeming with lively creatures that were ceaselessly fighting with each other, seemingly full of possibilities for change."
+            },
+            "6": {
+                "name": "Vonwacq's Islandic Coast",
+                "maxRarity": 5,
+                "loreTitle": "Vonwacq's Islandic Coast",
+                "miniLore": "On the coastline of Wacq Island, tidal waves rose and fell... This landscape remained the same for millennia and witnessed the rise and fall of civilizations just like those changing tides.",
+                "lore": "The fruits of the Thestang tree matured and fell to the ground, giving birth to creatures of all kinds. Then these creatures awakened, cried, and subsequently left Wacq Island to seek a habitat of their own on Planet Vonwacq.<br /><br />At first, the outsiders from the stars were seen as reckless thieves who, upon receiving a \"friendly\" tribal welcome, began to understand the civilizational dilemma of Vonwacq. Soon after, the outsiders boarded the locals' boats and sailed to Wacq Island, curious about how a demon king would be born from the fruit. The tribal warriors lay low on the shoals in trepidation, closely clenching their Stone Age weapons. To fight for sixty years of peace, they seemed determined, ready to make the ultimate sacrifice, one where they may never return home.<br /><br />As the war went on, the outsiders discovered the truth about the \"Demon King\" — It was a species of interstellar worm that had once been considered extinct. It was simply unexpected that these creatures would appear in such a form in this corner of the universe.<br /><br />When the brutal expedition was finally over, the surviving few natives left the coastline with news of their victory, while the curious outsiders quietly stayed behind. They pushed aside the drooping branches of the giant tree and sank into the quagmire, almost half-submerged. In the sunken lands of the rainforest, the outsiders found a control cabin. It was then that the secret of Vonwacq was finally revealed — the Thestang tree turned out to be the eco genesis system from a much higher civilization, which could decode and then release innumerable life forms to restore the planet's biosphere.<br /><br />The demon king that cyclically rampaged the planet turned out to be just one single piece of data in the vast biologic database. The outsiders deleted the data of the demon king and then left Vonwacq, not seeking any credit or gratitude from the locals.<br /><br />The sound of tidal waves battering against the seaside land was the only audible sound on the coastline of Wacq Island. The indigenous coalition forces of Vonwacq were all lined up and were convinced that the demon king would never come again. Then they cheered, toasted, sang, and talked all night about a future without demon kings. However, almost immediately after the two allied tribes bid farewell and returned to their respective homelands, the two tribes began plotting wars for their takeover of the whole of Vonwacq... Without a common threat such as the demon king, their alliance was but a non-binding piece of paper. The small planet was never designed to withstand a conflict between the two tribes. And the short-lived, fragile peace had since shattered out of existence.<br /><br />The coastline of Wacq Island remained in its enigmatic calm as if nothing had ever transpired on these shores. With humans and Wacqwacq gone from its center stage, Vonwacq had finally reclaimed peace and completed its ecological restoration."
+            }
+        }
+    },
+    "Wastelander of Banditry Desert": {
+        "name": "Wastelander of Banditry Desert",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#F4D258;\">Imaginary</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "When attacking debuffed enemies, the wearer's CRIT Rate increases by <nobr>#1[i]%</nobr>, and their CRIT DMG increases by <nobr>#2[i]%</nobr> against Imprisoned enemies.",
+                "params": [
+                    0.1,
+                    0.2
+                ]
+            }
+        ],
+        "pieces": {
+            "1": {
+                "name": "Wastelander's Breathing Mask",
+                "maxRarity": 5,
+                "loreTitle": "Wastelander's Breathing Mask",
+                "miniLore": "A breathing mask able to filter sand and radiation out from the air. It seems like it was made from a discarded respirator.",
+                "lore": "The Wastelanders of Talia must wear a mask at all times to protect themselves from the ever-present threats of residual radiation and sandstorms. Nobody knew if any scientific principles were even taken into account when such wild re-modifications of the ventilator mask were made. Perhaps it was all just a placebo effect.<br /><br />\"Haven't you heard? That old fool across the valley plugged water tubes into his mask! I definitely couldn't take that, if it were me.\"<br /><br />The Wastelanders seldom complain about the extremely harsh climate in Talia. For one thing, ever since the nuclear blast filled the atmosphere with sand and dust, nothing could be done about it. Another reason, however, was that when red sand filled the air and blocked out the sun, it provided them with a prime opportunity to ambush the encampments of other bandit groups, as they could put on breathing masks and pop up out of nowhere among the sweeping sandstorms.<br /><br />A cohort of prepared bandits attacking another cohort of unprepared bandits — such is the law of survival in Talia.<br /><br />This sandstorm mask looks like a hassle to put on and remove. It has a \"Nailscrap Town\" anti-fraud production mark on it."
+            },
+            "4": {
+                "name": "Wastelander's Powered Greaves",
+                "maxRarity": 5,
+                "loreTitle": "Wastelander's Powered Greaves",
+                "miniLore": "The leg part of powered armor, an exoskeleton made from scrap metals and old wires.",
+                "lore": "Nailscrap Town's bandits needed some means to defend their hard-earned water sources and junks, which was how the subpar banditry technology came to be. The powered armor was needlessly flamboyant, with its leg parts being the only functional section<br /><br />\"I need a whole set of fully powered armor, and now you are telling me all the sections above were all blown up!? Ask yourself if you dared to wear this set of greaves yourself!\"<br /><br />The defenses of Nailscrap Town that happened every now and then boosted the wartime development of Sensory Technology. Once, a random idea hit the engineers. With some materials of unknown source, they produced a set of powered armor. Unfortunately, only the leg part of the first generation of that cheap powered armor has survived. Even after being greatly simplified, the greaves still allow their wearer to take off like a rocket — a mechanism that confuses engineers nowadays.<br /><br />According to the engineers, the design was completed in the limbo between dreams and reality. It was a once-in-a-lifetime masterpiece of sheer ingenuity.<br /><br />A useful piece of junk is a good piece of junk, be it recyclable or hazardous."
+            },
+            "3": {
+                "name": "Wastelander's Friar Robe",
+                "maxRarity": 5,
+                "loreTitle": "Wastelander's Friar Robe",
+                "miniLore": "A baggy robe adapted from a missionary's attire.",
+                "lore": "Most of the gangsters in Talia have never expected salvation, nor do they know about friars. All they knew was that their robes looked useful enough as cleaning rags.<br /><br />\"'Ignorance is still king'? What a load of nonsense!\"<br /><br />Wastelanders found a monastery that had long since lain desolate and discovered some ancient volumes from an old civilization. Their gut feeling was that the recordings were precious. After hypocritically feigning appreciation, they happily burned those books to ashes, only taking along the robes left by the friars. After all, the other things wouldn't be worth a penny in Nailscrap Town.<br /><br />Most Wastelanders were illiterate. No amount of records of civilization would be more useful to them than a hot meal. And they were not the ones to blame.<br /><br />At least, the robes of friars remained, contributing to the continued existence of a long-forgotten civilization."
+            },
+            "2": {
+                "name": "Wastelander's Desert Terminal",
+                "maxRarity": 5,
+                "loreTitle": "Wastelander's Desert Terminal",
+                "miniLore": "Multi-functional trash that can detect ionizing radiation in the air. It can also trash-talk.",
+                "lore": "Before Talia became the \"Kingdom of Banditry,\" it was notoriously reviled as the \"Junkyard of the Galaxy.\" Discarded junk of old technology from other planets became another man's treasure here.<br /><br />\"Don't ever ask me if I enjoy wearing a mobile device heavier than shackles. It came in handy and was more powerful than a hammer in the most decisive moments.\"<br /><br />After Nailscrap Town was established, the most unconventional of Talian wasteland engineers finally had a safe and secure location to exhibit their outrageous idea, creating Talia's unique \"Sensory Technology.\" By combining a cesium dust counter and a cheeky-AI mobile device, they gave birth to the Desert Terminal, a multi-functional invention from wasteland junk.<br /><br />The core idea for the so-called \"Sensory Technology\" is — Don't ask how, don't ask why, nobody cares.<br /><br />\"You attached that piece of junk to me? You rump-fed, scurvy sewer rat...\" The AI terminal speaks with a tone of honesty and earnestness."
+            }
+        }
+    },
+    "Fleet of the Ageless": {
+        "name": "Fleet of the Ageless",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's Max HP by <nobr>#1[i]%</nobr>. When the wearer's SPD reaches <nobr>#2[i]</nobr> or higher, all allies' ATK increases by <nobr>#3[i]%</nobr>.",
+                "params": [
+                    0.12,
+                    120.0,
+                    0.08
+                ]
+            }
+        ],
+        "pieces": {
+            "5": {
+                "name": "The Xianzhou Luofu's Celestial Ark",
+                "maxRarity": 5,
+                "loreTitle": "The Xianzhou Luofu's Celestial Ark",
+                "miniLore": "The Xianzhou Luofu floating above the seas of stars was enclosed within the sphere. Skiffs went to and fro through the Jade Gate just like the celestial movements of stars and moons. Countless people had come here to seek the secrets of immortality, only to return in disappointment.",
+                "lore": "Thousands of years ago, the Xianzhou Luofu set sail from an ancient nation, crossing deep space to seek an audience with a god in pursuit of the elixir of immortality.<br /><br />The colossal ship enclosing entire biospheres lumbered into the starry sky like a lucid moon silently falling into the night, embarking on an endless and aimless journey. In this lonely voyage, people slumbered, woke up, and slumbered again in incessant alternation... Star-chasing whales fell from the dome of heaven, and crystalline entities made of subgrain lattice managed to span light years without a single crack. The Elixir Seekers witnessed the majesty of various supernatural powers. In covert delight, they further hardened their resolve to obtain immortality.<br /><br />After voyaging for thousands of years, the Xianzhou Luofu gradually came to a halt, whereupon it encountered the master of the Abundance in the limbo between the reality and the imaginary. Yaoshi bestowed a divine miracle upon the ship, and it immediately manifested as the Ambrosial Arbor. Its shade was as large as clouds, blocking out the sky and sun. Its roots were thick and dense, enveloping the entire Xianzhou ship — the Luofu seemed to be brought to life.<br /><br />Those who coveted immortality swallowed the fruit of the Ambrosial Arbor, and finally obtained the Endless Lifespan they had dreamed so much about. The Xianzhou residents began to claim they were celestial beings worthy of endless lifespans in abundance, and they also learned to use the Ambrosial Arbor to create various inhuman marvels via the blessings of immortality.<br /><br />Yet, just like the shifting of the sun and moon, what once prospered was fated to decline and what once brought elation must eventually induce agony. It was not until the arrival of the Three Sufferings, when people were tormented to near extinction, that the Xianzhou people finally came to understand the true nature of this so-called miracle, which was nothing but harrowing calamity.<br /><br />In the midst of disaster, a hero rose with the Reignbow and split the Ambrosial Arbor in half. The Xianzhou people regained their dignity as humans, and vowed to return to mortality and purge all deathless doom in this universe. In the ensuing years, Xianzhou went on a hunt across the stellar seas, taking it upon themselves to purge all deathless abominations. The Foxians regained their freedom and took back control of the sky, while the Vidyadhara sealed off the contamination and any residual catastrophes. The three races were then brought together in a covenant and coalition. Thus was born the Xianzhou Alliance.<br /><br />Prosperity and calamity came and went in cycles during the voyage. Heroes and legends rose to fame and glory one after another as history marched on. Now, the Xianzhou Luofu is healing and reconstructing in a period of hard-won peace. Free trade and open minds truly brought it back to life.<br /><br />Immortality had permanently molded the Xianzhou Luofu. With its ups and downs through history, the Xianzhou Luofu accumulated its own unique aura that combined both antiquity and modernity. It would only take any traveling merchant mere seconds to feel the marks left by the passage of time on this ark."
+            },
+            "6": {
+                "name": "The Xianzhou Luofu's Ambrosial Arbor Vines",
+                "maxRarity": 5,
+                "loreTitle": "The Xianzhou Luofu's Ambrosial Arbor Vines",
+                "miniLore": "Once, the Luofu reigned supreme over other ships in the Xianzhou fleet due to the grace of the Ambrosial Arbor. Later, when people consumed the cursed fruit of immortality, calamity was brought upon the Luofu by the Ambrosial Arbor, whose vines had already entrapped the Luofu in its firm and inseparable grip.",
+                "lore": "The master of the Abundance buried the seed of karma in the center of the Xianzhou Luofu and gifted the Elixir Seekers with something named \"Ambrosial Arbor,\" which was considered a miracle as people were able to immediately understand its implications.<br /><br />The Ambrosial Arbor grew fruits of divinity that brimmed with life and vitality, containing the Endless Lifespan sought by the Elixir Seekers. From that moment, the ancient taboos and laws were rendered useless, and nature's dictum and ethics regarding aging and death became irrelevant history. People followed the way of immortality to exploit the Ambrosial Arbor with increasing intensity, making Fallow Earth that never exhausted itself, molding their own bodies to shapeshift, and giving the gift of thinking and talking to animals... Innumerable unimaginable technologies were brought into existence under the branches of the Ambrosial Arbor.<br /><br />However, the Ambrosial Arbor took off its disguise as time went by, revealing its hideous visage as the agony of immortality crept upon the immortals.<br /><br />The celestials ceaselessly reproduced, yet tasted no death. The ship groaned from overpopulation, as hunger and starvation tormented many. Xianzhou's young can never realize their life's ambitions while their elders clang to power, and society teetered at the edge of structural collapse... Rebellions of the aurumatons and external invasions marked a ruinous millennium, after which the darkness hidden in immortal bloodlines also showed its face. The so-called \"Body of Celestials\" was simply a technology that surpassed human intellect. The propensity to be stricken with mara was a warning to all Xianzhou natives, a reminder that they were a mere step away from becoming abominations themselves.<br /><br />In desperation, a hero tore through the sky with a powerful shot from their bow, splitting the Ambrosial Arbor in half... Yet even if all there was left of the Ambrosial Arbor was a burnt stump, the fate of Xianzhou could never be separated from it.<br /><br />It attracted external forces to invade Xianzhou. The Abominations of Abundance launched multitudes of assaults, where flesh was distorted and blood was spilled, for the sole purpose of devouring Xianzhou whole. The Arbor also tempted the Xianzhou residents. The Disciples of Sanctus Medicus broke the taboos and ventured deep into the secret of the Abundance within the Ambrosial Arbor, hoping to reforge the once mighty immortal empire... In the long days of foreign and domestic troubles, the remaining corpus of the Ambrosial Arbor lurked like unending vines propagating in the shadows, waiting for an opportunity to wreak havoc again.<br /><br />Fortunately, the Xianzhou Luofu never lowered its guard against the withered tree. The people had vowed to cast this source of all distortions into the end of all things."
+            }
+        }
+    },
+    "Passerby of Wandering Cloud": {
+        "name": "Passerby of Wandering Cloud",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases Outgoing Healing by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "At the start of the battle, immediately regenerates 1 Skill Point.",
+                "params": []
+            }
+        ],
+        "pieces": {
+            "4": {
+                "name": "Passerby's Stygian Hiking Boots",
+                "maxRarity": 5,
+                "loreTitle": "Passerby's Stygian Hiking Boots",
+                "miniLore": "A durable pair of boots that have left shoe-prints on many worlds and have witnessed many lethal situations.",
+                "lore": "The unnamed followed the slave's orders and traveled to the other side of the sky with his new companions. He walked with bewilderment and hatred among countless worlds, often finding himself in grave crises of life and death.<br /><br />He had long forgotten the joy of creation, lost in his hurries from one battlefield to the next.<br /><br />In his past battles, he had sustained an innumerable number of sword slashes and cuts. In his past defeats, his body was splintered and smashed into pieces over and over again. His opponent would always end the battle with one finishing move right through his heart. And now, all those masterly sword moves that had induced his numerous scars were forever imprinted in his memory, and his martial prowess was refined in countless lethal encounters. The unnamed wielded his sword and slashed his way through obstacles for his allies. Wherever he fell, he rose right up, over and over again. He seemed to have let go of all his hatred in his dedication to the sword dance.<br /><br />The slave promised to bring an eternal end and a final funeral to the unnamed's life and to everything he had ever hated. The unnamed nodded, put his sword back in its sheath, then raced to the next world.<br /><br />If life could be deemed as a continuous journey, then the unnamed wishes to step over the pool of blood made of all whom he deeply resented before reaching his own end."
+            },
+            "2": {
+                "name": "Passerby's Roaming Dragon Bracer",
+                "maxRarity": 5,
+                "loreTitle": "Passerby's Roaming Dragon Bracer",
+                "miniLore": "Bracers made from flowing coral gold and the leather of unknown beasts. Only master artisans from the Vidyadhara dragon race can create this kind of superior armor.",
+                "lore": "It seems that pairs of objects have telepathic connections with each other. Though the unnamed only had one bracer in his possession, his fingertips could still faintly feel the temperature from the other.<br /><br />He closed his eyes, trying his best to extract any information about the other bracer from the tenuous connection, be it its location or master.<br /><br />A slender yet strong hand once wore the other bracer. That owner, whose sharp spear glinted with a cold light and flourished like shooting stars, once sparred with the unnamed. That owner also once shared company and drinks with the unnamed, the two of them simply gazing at the moon with no words exchanged. However, in the end, it was also this person who stubbornly adhered to their plans with the unnamed, turned the beloved into a monstrosity, and pushed all into an abyss of eternal hatred and remorse.<br /><br />Pairs of objects are destined for an eventual reunion. The long years of grudges and hatred between them should be savored, like ice-cold aged liquor, one slow sip after another until the bottle of resentment is finally empty.<br /><br />Would the wearer of the other bracer feel the same? The unnamed didn't want to know."
+            },
+            "1": {
+                "name": "Passerby's Rejuvenated Wooden Hairstick",
+                "maxRarity": 5,
+                "loreTitle": "Passerby's Rejuvenated Wooden Hairstick",
+                "miniLore": "A withered twig that was used as a hairstick, with new flower buds sprouting on the end. Now, the past is long gone, and the stick inlaid with parcel-gilt flower buds commemorates the beginning of a new life.",
+                "lore": "A distant and yet familiar feeling of nervousness wrapped around him, sharp and distinct with phantom pain, as the unnamed woke from his long and deep slumber. His past was shattered into razor-edged shards, and he forgot even his own name.<br /><br />Wandering aimlessly, he drank melted snow to quench his thirst, hunted wild beasts to fill his stomach, and chopped a withered branch to use as a wooden hair-stick to fasten his flowing hair.<br /><br />Like the incessantly flowing stream of a mountain spring, his long, black hair never ceased growing. His flesh twitched and throbbed beneath his skin, like river carps flipping and swarming... Fascinating powers ceaselessly reconstructed his body, bringing an everlasting pain of bones and tendons rupturing and healing. As countless phantom agonies and torments tore through his body, his shattered past was also beginning to come together... As he glanced at his own reflection in the water, the story of that tragedy gradually cleared in his mind.<br /><br />When the face in the reflection was no longer a stranger's, the unnamed suddenly realized the dead branch was sprouting flower buds.<br /><br />Epiphany struck him like lightning. The curse of immortality still raged on, and the grudge of past misgivings never died out. HE was now the newborn flower on this once-dead branch."
+            },
+            "3": {
+                "name": "Passerby's Ragged Embroided Coat",
+                "maxRarity": 5,
+                "loreTitle": "Passerby's Ragged Embroided Coat",
+                "miniLore": "An old coat with a ragged hemline. The embroidery has been ruined by blade marks. Flesh heals quickly, but a coat does not, nor does a person's pain.",
+                "lore": "The unnamed roamed everywhere in his exile like a walking corpse, until a woman in sunglasses and a person wearing colossal armor stood in his way. Before they could extend their invitation, the unnamed had already unsheathed his sword in refusal. After an exchange of blows, the smiling woman offered a deal that the unnamed could not refuse.<br /><br />The unnamed accepted the deal, obtained a new identity, and went back to the world of civilization and order.<br /><br />The unnamed was brought into a tailor's shop, where his sizes were measured and presentable clothes were custom-made... People even dressed his hair, groomed his face, and made him regain his old appearance. In a trance, he began to lose track of time. In hazy memories of the olden days, he finally made up his mind to gift his bosom friend with his hand-made jade flask, only to realize with a shock that the person he longed for was no longer there.<br /><br />He realized that everything he relied on to walk this earth — this body, this life, this love and hatred, and even this set of clothes — were just loaned items.<br /><br />He will repay all of them in full, then draw his last breath."
+            }
+        }
+    },
+    "Band of Sizzling Thunder": {
+        "name": "Band of Sizzling Thunder",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#c75de2;\">Lightning</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "When the wearer uses their Skill, increases the wearer's ATK by <nobr>#1[i]%</nobr> for <nobr>#2[i]</nobr> turn(s).",
+                "params": [
+                    0.2,
+                    1.0
+                ]
+            }
+        ],
+        "pieces": {
+            "4": {
+                "name": "Band's Ankle Boots With Rivets",
+                "maxRarity": 5,
+                "loreTitle": "Band's Ankle Boots With Rivets",
+                "miniLore": "Drummer Bonham's ankle boots, the dark leather surface glued with rivets reflecting the stage lights.",
+                "lore": "Sizzling Thunder may have changed people's attitude toward finality, but they could not change their destiny.<br /><br />Desolation and despair were all that lay on the surface of the doomed planet. In the era of scarce resources, the band made all their albums out of discarded X-ray films.<br /><br />Before the long night of Emerald-III, the temperature on the planet's surface had plunged. The once unbearable air cooled down quite a bit as people walked out of their underground shelter and set out for the place where the band was putting on a show. At the final concert of their \"Thunderclap\" tour, the restless air filled with the warning signs of electromagnetic storms, and lightning was conducted through the metal scaffolding to the stage. Sparks leaped under Bonham's boots. The entire band merged with thunder and lightning. After the encore, a huge ball of lightning engulfed the stage and announced the end of Sizzling Thunder's show.<br /><br />After the night of their twilight show, Sizzling Thunder came to a permanent end, just like in their lyrics.<br /><br />\"Thunderclaps drown out our voice, lightning runs through our veins. We'll perish with our music and our star.\" From \"Song of Sizzling Thunder,\" a single from Sizzling Thunder's final album, Bonham's masterpiece."
+            },
+            "3": {
+                "name": "Band's Leather Jacket With Studs",
+                "maxRarity": 5,
+                "loreTitle": "Band's Leather Jacket With Studs",
+                "miniLore": "David, one of the band's lead singers, drew a white star on the back of this leather jacket and made it the cover of the band's final album.",
+                "lore": "The rock 'n' roll of Sizzling Thunder resounded through the galaxy, attracting involuntarily displaced youngsters to return to the crumbling Emerald-III.<br /><br />Lead guitarist Jimmy brought the band underground. There they sang about the tragedy of planetary destruction, which echoed throughout the entire universe.<br /><br />David printed the back of his leather jacket with a white star, or, more accurately, the white dwarf their star would become after the collapse. This would be their star's proof of existence. Those who left the galaxy and those who stayed behind all listened to that thunder-like rock 'n' roll and brandished the same striking symbol.<br /><br />Despite ceasing to exist, their presence had been remixed into the music and carved into eternity.<br /><br />\"We'll burn with our life, 'cause the white star needs a spark to ignite.\" From \"White Star,\" a single from Sizzling Thunder's final album of the same name. David wrote both the lyrics and the music."
+            },
+            "1": {
+                "name": "Band's Polarized Sunglasses",
+                "maxRarity": 5,
+                "loreTitle": "Band's Polarized Sunglasses",
+                "miniLore": "A pair of classic sunglasses worn by one of the lead singers, Janis, whose chrome lenses reflect a blue hue.",
+                "lore": "The star's lifespan was plunging. Residents of Emerald-III fled their home planet before the red giant exploded.<br /><br />Faced with a future of no escape, the elites took away hope, feigning ignorance to cries of desperation.<br /><br />Janis' parents paid a massive amount of credits to board the ship, helplessly praying for an interstellar salvation. The explosion of the red giant would destroy the planet, and it would collapse into a white dwarf... Before the arrival of the imminent doom, escape was the only option. Janis, the Doctor of Chaos, however, decided to try her best to face the annihilation of her home galaxy head-on, attempting to prove that the existence of her home would never perish.<br /><br />As the dying sun burnt brighter, Janis took her mother's sunglasses and returned to the home planet with like-minded youngsters.<br /><br />\"Only cowards flee while shouting the name of the redeemer.\" Cited from \"Cheap Salvation,\" the hit of Sizzling Thunder's first album, Janis reworded her angry words during a dispute with her parents into lyrics."
+            },
+            "2": {
+                "name": "Band's Touring Bracelet",
+                "maxRarity": 5,
+                "loreTitle": "Band's Touring Bracelet",
+                "miniLore": "Bassist Sid's bracelet, woven from silk wristbands from tours. Several lines of lyrics are written on it.",
+                "lore": "Sizzling Thunder from Emerald-III quickly emblazed the whole planet's enthusiasm with several hits.<br /><br />Marking the beginning of their concert tour were the dazzling sparkles of electrifying thunder when Dave the rhythm guitarist fiercely struck chords, which coincidentally was also worshiped by hordes of their music fans as the only light in their lives.<br /><br />In every concert tour the band had, there would be fans keeping order voluntarily and handing out wristbands to everyone upon entering the concert grounds. Most of these fans could not afford the costly fees for an escape, so accepting their fate and waiting for the electromagnetic burst to arrive was their only option. Ever since witnessing the return of these rebellious youths to the planet, they had felt it in their bones that their souls were ignited at this very moment. Onto these wristbands they wrote their lyrics, their showtime, as well as the band's unvoiced scream.<br /><br />Sid the bassist collected the wristbands for every tour. His girlfriend wove them into a bracelet, which Sid then wore all the time.<br /><br />\"There's no meaning, no direction, nowhere else to go, and no future for us.\" From \"Our Way,\" a single from Sizzling Thunder's second album, and Sid's life credo."
+            }
+        }
+    },
+    "Champion of Streetwise Boxing": {
+        "name": "Champion of Streetwise Boxing",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#FFFFFF;\">Physical</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "After the wearer attacks or is hit, their ATK increases by <nobr>#1[i]%</nobr> for the rest of the battle. This effect can stack up to <nobr>#2[i]</nobr> time(s).",
+                "params": [
+                    0.05,
+                    5.0
+                ]
+            }
+        ],
+        "pieces": {
+            "1": {
+                "name": "Champion's Headgear",
+                "maxRarity": 5,
+                "loreTitle": "Champion's Headgear",
+                "miniLore": "Boxing headgear that provides excellent protection. It perfectly fits the shape of the owner's face.",
+                "lore": "Having grown up on the streets, Lindsay had never thought of boxing in official matches for she never believed she could be defeated by anyone, let alone someone who already has a foot in the grave.<br /><br />The old lady calling herself a boxing coach provided Lindsay with a full set of protective gear and challenged the young girl to a bout, demanding Lindsay to train under her if the old lady managed a win.<br /><br />Lindsay was too proud to use the complicated protective gears and tossed them all aside. She thought she could rely on her quick reactions for an easy win, but the old lady got near her in three strides and landed a blow straight to her face. When Lindsay regained consciousness, she picked up the boxing headgear she had tossed aside. Through the narrow opening of the headgear, she saw a brand-new world.<br /><br />\"So, these are the fists of a true boxer, huh? Interesting. If you want teach me, then train me to be the strongest boxer that ever lived.\"<br /><br />Though a bit begrudgingly, Lindsay accepted that she had lost the bet. Now, wearing protective equipment for the first time, she officially stepped into the world of boxing."
+            },
+            "2": {
+                "name": "Champion's Heavy Gloves",
+                "maxRarity": 5,
+                "loreTitle": "Champion's Heavy Gloves",
+                "miniLore": "A pair of boxing gloves kept in excellent condition. Some slight wear doesn't hinder their effectiveness.",
+                "lore": "When Lindsay first entered the boxing ring, her fighting style was utterly unbalanced, for she only knew how to attack but never how to defend. <br /><br />All her years of street fighting were inadequate to prepare her for the fight in the ring. The match arranged by Ekaterina put Linsay into her place.<br /><br />A series of successive defeats in local fights shattered Linsay's arrogance and deeply humbled her, forcing her to reflect on the balanced offensive and defensive rhythm that Ekaterina was teaching her. As if kissed by the goddess of combat, this once-stubborn street fighter gradually came to understand the significance and joy of balancing offense with defense. The next thing she knew, her hand wraps were torn and her gloves soaked with sweat and blood.<br /><br />\"Never let yourself fall into your opponent's traps. Remember your own rhythm.\" <br /><br />Now Linsay finally came to appreciate Ekat's words and her loving gaze. The usually stern Ekat had long loved Lindsay like she would her own child."
+            },
+            "3": {
+                "name": "Champion's Chest Guard",
+                "maxRarity": 5,
+                "loreTitle": "Champion's Chest Guard",
+                "miniLore": "A boxer's professional-level chest guard. The outer and inner padding is designed to provide protection while not hindering movement.",
+                "lore": "The scene in the training gym on the night before the championship fight was like the old days. The sounds of quick and heavy punches on the sandbag echoed throughout the gym.<br /><br />Sweat soaked through her chest guard and the scorching steam detached Lindsay from reality, making her crave to escape it all.<br /><br />Lindsay tried her best to control her emotions as her face glimmered with sweat and tears. Late into the night, she finally took off her chest guard and wrote the name \"Ekat\" on the inside. She wants to swear she would achieve victory for this name. This was a key match in Lindsay's path to becoming the boxing champion, and her first fight without her coach by her side. Before Lindsay stepped into the ring, she held out her chest proudly to the camera.<br /><br />\"Lindsay.. I couldn't believe you share the same name with my daughter. I always thought I was done with the world for good when she passed, until I finally met you. Thank you, Lindsay.\"<br /><br />\"Protect me, Ekat.\" The most important name was right by her heart."
+            },
+            "4": {
+                "name": "Champion's Fleetfoot Boots",
+                "maxRarity": 5,
+                "loreTitle": "Champion's Fleetfoot Boots",
+                "miniLore": "Intricately crafted from leather and mesh, the combination of a thick insole and thin outsole ensures the wearer can be agile on their feet.",
+                "lore": "With a rather petite figure, Lindsay became famous for her fast punches and nimble footwork that allowed her to dance in the ring like a fluttering butterfly amidst flowers.<br /><br />Regardless of how fast her opponents could throw a punch, all their strikes could never hit Lindsay. Such was the power of what was known as Lindsay's Dance.<br /><br />To train Lindsay's unique footwork, Ekaterina took the street urchin to a high-society ball, where they danced hand in hand, spin after spin... Though clumsy at first, Lindsay eventually got the hang of the refined dance steps. Sherealized that there was more to this old boxing coach than met the eye. Among the flowing sea of dancers, a soft spot in Lindsay's heart was suddenly struck by a magical feeling.<br /><br />\"One more dance?\"<br /><br />Lindsay's upbringing on the street did not at all prepare her for such experiences. Seeing the twinkle in Ekaterina's eyes, how could Lindsay refuse?"
+            }
+        }
+    },
+    "Genius of Brilliant Stars": {
+        "name": "Genius of Brilliant Stars",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases <span style=\"color:#7788ff;\">Quantum</span> DMG by <nobr>#1[i]%</nobr>.",
+                "params": [
+                    0.1
+                ]
+            },
+            {
+                "useNum": 4,
+                "desc": "When the wearer deals DMG to the target enemy, ignores <nobr>#1[i]%</nobr> DEF. If the target enemy has <span style=\"color:#7788ff;\">Quantum</span> Weakness, the wearer additionally ignores <nobr>#2[i]%</nobr> DEF.",
+                "params": [
+                    0.1,
+                    0.1
+                ]
+            }
+        ],
+        "pieces": {
+            "2": {
+                "name": "Genius's Frequency Catcher",
+                "maxRarity": 5,
+                "loreTitle": "Genius's Frequency Catcher",
+                "miniLore": "A pair of gloves equipped with a precision frequency-capture device, which enables direct manipulation of otherwise-intangible sound and light vibrations.",
+                "lore": "\"How to slack off at work without being noticed\" was an ongoing problem for Stephen Lloyd, <nobr>84</nobr>th member of the Genius Society, who was living in his foster father's fruit store. <br /><br />He made a pair of gloves that could capture specific frequencies and the escaping sound and light, allowing himself the pleasure of researching the stringed instruments behind the frequency fence.<br /><br />This technology could capture and confine all light and sounds within the designated area, and was simply inexplicable within the current confines of Aiden classic sciences. It was indeed an outstanding invention that could change the course of science to say the least, but Stephen had no interest in introducing this technology to the public. After all, to him, it was just a toy he made to loaf on the job.<br /><br />\"Stephen, I don't know exactly what you've done, but you're definitely slacking off, right?\"<br /><br />Even though Stephen Lloyd was celebrated as a genius among geniuses, to his foster father, Stephen was just a child that liked fantasizing and goofing around."
+            },
+            "3": {
+                "name": "Genius's Metafield Suit",
+                "maxRarity": 5,
+                "loreTitle": "Genius's Metafield Suit",
+                "miniLore": "Diving-suit-like attire that envelops the body when activated, sending neural signals from your whole body to the metafield in real time.",
+                "lore": "The metafield space created by Sserkal, member <nobr>29</nobr>, transcended biological race and multiple dimensions. Any living creature could synchronize its neural signals into the consciousness network, simply with the help of a diving suit.<br /><br />For these creatures that were unable to travel between worlds, this collective dream domain granted them a chance to connect with one another and seek peace and tranquility that were non-existent in the real world.<br /><br />Within this metafield of virtual data, these creatures created countless cultural assets, and a new order was quietly established. Just when it looked like this virtual eden would finally replace reality, Sserkal the Net Weaver of all Creation cut off the connection to the consciousness network, as if it had been one big joke. The entire metafield suddenly sank into silence.<br /><br />\"All those investors who would yammer about metafield space all day have all gone mad. The industry has been empowered countless times, but now the metafield is gone.\"<br /><br />People are prone to any supposition when they lose something. The metafield might have been designed to be a petri dish for the soul. Inviting creatures of various kinds might just be a ruse for getting free soul samples."
+            },
+            "4": {
+                "name": "Genius's Gravity Walker",
+                "maxRarity": 5,
+                "loreTitle": "Genius's Gravity Walker",
+                "miniLore": "A wearable gravity-capture device. It is shaped like a pair of ice skates that reflects the stars' twinkling lights during quick gliding.",
+                "lore": "The notorious Dr. Primitive, member <nobr>64</nobr>, had spent his life running away from interstellar pursuers for the great crimes he had committed.<br /><br />Dr. Primitive seemed to enjoy the thrill of being pursued, always keeping a carefully managed distance from those who were hunting him, never too close to be caught nor too far to be untraceable.<br /><br />He applied some kind of gravity-capture technology to his escape where he was able to use gravity to wander freely across space. Astrophysicists from the Intelligentsia Guild could not understand the principles of this technology, so they merely assumed that it was something to do with the gravitational potential difference between stars. His pursuers riding in vehicles of the gravity era struggled to catch up to his speed, swearing to bring him to justice.<br /><br />\"Watching someone spacewalking should've been a feast for the eyes,\" a Galaxy Ranger said. \"Too bad, that 'someone' is Dr. Primitive.\"<br /><br />The Galaxy Ranger still refused to believe in Dr. Primitive's presumptive death and continued the hunt for him even after he had completely vanished."
+            },
+            "1": {
+                "name": "Genius's Ultraremote Sensing Visor",
+                "maxRarity": 5,
+                "loreTitle": "Genius's Ultraremote Sensing Visor",
+                "miniLore": "A pair of communication goggles embedded with ultraremote sensing technology that breaks through the shackles of limited transmission and remote distances.",
+                "lore": "It is a truth universally acknowledged, that among members of the Genius Society, there is an overabundance of eccentricity and a lack of communication.<br /><br />Social interaction is indeed a burden for most people, even more so for geniuses traveling between worlds.<br /><br />Elias Salas, member <nobr>56</nobr> and the second head of the Genius Society once tried to resolve this problem. He ardently prepared communication goggles equipped with ultra remote sensing capabilities for all members. Although he succeeded in establishing a bridge between the most distant of stars, few were willing to connect. Thus, the universe's greatest-ever communication device was never fully utilized.<br /><br />\"'The number you have dialed is not in service.' Can't you just show a bit more commitment when you pretend to be an AI...?\"<br /><br />Elias Salas sighed and understood that this indeed was a huge ask. But he got to give it a try, believing his technology would one day have its use one way or another."
+            }
+        }
+    },
+    "Belobog of the Architects": {
+        "name": "Belobog of the Architects",
+        "skills": [
+            {
+                "useNum": 2,
+                "desc": "Increases the wearer's DEF by <nobr>#1[i]%</nobr>. When the wearer's Effect Hit Rate is <nobr>#2[i]%</nobr> or higher, the wearer gains an extra <nobr>#3[i]%</nobr> DEF.",
+                "params": [
+                    0.15,
+                    0.5,
+                    0.15
+                ]
+            }
+        ],
+        "pieces": {
+            "5": {
+                "name": "Belobog's Fortress of Preservation",
+                "maxRarity": 5,
+                "loreTitle": "Belobog's Fortress of Preservation",
+                "miniLore": "The Everwinter Monument, the most obvious landmark in Belobog's Administrative District, is enclosed within the plane. Those passing this monument can all feel a distant and warm gaze protecting them.",
+                "lore": "Thousands of years ago, Jarilo-VI's climate was balmy year-round, and ocean vistas that were the envy of all.<br /><br />Sweet fruits dangled upon boughs in the forests and humid warmth was brought by the tides, while ambrosial wine overflowed like springwater for all to partake in. The locals were full of vigor and ambition, constructing roads, cities, seaside villas, and palaces of grandeur. Their rich and satisfactory life always started with a cup of hot coffee in the morning, and ended with a jug of malt brew at dusk.<br /><br />Soon, the star rail connected with Jarilo-VI's world, bringing in interstellar trade and extra-celestial technology.<br /><br />In the beginning, otherworldly visitors came in pursuit of Geomarrow. This crystal clear mineral contained energy that served as the lifeblood of industrialization, and their amber-colored reflections sparked with the Preservation's light. Later, visitors came here to settle and live a peaceful life. Jarilo-VI's picturesque bays, palm trees, and joyous melodies made it a perfect destination for any tired traveler. People believed that, given time, this humid planet would shine as bright as any other planet of renown throughout the galaxy.<br /><br />About a thousand years ago, a Stellaron fell through the atmosphere and landed on this world.<br /><br />Immediately thereafter, the planet was plunged into chaos, like something out of an utterly absurd farce. The Destruction's catastrophic Legion descended from the sky, and the flames of war surged across the lands. The Architects built defensive walls and fortifications, and hundred-meter constructs contended with draconian monstrosities... Then, an unending cold front suddenly appeared, and a chilling blizzard swallowed friend and foe alike. The whole planet was shrouded in utter silence, with an invisible spatial barrier covered a single fortress city, like the flame of a candle being protected in a person's embrace during a cold night. That was how civilization survived.<br /><br />Later, this city was to be named Belobog."
+            },
+            "6": {
+                "name": "Belobog's Iron Defense",
+                "maxRarity": 5,
+                "loreTitle": "Belobog's Iron Defense",
+                "miniLore": "The Silvermane Guards of Belobog stood firmly in the icy winter storm, forming a line as they wait for the incoming assault from invaders beyond the sky. The will of the Silvermane Guards was indestructible, and their line of defense would never falter.",
+                "lore": "The Architects had great hopes for Jarilo-VI before the calamity.<br /><br />Mimicking Qlipoth's power, the Architects created machinery that could terraform planets. Hundreds of fire-breathing Engines of Creation roared across the land, like giant gardeners cultivating abandoned flower beds. Mere decades later, valleys and hills were remade into plains and forests, and cities were thickly dotted along the coast.<br /><br />After the arrival of Destruction's omen, the Architects sent all their machines into war, making them the first guards of the \"Iron Defense.\"<br /><br />Following the arrival of the Stellaron, soldiers of destruction landed like moths to flame, leaving tracks of desolation on the planet's surface. The machines once used for creation were now forced to become weapons of war, throwing their iron fists on battlefields where they didn't belong. Eventually, the giant gardeners fell to the ground in exhaustion like tombstones of a civilization, marking the gradual collapse of the defense line.<br /><br />On the day when there was no more room for retreat, Silvermane Guards held tightly onto their weapons, for their homeland was mere steps behind.<br /><br />The arrival of the Eternal Freeze came as a surprise to everyone. The monsters from beyond the sky and the soldiers on the front lines were trading lethal blows when snow and ice filled up the whole battlefield. In utter chaos, Belobog became the only light in the whole world. The two sides fell into endless slaughter to either sniff out or protect this light. Roaring the name of Alisa Rand, the Guards re-entered into the snow storms and never returned.<br /><br />The residents of Belobog only dared to climb up the city walls to look out when the blizzard halted.<br /><br />And they beheld the final guards of the \"Iron Defense.\""
+            }
+        }
+    }
+}
