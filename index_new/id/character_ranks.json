@@ -1,8 +1,9 @@
 {
     "100101": {
         "id": "100101",
+        "name": "Memory of You",
         "rank": 1,
-        "desc": "",
+        "desc": "Memulihkan 6 Energy March 7th setiap kali Ultimate membekukan 1 target.",
         "materials": [
             {
                 "id": "11001",
@@ -14,8 +15,9 @@
     },
     "100102": {
         "id": "100102",
+        "name": "Memory of It",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat memasuki pertempuran, memberikan Shield sebesar 24% DEF March 7th +320 pada rekan tim dengan persentase HP terendah selama 3 giliran.",
         "materials": [
             {
                 "id": "11001",
@@ -27,8 +29,9 @@
     },
     "100103": {
         "id": "100103",
+        "name": "Memory of Everything",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11001",
@@ -49,8 +52,9 @@
     },
     "100104": {
         "id": "100104",
+        "name": "Never Forfeit Again",
         "rank": 4,
-        "desc": "",
+        "desc": "Jumlah efek Serangan Balasan dari Talent yang dapat dipicu setiap giliran bertambah 1 kali. Meningkatkan DMG dari Serangan Balasan sebesar 30% DEF March 7th.",
         "materials": [
             {
                 "id": "11001",
@@ -62,8 +66,9 @@
     },
     "100105": {
         "id": "100105",
+        "name": "Never Forget Again",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11001",
@@ -84,8 +89,9 @@
     },
     "100106": {
         "id": "100106",
+        "name": "Just Like This, Always ...",
         "rank": 6,
-        "desc": "",
+        "desc": "Rekan tim yang dilindungi Shield dari Skill ini akan memulihkan HP sebesar 4% Max HP masing-masing +106 setiap saat gilirannya dimulai.",
         "materials": [
             {
                 "id": "11001",
@@ -97,8 +103,9 @@
     },
     "100201": {
         "id": "100201",
+        "name": "The Higher You Fly, the Harder You Fall",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat persentase HP target musuh yang diserang lebih dari atau sama dengan 50%, CRIT Rate meningkat 12%.",
         "materials": [
             {
                 "id": "11002",
@@ -110,8 +117,9 @@
     },
     "100202": {
         "id": "100202",
+        "name": "Quell the Venom Octet, Quench the Vice O'Flame",
         "rank": 2,
-        "desc": "",
+        "desc": "Durasi CD Talent berkurang 1 giliran.",
         "materials": [
             {
                 "id": "11002",
@@ -123,8 +131,9 @@
     },
     "100203": {
         "id": "100203",
+        "name": "Seen and Unseen",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11002",
@@ -145,8 +154,9 @@
     },
     "100204": {
         "id": "100204",
+        "name": "Roaring Dragon and Soaring Sun",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate untuk mengalahkan target musuh, Dan Heng mengalami 100% Pendahuluan Aksi untuk aksi berikutnya.",
         "materials": [
             {
                 "id": "11002",
@@ -158,8 +168,9 @@
     },
     "100205": {
         "id": "100205",
+        "name": "A Drop of Rain Feeds a Torrent",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11002",
@@ -180,8 +191,9 @@
     },
     "100206": {
         "id": "100206",
+        "name": "The Troubled Soul Lies in Wait",
         "rank": 6,
-        "desc": "",
+        "desc": "Status Slow yang dipicu Skill mengurangi 8% SPD tambahan pada musuh.",
         "materials": [
             {
                 "id": "11002",
@@ -193,8 +205,9 @@
     },
     "100301": {
         "id": "100301",
+        "name": "Childhood",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah \"Victory Rush\" terpicu, meningkatkan 20% SPD Himeko selama 2 giliran.",
         "materials": [
             {
                 "id": "11003",
@@ -206,8 +219,9 @@
     },
     "100302": {
         "id": "100302",
+        "name": "Convergence",
         "rank": 2,
-        "desc": "",
+        "desc": "Meningkatkan 15% DMG pada target musuh yang persentase HP-nya kurang dari atau sama dengan 50%.",
         "materials": [
             {
                 "id": "11003",
@@ -219,8 +233,9 @@
     },
     "100303": {
         "id": "100303",
+        "name": "Poised",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11003",
@@ -241,8 +256,9 @@
     },
     "100304": {
         "id": "100304",
+        "name": "Dedication",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat Skill mengakibatkan Weakness Break pada target musuh, Himeko akan memperoleh 1 Charge tambahan.",
         "materials": [
             {
                 "id": "11003",
@@ -254,8 +270,9 @@
     },
     "100305": {
         "id": "100305",
+        "name": "Aspiration",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11003",
@@ -276,8 +293,9 @@
     },
     "100306": {
         "id": "100306",
+        "name": "Trailblaze!",
         "rank": 6,
-        "desc": "",
+        "desc": "Ultimate mengakibatkan 2 kali DMG tambahan pada musuh secara acak, masing-masing mengakibatkan Fire DMG sebesar 40% dari DMG awal.",
         "materials": [
             {
                 "id": "11003",
@@ -289,8 +307,9 @@
     },
     "100401": {
         "id": "100401",
+        "name": "Legacy of Honor",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah melancarkan Ultimate, Welt akan mendapat peningkatan kekuatan. 2 Basic Attack atau Skill setelahnya akan mengakibatkan 1 kali DMG tambahan pada target musuh. DMG Multiplier dari DMG tambahan yang disebabkan Basic Attack adalah 50% dari Basic ATK Welt, sedangkan DMG Multiplier dari DMG tambahan yang disebabkan Skill adalah 80% dari Skill Welt.",
         "materials": [
             {
                 "id": "11004",
@@ -302,8 +321,9 @@
     },
     "100402": {
         "id": "100402",
+        "name": "Conflux of Stars",
         "rank": 2,
-        "desc": "",
+        "desc": "Memulihkan 3 Energy Welt saat Talent terpicu.",
         "materials": [
             {
                 "id": "11004",
@@ -315,8 +335,9 @@
     },
     "100403": {
         "id": "100403",
+        "name": "Prayer of Peace",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11004",
@@ -337,8 +358,9 @@
     },
     "100404": {
         "id": "100404",
+        "name": "Appellation of Justice",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, meningkatkan 35% peluang dasar untuk mengurangi SPD target musuh yang terkena serangan.",
         "materials": [
             {
                 "id": "11004",
@@ -350,8 +372,9 @@
     },
     "100405": {
         "id": "100405",
+        "name": "Power of Kindness",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11004",
@@ -372,8 +395,9 @@
     },
     "100406": {
         "id": "100406",
+        "name": "Prospect of Glory",
         "rank": 6,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, mengakibatkan 1 kali DMG tambahan pada musuh secara acak.",
         "materials": [
             {
                 "id": "11004",
@@ -385,8 +409,9 @@
     },
     "100501": {
         "id": "100501",
+        "name": "Da Capo",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat Kafka melancarkan Ultimate, musuh akan mengalami perubahan dari \"segera menerima DMG dari status Shock saat ini\" menjadi \"segera menerima DMG dari semua DoT Debuff saat ini\".",
         "materials": [
             {
                 "id": "11005",
@@ -398,8 +423,9 @@
     },
     "100502": {
         "id": "100502",
+        "name": "Fortississimo",
         "rank": 2,
-        "desc": "",
+        "desc": "Weakness Break Efficiency meningkat 50%.",
         "materials": [
             {
                 "id": "11005",
@@ -411,8 +437,9 @@
     },
     "100503": {
         "id": "100503",
+        "name": "Capriccio",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11005",
@@ -433,8 +460,9 @@
     },
     "100504": {
         "id": "100504",
+        "name": "Recitativo",
         "rank": 4,
-        "desc": "",
+        "desc": "Durasi peningkatan DoT pada target yang disebabkan Talent diperpanjang 1 giliran, dan efek ini dapat ditumpuk hingga 2 lapis.",
         "materials": [
             {
                 "id": "11005",
@@ -446,8 +474,9 @@
     },
     "100505": {
         "id": "100505",
+        "name": "Doloroso",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11005",
@@ -468,8 +497,9 @@
     },
     "100506": {
         "id": "100506",
+        "name": "Leggiero",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 100% DMG Multiplier dari status Shock yang diakibatkan Ultimate, serta memperpanjang durasi status Shock sebanyak 1 giliran.",
         "materials": [
             {
                 "id": "11005",
@@ -481,8 +511,9 @@
     },
     "100601": {
         "id": "100601",
+        "name": "Social Engineering",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat musuh memasuki pertempuran, Effect RES mereka akan berkurang 30% selama 2 giliran.",
         "materials": [
             {
                 "id": "11006",
@@ -494,8 +525,9 @@
     },
     "100602": {
         "id": "100602",
+        "name": "Zombie Network",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate, setiap 1 efek Debuff yang dimiliki target musuh akan memulihkan 8 Energy Silver Wolf, maksimal hingga 5 kali.",
         "materials": [
             {
                 "id": "11006",
@@ -507,8 +539,9 @@
     },
     "100603": {
         "id": "100603",
+        "name": "Payload",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11006",
@@ -529,8 +562,9 @@
     },
     "100604": {
         "id": "100604",
+        "name": "Bounce Attack",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate, setiap Debuff yang dimiliki target akan mengakibatkan Quantum DMG tambahan sebesar 20% ATK Silver Wolf. Efek ini dapat dipicu hingga 5 kali.",
         "materials": [
             {
                 "id": "11006",
@@ -542,8 +576,9 @@
     },
     "100605": {
         "id": "100605",
+        "name": "Brute Force Attack",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11006",
@@ -564,8 +599,9 @@
     },
     "100606": {
         "id": "100606",
+        "name": "Overlay Network",
         "rank": 6,
-        "desc": "",
+        "desc": "Setiap 1 status Debuff target musuh akan meningkatkan 20% DMG Silver Wolf pada target tersebut, dapat ditumpuk hingga 5 lapis.",
         "materials": [
             {
                 "id": "11006",
@@ -577,8 +613,9 @@
     },
     "100801": {
         "id": "100801",
+        "name": "To the Bitter End",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, Skill DMG meningkat 10%.",
         "materials": [
             {
                 "id": "11008",
@@ -590,8 +627,9 @@
     },
     "100802": {
         "id": "100802",
+        "name": "Breaking Free",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Skill dan Ultimate, menghapus 1 status Debuff dirinya.",
         "materials": [
             {
                 "id": "11008",
@@ -603,8 +641,9 @@
     },
     "100803": {
         "id": "100803",
+        "name": "Power Through",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11008",
@@ -625,8 +664,9 @@
     },
     "100804": {
         "id": "100804",
+        "name": "Turn the Tables",
         "rank": 4,
-        "desc": "",
+        "desc": "Setelah memasuki pertempuran, jika Arlan menerima serangan mematikan, Arlan tidak gugur dan akan segera memulihkan HP sebesar 25% Max HP dirinya. Efek ini akan terhapus otomatis setelah dipicu sekali atau setelah 2 giliran berlalu.",
         "materials": [
             {
                 "id": "11008",
@@ -638,8 +678,9 @@
     },
     "100805": {
         "id": "100805",
+        "name": "Hammer and Tongs",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11008",
@@ -660,8 +701,9 @@
     },
     "100806": {
         "id": "100806",
+        "name": "Self-Sacrifice",
         "rank": 6,
-        "desc": "",
+        "desc": "Saat persentase HP saat ini kurang dari atau sama dengan 50%, meningkatkan 20% Ultimate DMG dan DMG Multiplier pada musuh sekitar target akan meningkat hingga sebesar DMG Multiplier pada target.",
         "materials": [
             {
                 "id": "11008",
@@ -673,8 +715,9 @@
     },
     "100901": {
         "id": "100901",
+        "name": "Star Sings Sans Verses or Vocals",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, mengakibatkan 1 kali DMG tambahan pada satu musuh secara acak.",
         "materials": [
             {
                 "id": "11009",
@@ -686,8 +729,9 @@
     },
     "100902": {
         "id": "100902",
+        "name": "Moon Speaks in Wax and Wane",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate, Asta tidak akan mengurangi lapisan Charge-nya pada giliran berikutnya.",
         "materials": [
             {
                 "id": "11009",
@@ -699,8 +743,9 @@
     },
     "100903": {
         "id": "100903",
+        "name": "Meteor Showers for Wish and Want",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11009",
@@ -721,8 +766,9 @@
     },
     "100904": {
         "id": "100904",
+        "name": "Aurora Basks in Beauty and Bliss",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat lapisan Charge Talent Asta lebih dari atau sama dengan 2, meningkatkan 15% Energy Regeneration Rate Asta.",
         "materials": [
             {
                 "id": "11009",
@@ -734,8 +780,9 @@
     },
     "100905": {
         "id": "100905",
+        "name": "Nebula Secludes in Cold Cosmos",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11009",
@@ -756,8 +803,9 @@
     },
     "100906": {
         "id": "100906",
+        "name": "Galaxy Dreams in Calm and Comfort",
         "rank": 6,
-        "desc": "",
+        "desc": "Lapisan Charge Talent yang berkurang di setiap giliran akan dikurangi 1.",
         "materials": [
             {
                 "id": "11009",
@@ -769,8 +817,9 @@
     },
     "101301": {
         "id": "101301",
+        "name": "Kick You When You're Down",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat melancarkan Basic Attack, jika persentase HP musuh yang ditarget kurang dari atau sama dengan 50%, maka akan mengakibatkan Ice DMG tambahan sebesar 40% ATK Herta.",
         "materials": [
             {
                 "id": "11013",
@@ -782,8 +831,9 @@
     },
     "101302": {
         "id": "101302",
+        "name": "Keep the Ball Rolling",
         "rank": 2,
-        "desc": "",
+        "desc": "Setiap kali Talent terpicu, CRIT Rate Herta akan meningkat 3%, efek ini dapat ditumpuk hingga 5 lapis.",
         "materials": [
             {
                 "id": "11013",
@@ -795,8 +845,9 @@
     },
     "101303": {
         "id": "101303",
+        "name": "That's the Kind of Girl I Am",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11013",
@@ -817,8 +868,9 @@
     },
     "101304": {
         "id": "101304",
+        "name": "Hit Where It Hurts",
         "rank": 4,
-        "desc": "",
+        "desc": "Meningkatkan 10% DMG yang diakibatkan saat Talent terpicu.",
         "materials": [
             {
                 "id": "11013",
@@ -830,8 +882,9 @@
     },
     "101305": {
         "id": "101305",
+        "name": "Cuss Big or Cuss Nothing",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11013",
@@ -852,8 +905,9 @@
     },
     "101306": {
         "id": "101306",
+        "name": "No One Can Betray Me",
         "rank": 6,
-        "desc": "",
+        "desc": "Setelah melancarkan Ultimate, meningkatkan 25% ATK selama 1 giliran.",
         "materials": [
             {
                 "id": "11013",
@@ -865,8 +919,9 @@
     },
     "110101": {
         "id": "110101",
+        "name": "Hone Your Strength",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, terdapat 50% peluang tetap untuk memulihkan 1 Poin Skill. Efek ini memiliki durasi CD selama 1 giliran.",
         "materials": [
             {
                 "id": "11101",
@@ -878,8 +933,9 @@
     },
     "110102": {
         "id": "110102",
+        "name": "Quick March",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, SPD rekan yang dijadikan target akan meningkat 30% setelah beraksi, berlangsung selama 1 giliran.",
         "materials": [
             {
                 "id": "11101",
@@ -891,8 +947,9 @@
     },
     "110103": {
         "id": "110103",
+        "name": "Bombardment",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11101",
@@ -913,8 +970,9 @@
     },
     "110104": {
         "id": "110104",
+        "name": "Take by Surprise",
         "rank": 4,
-        "desc": "",
+        "desc": "Setelah karakter lain melancarkan Basic Attack pada target musuh dengan Wind Weakness, Bronya akan segera melancarkan 1 Serangan Lanjutan yang mengakibatkan Wind DMG sebesar 80% DMG Basic Attack Bronya pada target tersebut. Efek ini dapat dipicu sekali setiap giliran.",
         "materials": [
             {
                 "id": "11101",
@@ -926,8 +984,9 @@
     },
     "110105": {
         "id": "110105",
+        "name": "Unstoppable",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11101",
@@ -948,8 +1007,9 @@
     },
     "110106": {
         "id": "110106",
+        "name": "Piercing Rainbow",
         "rank": 6,
-        "desc": "",
+        "desc": "Durasi efek peningkatan DMG yang diberikan Skill Bronya pada rekan tim akan bertambah 1 giliran.",
         "materials": [
             {
                 "id": "11101",
@@ -961,8 +1021,9 @@
     },
     "110201": {
         "id": "110201",
+        "name": "Extirpating Slash",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat mengakibatkan DMG pada target musuh dengan persentase HP saat ini kurang dari atau sama dengan 80%, CRIT Rate meningkat 15%.",
         "materials": [
             {
                 "id": "11102",
@@ -974,8 +1035,9 @@
     },
     "110202": {
         "id": "110202",
+        "name": "Dancing Butterfly",
         "rank": 2,
-        "desc": "",
+        "desc": "Efek peningkatan SPD pada Skill dapat ditumpuk hingga 2 lapis.",
         "materials": [
             {
                 "id": "11102",
@@ -987,8 +1049,9 @@
     },
     "110203": {
         "id": "110203",
+        "name": "Dazzling Tumult",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11102",
@@ -1009,8 +1072,9 @@
     },
     "110204": {
         "id": "110204",
+        "name": "Flitting Phantasm",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat Seele mengalahkan target musuh, dia akan memulihkan 15 Energy.",
         "materials": [
             {
                 "id": "11102",
@@ -1022,8 +1086,9 @@
     },
     "110205": {
         "id": "110205",
+        "name": "Piercing Shards",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11102",
@@ -1044,8 +1109,9 @@
     },
     "110206": {
         "id": "110206",
+        "name": "Shattering Shambles",
         "rank": 6,
-        "desc": "",
+        "desc": "Setelah melancarkan Ultimate, musuh yang diserang akan memasuki status \"Butterfly Flurry\" selama 1 giliran. Target musuh yang berada dalam status \"Butterfly Flurry\" akan menerima Quantum DMG tambahan sebesar 15% DMG Ultimate Seele setiap kali terkena serangan. Jika target musuh gugur akibat DMG \"Butterfly Flurry\" yang dipicu oleh rekan lain, maka Talent Seele tidak akan terpicu.\\nJika Seele gugur, maka status \"Butterfly Flurry\" yang ada pada musuh akan dihapus.",
         "materials": [
             {
                 "id": "11102",
@@ -1057,8 +1123,9 @@
     },
     "110301": {
         "id": "110301",
+        "name": "Echo Chamber",
         "rank": 1,
-        "desc": "",
+        "desc": "Basic Attack mengakibatkan Lightning DMG sebesar 60% DMG Basic ATK pada 1 musuh di sekitar target secara acak.",
         "materials": [
             {
                 "id": "11103",
@@ -1070,8 +1137,9 @@
     },
     "110302": {
         "id": "110302",
+        "name": "Encore!",
         "rank": 2,
-        "desc": "",
+        "desc": "Setiap kali DMG tambahan dari Talent Serval terpicu, akan memulihkan 4 Energy Serval.",
         "materials": [
             {
                 "id": "11103",
@@ -1083,8 +1151,9 @@
     },
     "110303": {
         "id": "110303",
+        "name": "Listen, the Heartbeat of the Gears",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11103",
@@ -1105,8 +1174,9 @@
     },
     "110304": {
         "id": "110304",
+        "name": "Make Some Noise!",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate, ada 100% peluang dasar untuk membuat target musuh yang tidak berstatus Shock memasuki status Shock yang serupa dengan Skill.",
         "materials": [
             {
                 "id": "11103",
@@ -1118,8 +1188,9 @@
     },
     "110305": {
         "id": "110305",
+        "name": "Belobog's Loudest Roar!",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11103",
@@ -1140,8 +1211,9 @@
     },
     "110306": {
         "id": "110306",
+        "name": "This Song Rocks to Heaven!",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 30% DMG yang diakibatkan Serval pada target musuh yang berstatus Shock.",
         "materials": [
             {
                 "id": "11103",
@@ -1153,8 +1225,9 @@
     },
     "110401": {
         "id": "110401",
+        "name": "Due Diligence",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat melancarkan skill, meningkatkan 35% peluang dasar untuk membuat target musuh memasuki status Frozen.",
         "materials": [
             {
                 "id": "11104",
@@ -1166,8 +1239,9 @@
     },
     "110402": {
         "id": "110402",
+        "name": "Lingering Cold",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah status Frozen yang disebabkan oleh Skill Gepard pada target musuh terhapus, SPD target akan berkurang 20% selama 1 giliran.",
         "materials": [
             {
                 "id": "11104",
@@ -1179,8 +1253,9 @@
     },
     "110403": {
         "id": "110403",
+        "name": "Never Surrender",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11104",
@@ -1201,8 +1276,9 @@
     },
     "110404": {
         "id": "110404",
+        "name": "Faith Moves Mountains",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat Gepard berada di medan pertempuran, Effect RES seluruh rekan tim meningkat 20%.",
         "materials": [
             {
                 "id": "11104",
@@ -1214,8 +1290,9 @@
     },
     "110405": {
         "id": "110405",
+        "name": "Cold Iron Fist",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11104",
@@ -1236,8 +1313,9 @@
     },
     "110406": {
         "id": "110406",
+        "name": "Unyielding Resolve",
         "rank": 6,
-        "desc": "",
+        "desc": "Memicu Talent akan mendahulukan 100% aksi Gepard dan memberikan pemulihan HP tambahan sebesar 50% Max HP-nya.",
         "materials": [
             {
                 "id": "11104",
@@ -1249,8 +1327,9 @@
     },
     "110501": {
         "id": "110501",
+        "name": "Pharmacology Expertise",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah terkena serangan, jika persentase HP Natasha saat ini kurang dari atau sama dengan 30%, Natasha akan menyembuhkan dirinya 1 kali, memulihkan HP sebesar 15% Max HP Natasha + 400. Efek ini hanya dapat dipicu sekali dalam 1 pertempuran.",
         "materials": [
             {
                 "id": "11105",
@@ -1262,8 +1341,9 @@
     },
     "110502": {
         "id": "110502",
+        "name": "Clinical Research",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Ultimate, akan memberikan efek pemulihan berkelanjutan selama 1 giliran pada rekan tim dengan persentase HP saat ini kurang dari atau sama dengan 30%. Saat giliran mereka dimulai, memulihkan HP mereka sebesar 6% Max HP Natasha + 160.",
         "materials": [
             {
                 "id": "11105",
@@ -1275,8 +1355,9 @@
     },
     "110503": {
         "id": "110503",
+        "name": "The Right Cure",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11105",
@@ -1297,8 +1378,9 @@
     },
     "110504": {
         "id": "110504",
+        "name": "Miracle Cure",
         "rank": 4,
-        "desc": "",
+        "desc": "Memulihkan 5 Energy tambahan setelah diserang musuh.",
         "materials": [
             {
                 "id": "11105",
@@ -1310,8 +1392,9 @@
     },
     "110505": {
         "id": "110505",
+        "name": "Preventive Treatment",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11105",
@@ -1332,8 +1415,9 @@
     },
     "110506": {
         "id": "110506",
+        "name": "Doctor's Grace",
         "rank": 6,
-        "desc": "",
+        "desc": "Saat melancarkan Basic Attack, mengakibatkan Physical DMG tambahan sebesar 40% Max HP Natasha.",
         "materials": [
             {
                 "id": "11105",
@@ -1345,8 +1429,9 @@
     },
     "110601": {
         "id": "110601",
+        "name": "Victory Report",
         "rank": 1,
-        "desc": "",
+        "desc": "Memulihkan 5 Energy Pela saat Pela mengalahkan target musuh.",
         "materials": [
             {
                 "id": "11106",
@@ -1358,8 +1443,9 @@
     },
     "110602": {
         "id": "110602",
+        "name": "Adamant Charge",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah melancarkan Skill untuk menghapus efek Buff, SPD meningkat 10% selama 2 giliran.",
         "materials": [
             {
                 "id": "11106",
@@ -1371,8 +1457,9 @@
     },
     "110603": {
         "id": "110603",
+        "name": "Suppressive Force",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11106",
@@ -1393,8 +1480,9 @@
     },
     "110604": {
         "id": "110604",
+        "name": "Full Analysis",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, memiliki 100% peluang dasar untuk mengurangi 12% Ice RES target musuh selama 2 giliran.",
         "materials": [
             {
                 "id": "11106",
@@ -1406,8 +1494,9 @@
     },
     "110605": {
         "id": "110605",
+        "name": "Absolute Jeopardy",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11106",
@@ -1428,8 +1517,9 @@
     },
     "110606": {
         "id": "110606",
+        "name": "Feeble Pursuit",
         "rank": 6,
-        "desc": "",
+        "desc": "Jika Pela melancarkan serangan pada target musuh yang terkena efek Debuff, Pela akan mengakibatkan Ice DMG tambahan sebesar 40% ATK Pela.",
         "materials": [
             {
                 "id": "11106",
@@ -1441,8 +1531,9 @@
     },
     "110701": {
         "id": "110701",
+        "name": "A Tall Figure",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah melancarkan Skill, \"Mark of Counter\" yang ada pada target musuh tidak akan dihapus.",
         "materials": [
             {
                 "id": "11107",
@@ -1454,8 +1545,9 @@
     },
     "110702": {
         "id": "110702",
+        "name": "A Tight Embrace",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah melancarkan Ultimate, meningkatkan 30% ATK selama 2 giliran.",
         "materials": [
             {
                 "id": "11107",
@@ -1467,8 +1559,9 @@
     },
     "110703": {
         "id": "110703",
+        "name": "Cold Steel Armor",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11107",
@@ -1489,8 +1582,9 @@
     },
     "110704": {
         "id": "110704",
+        "name": "Family's Warmth",
         "rank": 4,
-        "desc": "",
+        "desc": "Setelah terkena serangan, mengurangi 30% DMG yang diterima Clara. Efek ini berlanjut sampai giliran Clara yang berikutnya dimulai.",
         "materials": [
             {
                 "id": "11107",
@@ -1502,8 +1596,9 @@
     },
     "110705": {
         "id": "110705",
+        "name": "A Small Promise",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11107",
@@ -1524,8 +1619,9 @@
     },
     "110706": {
         "id": "110706",
+        "name": "Long Company",
         "rank": 6,
-        "desc": "",
+        "desc": "Setelah rekan tim yang lain terkena serangan, Svarog juga memiliki 50% peluang tetap untuk memicu serangan balasan dan menambahkan \"Mark of Counter\" pada penyerang. Saat melancarkan Ultimate, jumlah serangan balasan yang diperkuat akan bertambah 1.",
         "materials": [
             {
                 "id": "11107",
@@ -1537,8 +1633,9 @@
     },
     "110801": {
         "id": "110801",
+        "name": "Rising Love",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, jumlah DMG tambahan yang diakibatkan pada musuh secara acak bertambah 1.",
         "materials": [
             {
                 "id": "11108",
@@ -1550,8 +1647,9 @@
     },
     "110802": {
         "id": "110802",
+        "name": "Infectious Enthusiasm",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat mengalahkan musuh yang berada dalam status Wind Shear, Sampo memiliki 100% peluang dasar untuk menambah 1 lapis Wind Shear yang sebanding dengan Talent pada seluruh musuh.",
         "materials": [
             {
                 "id": "11108",
@@ -1563,8 +1661,9 @@
     },
     "110803": {
         "id": "110803",
+        "name": "Big Money!",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11108",
@@ -1585,8 +1684,9 @@
     },
     "110804": {
         "id": "110804",
+        "name": "The Deeper the Love, the Stronger the Hate",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat Skill mengenai target musuh yang jumlah lapisan status Wind Shear-nya lebih dari atau sama dengan 5 lapis, status Wind Shear yang dimilikinya saat itu akan segera mengakibatkan DMG sebesar 8% DMG Wind Shear.",
         "materials": [
             {
                 "id": "11108",
@@ -1598,8 +1698,9 @@
     },
     "110805": {
         "id": "110805",
+        "name": "Huuuuge Money!",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11108",
@@ -1620,8 +1721,9 @@
     },
     "110806": {
         "id": "110806",
+        "name": "Increased Spending",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 15% DMG Multiplier status Wind Shear yang diberikan Talent.",
         "materials": [
             {
                 "id": "11108",
@@ -1633,8 +1735,9 @@
     },
     "110901": {
         "id": "110901",
+        "name": "Early to Bed, Early to Rise",
         "rank": 1,
-        "desc": "",
+        "desc": "Meningkatkan 20% DMG dari Skill yang diperkuat.",
         "materials": [
             {
                 "id": "11109",
@@ -1646,8 +1749,9 @@
     },
     "110902": {
         "id": "110902",
+        "name": "Happy Tummy, Happy Body",
         "rank": 2,
-        "desc": "",
+        "desc": "Durasi status Burn yang disebabkan Skill pada musuh bertambah 1 giliran.",
         "materials": [
             {
                 "id": "11109",
@@ -1659,8 +1763,9 @@
     },
     "110903": {
         "id": "110903",
+        "name": "Don't Be Picky, Nothing's Icky",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11109",
@@ -1685,8 +1790,9 @@
     },
     "110904": {
         "id": "110904",
+        "name": "It's Okay to Not Know",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat talent terpicu, ada 100% peluang dasar untuk membuat musuh di sekitar target utama juga memasuki status Burn yang sama dari Skill Hook.",
         "materials": [
             {
                 "id": "11109",
@@ -1698,8 +1804,9 @@
     },
     "110905": {
         "id": "110905",
+        "name": "Let the Moles' Deeds Be Known",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11109",
@@ -1720,8 +1827,9 @@
     },
     "110906": {
         "id": "110906",
+        "name": "Always Ready to Punch and Kick",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 20% DMG Hook pada musuh berstatus Burn.",
         "materials": [
             {
                 "id": "11109",
@@ -1733,8 +1841,9 @@
     },
     "120101": {
         "id": "120101",
+        "name": "Rise Through the Tiles",
         "rank": 1,
-        "desc": "",
+        "desc": "Meningkatkan 10% DMG yang diakibatkan Ultimate.",
         "materials": [
             {
                 "id": "11201",
@@ -1746,8 +1855,9 @@
     },
     "120102": {
         "id": "120102",
+        "name": "Sleep on the Tiles",
         "rank": 2,
-        "desc": "",
+        "desc": "Segera memulihkan 1 Energy Qingque setiap Qingque memicu pengambilan kartu.",
         "materials": [
             {
                 "id": "11201",
@@ -1759,8 +1869,9 @@
     },
     "120103": {
         "id": "120103",
+        "name": "Read Between the Tiles",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11201",
@@ -1781,8 +1892,9 @@
     },
     "120104": {
         "id": "120104",
+        "name": "Right on the Tiles",
         "rank": 4,
-        "desc": "",
+        "desc": "Setelah melancarkan Skill, memiliki 24% peluang tetap untuk memperoleh status \"Autarky\" hingga akhir giliran saat ini.\\nSetelah melancarkan Basic Attack atau Enhanced Basic Attack dalam status \"Autarky\", Qingque akan langsung melancarkan 1 Serangan Lanjutan yang mengakibatkan Quantum DMG pada target sebesar 100% dari Basic Attack DMG atau Enhanced Basic Attack DMG.",
         "materials": [
             {
                 "id": "11201",
@@ -1794,8 +1906,9 @@
     },
     "120105": {
         "id": "120105",
+        "name": "Gambit for the Tiles",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11201",
@@ -1820,8 +1933,9 @@
     },
     "120106": {
         "id": "120106",
+        "name": "Prevail Beyond the Tiles",
         "rank": 6,
-        "desc": "",
+        "desc": "Memulihkan 1 Poin Skill setelah melancarkan Enhanced Basic Attack.",
         "materials": [
             {
                 "id": "11201",
@@ -1833,8 +1947,9 @@
     },
     "120201": {
         "id": "120201",
+        "name": "Windfall of Lucky Springs",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah rekan yang mendapatkan \"Benediction\" melancarkan Ultimate, SPD rekan tersebut akan meningkat 20% selama 1 giliran.",
         "materials": [
             {
                 "id": "11202",
@@ -1846,8 +1961,9 @@
     },
     "120202": {
         "id": "120202",
+        "name": "Gainfully Gives, Givingly Gains",
         "rank": 2,
-        "desc": "",
+        "desc": "Memulihkan 5 Energy rekan tim yang mendapatkan \"Benediction\" setelah rekan tersebut mengalahkan target musuh. Efek ini hanya dapat dipicu sekali setiap giliran.",
         "materials": [
             {
                 "id": "11202",
@@ -1859,8 +1975,9 @@
     },
     "120203": {
         "id": "120203",
+        "name": "Halcyon Bequest",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11202",
@@ -1881,8 +1998,9 @@
     },
     "120204": {
         "id": "120204",
+        "name": "Jovial Versatility",
         "rank": 4,
-        "desc": "",
+        "desc": "Meningkatkan 20% DMG Multiplier dari \"Benediction\".",
         "materials": [
             {
                 "id": "11202",
@@ -1894,8 +2012,9 @@
     },
     "120205": {
         "id": "120205",
+        "name": "Sauntering Coquette",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11202",
@@ -1916,8 +2035,9 @@
     },
     "120206": {
         "id": "120206",
+        "name": "Peace Brings Wealth to All",
         "rank": 6,
-        "desc": "",
+        "desc": "Jumlah Energy yang dipulihkan Ultimate Tingyun pada rekan tim meningkat sebanyak 10.",
         "materials": [
             {
                 "id": "11202",
@@ -1929,8 +2049,9 @@
     },
     "120301": {
         "id": "120301",
+        "name": "Ablution of the Quick",
         "rank": 1,
-        "desc": "",
+        "desc": "Setelah melancarkan Skill, jika HP rekan tim yang ditargetkan terisi penuh, maka akan memulihkan 10 Energy tambahan pada Luocha.",
         "materials": [
             {
                 "id": "11203",
@@ -1942,8 +2063,9 @@
     },
     "120302": {
         "id": "120302",
+        "name": "Bestowal From the Pure",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat melancarkan Skill, jika persentase HP rekan tim yang ditarget kurang dari 50%, maka pemulihan yang diberikan Luocha akan meningkat 30%. Jika persentase HP rekan tim yang ditarget lebih dari atau sama dengan 50%, maka Luocha akan memberikan Shield yang menahan DMG sebesar 15% Max HP target tersebut selama 1 giliran.",
         "materials": [
             {
                 "id": "11203",
@@ -1955,8 +2077,9 @@
     },
     "120303": {
         "id": "120303",
+        "name": "Surveyal by the Fool",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11203",
@@ -1977,8 +2100,9 @@
     },
     "120304": {
         "id": "120304",
+        "name": "Judgment via the King",
         "rank": 4,
-        "desc": "",
+        "desc": "Membuat target musuh memasuki status Weaken saat Field aktif, mengurangi 12% DMG yang diakibatkannya.",
         "materials": [
             {
                 "id": "11203",
@@ -1990,8 +2114,9 @@
     },
     "120305": {
         "id": "120305",
+        "name": "Cicatrix 'Neath the Pain",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11203",
@@ -2012,8 +2137,9 @@
     },
     "120306": {
         "id": "120306",
+        "name": "Reunion With the Dust",
         "rank": 6,
-        "desc": "",
+        "desc": "Toughness-Reducing DMG dari Basic Attack dan Ultimate meningkat 100%.",
         "materials": [
             {
                 "id": "11203",
@@ -2025,8 +2151,9 @@
     },
     "120401": {
         "id": "120401",
+        "name": "Slash, Seas Split",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat \"Lightning-Lord\" melancarkan serangan, DMG Multiplier pada musuh di sekitar target utama akan meningkat sebesar 25% DMG Multiplier pada target utama.",
         "materials": [
             {
                 "id": "11204",
@@ -2038,8 +2165,9 @@
     },
     "120402": {
         "id": "120402",
+        "name": "Swing, Skies Squashed",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah \"Lightning-Lord\" beraksi, meningkatkan 20% DMG yang diakibatkan Basic Attack, Skill, dan Ultimate Jing Yuan selama 2 giliran.",
         "materials": [
             {
                 "id": "11204",
@@ -2051,8 +2179,9 @@
     },
     "120403": {
         "id": "120403",
+        "name": "Strike, Suns Subdued",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11204",
@@ -2073,8 +2202,9 @@
     },
     "120404": {
         "id": "120404",
+        "name": "Spin, Stars Sieged",
         "rank": 4,
-        "desc": "",
+        "desc": "Setiap Hit yang dilancarkan Lightning-Lord akan akan memulihkan 2 Energy Jing Yuan.",
         "materials": [
             {
                 "id": "11204",
@@ -2086,8 +2216,9 @@
     },
     "120405": {
         "id": "120405",
+        "name": "Stride, Spoils Seized",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11204",
@@ -2108,8 +2239,9 @@
     },
     "120406": {
         "id": "120406",
+        "name": "Sweep, Souls Slain",
         "rank": 6,
-        "desc": "",
+        "desc": "Setiap Hit yang dilancarkan Lightning-Lord akan mengakibatkan target musuh terkena status Vulnerability.\\nSaat terkena status Vulnerability, target musuh akan menerima 12% DMG lebih banyak hingga akhir giliran Lightning-Lord saat ini, efek ini dapat ditumpuk hingga 3 lapis.",
         "materials": [
             {
                 "id": "11204",
@@ -2121,8 +2253,9 @@
     },
     "120601": {
         "id": "120601",
+        "name": "Cut With Ease",
         "rank": 1,
-        "desc": "",
+        "desc": "Memulihkan 1 Poin Skill setelah melancarkan Skill pada musuh dengan status Weakness Break.",
         "materials": [
             {
                 "id": "11206",
@@ -2134,8 +2267,9 @@
     },
     "120602": {
         "id": "120602",
+        "name": "Refine in Toil",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah memicu \"Sword Stance\", DMG yang diterima Sushang berkurang 20% selama 1 giliran.",
         "materials": [
             {
                 "id": "11206",
@@ -2147,8 +2281,9 @@
     },
     "120603": {
         "id": "120603",
+        "name": "Rise From Fame",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11206",
@@ -2169,8 +2304,9 @@
     },
     "120604": {
         "id": "120604",
+        "name": "Cleave With Heart",
         "rank": 4,
-        "desc": "",
+        "desc": "Meningkatkan 40% Break Effect milik Sushang.",
         "materials": [
             {
                 "id": "11206",
@@ -2182,8 +2318,9 @@
     },
     "120605": {
         "id": "120605",
+        "name": "Prevail via Taixu",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11206",
@@ -2204,8 +2341,9 @@
     },
     "120606": {
         "id": "120606",
+        "name": "Dwell Like Water",
         "rank": 6,
-        "desc": "",
+        "desc": "Efek peningkatan SPD dari Talent dapat ditumpuk hingga 2 lapis. Selain itu, Sushang akan segera mendapatkan 1 lapis efek peningkatan SPD dari Talent saat memasuki pertempuran.",
         "materials": [
             {
                 "id": "11206",
@@ -2217,8 +2355,9 @@
     },
     "120901": {
         "id": "120901",
+        "name": "Svelte Saber",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat Yanqing menyerang target musuh, jika target berstatus Frozen, Yanqing akan segera mengakibatkan Ice DMG tambahan sebesar 60% ATK-nya.",
         "materials": [
             {
                 "id": "11209",
@@ -2230,8 +2369,9 @@
     },
     "120902": {
         "id": "120902",
+        "name": "Supine Serenade",
         "rank": 2,
-        "desc": "",
+        "desc": "Saat \"Soulsteel Sync\" aktif, meningkatkan 10% Energy Regeneration Rate tambahan.",
         "materials": [
             {
                 "id": "11209",
@@ -2243,8 +2383,9 @@
     },
     "120903": {
         "id": "120903",
+        "name": "Sword Savant",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11209",
@@ -2265,8 +2406,9 @@
     },
     "120904": {
         "id": "120904",
+        "name": "Searing Sting",
         "rank": 4,
-        "desc": "",
+        "desc": "Saat persentase HP lebih dari atau sama dengan 80%, meningkatkan Ice RES PEN Yanqing sebesar 12%.",
         "materials": [
             {
                 "id": "11209",
@@ -2278,8 +2420,9 @@
     },
     "120905": {
         "id": "120905",
+        "name": "Surging Strife",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11209",
@@ -2300,8 +2443,9 @@
     },
     "120906": {
         "id": "120906",
+        "name": "Swift Swoop",
         "rank": 6,
-        "desc": "",
+        "desc": "Saat mengalahkan target musuh, jika Yanqing masih memiliki efek buff dari Ultimate, durasi semua buff ini akan diperpanjang 1 giliran.",
         "materials": [
             {
                 "id": "11209",
@@ -2313,8 +2457,9 @@
     },
     "121101": {
         "id": "121101",
+        "name": "Ambrosial Aqua",
         "rank": 1,
-        "desc": "",
+        "desc": "Saat efek \"Invigoration\" berakhir, jika HP rekan saat ini sudah pulih sepenuhnya, maka akan memulihkan 8 Energy tambahan untuknya.",
         "materials": [
             {
                 "id": "11211",
@@ -2326,8 +2471,9 @@
     },
     "121102": {
         "id": "121102",
+        "name": "Sylphic Slumber",
         "rank": 2,
-        "desc": "",
+        "desc": "Setelah melancarkan Ultimate, meningkatkan 15% Outgoing Healing selama 2 giliran.",
         "materials": [
             {
                 "id": "11211",
@@ -2339,8 +2485,9 @@
     },
     "121103": {
         "id": "121103",
+        "name": "Omniscient Opulence",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "11211",
@@ -2361,8 +2508,9 @@
     },
     "121104": {
         "id": "121104",
+        "name": "Evil Excision",
         "rank": 4,
-        "desc": "",
+        "desc": "Setiap pemulihan dari Skill akan meningkatkan 10% DMG penerima pemulihan. Dapat ditumpuk 3 lapis selama 2 giliran.",
         "materials": [
             {
                 "id": "11211",
@@ -2374,8 +2522,9 @@
     },
     "121105": {
         "id": "121105",
+        "name": "Waning Worries",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "11211",
@@ -2396,8 +2545,9 @@
     },
     "121106": {
         "id": "121106",
+        "name": "Drooling Drop of Draconic Divinity",
         "rank": 6,
-        "desc": "",
+        "desc": "Dalam satu pertempuran, jumlah pemulihan Bailu terhadap rekan tim yang terkena serangan mematikan bertambah 1 kali.",
         "materials": [
             {
                 "id": "11211",
@@ -2409,8 +2559,9 @@
     },
     "800101": {
         "id": "800101",
+        "name": "A Falling Star",
         "rank": 1,
-        "desc": "",
+        "desc": "Memulihkan 10 Energy tambahan pada Trailblazer saat mengalahkan musuh dengan cara melancarkan Ultimate. Efek ini hanya dapat terpicu 1 kali dalam setiap serangan.",
         "materials": [
             {
                 "id": "18001",
@@ -2422,8 +2573,9 @@
     },
     "800102": {
         "id": "800102",
+        "name": "An Unwilling Host",
         "rank": 2,
-        "desc": "",
+        "desc": "Menyerang musuh dengan Physical Weakness akan memulihkan HP Trailblazer sebesar 5% ATK Trailblazer.",
         "materials": [
             {
                 "id": "18001",
@@ -2435,8 +2587,9 @@
     },
     "800103": {
         "id": "800103",
+        "name": "A Leading Whisper",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "18001",
@@ -2457,8 +2610,9 @@
     },
     "800104": {
         "id": "800104",
+        "name": "A Destructing Glance",
         "rank": 4,
-        "desc": "",
+        "desc": "Meningkatkan 25% CRIT Rate saat menyerang Weakness musuh dengan status Weakness Break.",
         "materials": [
             {
                 "id": "18001",
@@ -2470,8 +2624,9 @@
     },
     "800105": {
         "id": "800105",
+        "name": "A Surviving Hope",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "18001",
@@ -2500,8 +2655,9 @@
     },
     "800106": {
         "id": "800106",
+        "name": "A Trailblazing Will",
         "rank": 6,
-        "desc": "",
+        "desc": "Talent juga akan terpicu saat Trailblazer mengalahkan target musuh.",
         "materials": [
             {
                 "id": "18001",
@@ -2513,8 +2669,9 @@
     },
     "800201": {
         "id": "800201",
+        "name": "A Falling Star",
         "rank": 1,
-        "desc": "",
+        "desc": "Memulihkan 10 Energy tambahan pada Trailblazer saat mengalahkan musuh dengan cara melancarkan Ultimate. Efek ini hanya dapat terpicu 1 kali dalam setiap serangan.",
         "materials": [
             {
                 "id": "18001",
@@ -2526,8 +2683,9 @@
     },
     "800202": {
         "id": "800202",
+        "name": "An Unwilling Host",
         "rank": 2,
-        "desc": "",
+        "desc": "Menyerang musuh dengan Physical Weakness akan memulihkan HP Trailblazer sebesar 5% ATK Trailblazer.",
         "materials": [
             {
                 "id": "18001",
@@ -2539,8 +2697,9 @@
     },
     "800203": {
         "id": "800203",
+        "name": "A Leading Whisper",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "18001",
@@ -2561,8 +2720,9 @@
     },
     "800204": {
         "id": "800204",
+        "name": "A Destructing Glance",
         "rank": 4,
-        "desc": "",
+        "desc": "Meningkatkan 25% CRIT Rate saat menyerang Weakness musuh dengan status Weakness Break.",
         "materials": [
             {
                 "id": "18001",
@@ -2574,8 +2734,9 @@
     },
     "800205": {
         "id": "800205",
+        "name": "A Surviving Hope",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "18001",
@@ -2604,8 +2765,9 @@
     },
     "800206": {
         "id": "800206",
+        "name": "A Trailblazing Will",
         "rank": 6,
-        "desc": "",
+        "desc": "Talent juga akan terpicu saat Trailblazer mengalahkan target musuh.",
         "materials": [
             {
                 "id": "18001",
@@ -2617,8 +2779,9 @@
     },
     "800301": {
         "id": "800301",
+        "name": "Earth-Shaking Resonance",
         "rank": 1,
-        "desc": "",
+        "desc": "Melancarkan Basic Attack/Enhanced Basic Attack akan mengakibatkan Fire DMG tambahan sebesar 25%/50% DEF Trailblazer.",
         "materials": [
             {
                 "id": "18003",
@@ -2630,8 +2793,9 @@
     },
     "800302": {
         "id": "800302",
+        "name": "Time-Defying Tenacity",
         "rank": 2,
-        "desc": "",
+        "desc": "Ketika Talent terpicu, kekuatan Shield yang diperoleh untuk seluruh rekan tim akan meningkat sebesar 2% DEF Trailblazer + 27.",
         "materials": [
             {
                 "id": "18003",
@@ -2643,8 +2807,9 @@
     },
     "800303": {
         "id": "800303",
+        "name": "Trail-Blazing Blueprint",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "18003",
@@ -2665,8 +2830,9 @@
     },
     "800304": {
         "id": "800304",
+        "name": "Nation-Building Oath",
         "rank": 4,
-        "desc": "",
+        "desc": "Segera memperoleh 4 lapis \"Magma Will\" saat pertempuran dimulai.",
         "materials": [
             {
                 "id": "18003",
@@ -2678,8 +2844,9 @@
     },
     "800305": {
         "id": "800305",
+        "name": "Spirit-Warming Flame",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "18003",
@@ -2704,8 +2871,9 @@
     },
     "800306": {
         "id": "800306",
+        "name": "City-Forging Bulwarks",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 10% DEF Trailblazer setelah melancarkan Enhanced Basic Attack atau Ultimate, dapat ditumpuk hingga 3 lapis.",
         "materials": [
             {
                 "id": "18003",
@@ -2717,8 +2885,9 @@
     },
     "800401": {
         "id": "800401",
+        "name": "Earth-Shaking Resonance",
         "rank": 1,
-        "desc": "",
+        "desc": "Melancarkan Basic Attack/Enhanced Basic Attack akan mengakibatkan Fire DMG tambahan sebesar 25%/50% DEF Trailblazer.",
         "materials": [
             {
                 "id": "18003",
@@ -2730,8 +2899,9 @@
     },
     "800402": {
         "id": "800402",
+        "name": "Time-Defying Tenacity",
         "rank": 2,
-        "desc": "",
+        "desc": "Ketika Talent terpicu, kekuatan Shield yang diperoleh untuk seluruh rekan tim akan meningkat sebesar 2% DEF Trailblazer + 27.",
         "materials": [
             {
                 "id": "18003",
@@ -2743,8 +2913,9 @@
     },
     "800403": {
         "id": "800403",
+        "name": "Trail-Blazing Blueprint",
         "rank": 3,
-        "desc": "",
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
         "materials": [
             {
                 "id": "18003",
@@ -2765,8 +2936,9 @@
     },
     "800404": {
         "id": "800404",
+        "name": "Nation-Building Oath",
         "rank": 4,
-        "desc": "",
+        "desc": "Segera memperoleh 4 lapis \"Magma Will\" saat pertempuran dimulai.",
         "materials": [
             {
                 "id": "18003",
@@ -2778,8 +2950,9 @@
     },
     "800405": {
         "id": "800405",
+        "name": "Spirit-Warming Flame",
         "rank": 5,
-        "desc": "",
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
         "materials": [
             {
                 "id": "18003",
@@ -2804,8 +2977,9 @@
     },
     "800406": {
         "id": "800406",
+        "name": "City-Forging Bulwarks",
         "rank": 6,
-        "desc": "",
+        "desc": "Meningkatkan 10% DEF Trailblazer setelah melancarkan Enhanced Basic Attack atau Ultimate, dapat ditumpuk hingga 3 lapis.",
         "materials": [
             {
                 "id": "18003",

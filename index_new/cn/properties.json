@@ -480,16 +480,16 @@
         "type": "SpeedAddedRatio",
         "name": "速度",
         "field": "spd",
-        "add": true,
+        "affix": true,
         "ratio": true,
         "order": 100,
         "icon": "icon/property/IconSpeed.png"
     },
     "AllDamageTypeAddedRatio": {
         "type": "AllDamageTypeAddedRatio",
-        "name": "全部属性伤害提高",
+        "name": "伤害提高",
         "field": "all_dmg",
-        "add": false,
+        "affix": false,
         "ratio": true,
         "order": 101,
         "icon": "icon/property/IconAttack.png"
